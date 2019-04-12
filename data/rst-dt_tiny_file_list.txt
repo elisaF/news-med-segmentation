@@ -1,0 +1,11 @@
+wsj_0602.txt	
+wsj_0623.txt	
+wsj_0644.txt	
+wsj_1126.txt	
+wsj_1306.txt	
+wsj_1365.txt
+wsj_0607.txt	
+wsj_0632.txt	
+wsj_0654.txt	
+wsj_1148.txt	
+wsj_1325.txt

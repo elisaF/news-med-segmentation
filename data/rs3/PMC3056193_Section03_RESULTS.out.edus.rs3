@@ -1,0 +1,275 @@
+<rst>
+<header>
+	<relations>
+			<rel name="Analogy" type="multinuc"/>
+			<rel name="Cause-Result" type="multinuc"/>
+			<rel name="Comment-Topic" type="multinuc"/>
+			<rel name="Comparison" type="multinuc"/>
+			<rel name="Conclusion" type="multinuc"/>
+			<rel name="Consequence" type="multinuc"/>
+			<rel name="Contrast" type="multinuc"/>
+			<rel name="Disjunction" type="multinuc"/>
+			<rel name="Evaluation" type="multinuc"/>
+			<rel name="Interpretation" type="multinuc"/>
+			<rel name="Inverted-Sequence" type="multinuc"/>
+			<rel name="List" type="multinuc"/>
+			<rel name="Otherwise" type="multinuc"/>
+			<rel name="Problem-Solution" type="multinuc"/>
+			<rel name="Proportion" type="multinuc"/>
+			<rel name="Question-Answer" type="multinuc"/>
+			<rel name="Reason" type="multinuc"/>
+			<rel name="Same-Unit" type="multinuc"/>
+			<rel name="Sequence" type="multinuc"/>
+			<rel name="Statement-Response" type="multinuc"/>
+			<rel name="Temporal-Same-Time" type="multinuc"/>
+			<rel name="TextualOrganization" type="multinuc"/>
+			<rel name="Topic-Comment" type="multinuc"/>
+			<rel name="Topic-Drift" type="multinuc"/>
+			<rel name="Topic-Shift" type="multinuc"/>
+			<rel name="analogy-e" type="rst"/>
+			<rel name="analogy" type="rst"/>
+			<rel name="antithesis-e" type="rst"/>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution-e" type="rst"/>
+			<rel name="attribution-n-e" type="rst"/>
+			<rel name="attribution-n" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background-e" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause-e" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance-e" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="comment-e" type="rst"/>
+			<rel name="comment" type="rst"/>
+			<rel name="comparison-e" type="rst"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="concession-e" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion-e" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition-e" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="consequence-n-e" type="rst"/>
+			<rel name="consequence-n" type="rst"/>
+			<rel name="consequence-s-e" type="rst"/>
+			<rel name="consequence-s" type="rst"/>
+			<rel name="contingency-e" type="rst"/>
+			<rel name="contingency" type="rst"/>
+			<rel name="definition-e" type="rst"/>
+			<rel name="definition" type="rst"/>
+			<rel name="elaboration-additional-e" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-general-specific-e" type="rst"/>
+			<rel name="elaboration-general-specific" type="rst"/>
+			<rel name="elaboration-object-attribute-e" type="rst"/>
+			<rel name="elaboration-object-attribute" type="rst"/>
+			<rel name="elaboration-part-whole-e" type="rst"/>
+			<rel name="elaboration-part-whole" type="rst"/>
+			<rel name="elaboration-process-step-e" type="rst"/>
+			<rel name="elaboration-process-step" type="rst"/>
+			<rel name="elaboration-set-member-e" type="rst"/>
+			<rel name="elaboration-set-member" type="rst"/>
+			<rel name="enablement-e" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n-e" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s-e" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence-e" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="example-e" type="rst"/>
+			<rel name="example" type="rst"/>
+			<rel name="explanation-argumentative-e" type="rst"/>
+			<rel name="explanation-argumentative" type="rst"/>
+			<rel name="hypothetical-e" type="rst"/>
+			<rel name="hypothetical" type="rst"/>
+			<rel name="interpretation-n-e" type="rst"/>
+			<rel name="interpretation-n" type="rst"/>
+			<rel name="interpretation-s-e" type="rst"/>
+			<rel name="interpretation-s" type="rst"/>
+			<rel name="manner-e" type="rst"/>
+			<rel name="manner" type="rst"/>
+			<rel name="means-e" type="rst"/>
+			<rel name="means" type="rst"/>
+			<rel name="otherwise-e" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preference-e" type="rst"/>
+			<rel name="preference" type="rst"/>
+			<rel name="problem-solution-n-e" type="rst"/>
+			<rel name="problem-solution-n" type="rst"/>
+			<rel name="problem-solution-s-e" type="rst"/>
+			<rel name="problem-solution-s" type="rst"/>
+			<rel name="purpose-e" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question-answer-n-e" type="rst"/>
+			<rel name="question-answer-n" type="rst"/>
+			<rel name="question-answer-s-e" type="rst"/>
+			<rel name="question-answer-s" type="rst"/>
+			<rel name="reason-e" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-e" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result-e" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="rhetorical-question-e" type="rst"/>
+			<rel name="rhetorical-question" type="rst"/>
+			<rel name="statement-response-n-e" type="rst"/>
+			<rel name="statement-response-n" type="rst"/>
+			<rel name="statement-response-s-e" type="rst"/>
+			<rel name="statement-response-s" type="rst"/>
+			<rel name="summary-n-e" type="rst"/>
+			<rel name="summary-n" type="rst"/>
+			<rel name="summary-s-e" type="rst"/>
+			<rel name="summary-s" type="rst"/>
+			<rel name="temporal-after-e" type="rst"/>
+			<rel name="temporal-after" type="rst"/>
+			<rel name="temporal-before-e" type="rst"/>
+			<rel name="temporal-before" type="rst"/>
+			<rel name="temporal-same-time-e" type="rst"/>
+			<rel name="temporal-same-time" type="rst"/>
+			<rel name="topic-drift-e" type="rst"/>
+			<rel name="topic-drift" type="rst"/>
+			<rel name="topic-shift-e" type="rst"/>
+			<rel name="topic-shift" type="rst"/>
+		</relations>
+</header>
+<body>
+		<segment id="1" parent="87" relname="TextualOrganization">RESULTS</segment>
+		<segment id="2" parent="86" relname="span">A total of 209 patients were screened.</segment>
+		<segment id="3" parent="75" relname="span">Nine patients did not meet the study selection criteria ;</segment>
+		<segment id="4" parent="3" relname="cause">thus , 200 patients were recruited ,</segment>
+		<segment id="5" >with 100 patients randomized to each group.</segment>
+		<segment id="6" parent="76" relname="span">Of these , 10 dropped out of each treatment arm ,</segment>
+		<segment id="7" parent="6" relname="cause">leaving 90 completers in each group.</segment>
+		<segment id="8" parent="81" relname="span">Reasons for drop out included adverse events</segment>
+		<segment id="9" >(n = 12) ,</segment>
+		<segment id="10" parent="78" relname="span">inefficacy</segment>
+		<segment id="11" parent="10" relname="restatement-e">(n = 6) ,</segment>
+		<segment id="12" parent="79" relname="span">and withdrawal of consent</segment>
+		<segment id="13" parent="12" relname="restatement-e">(n = 2).</segment>
+		<segment id="14" parent="81" relname="elaboration-additional">The reason for drop out could not be ascertained in one patient.</segment>
+		<segment id="15" parent="84" relname="span">The sociodemographic and clinical description of the sample is presented in Table 1.</segment>
+		<segment id="16" parent="15" relname="elaboration-additional">The sample was relatively young and predominantly male.</segment>
+		<segment id="17" parent="15" relname="elaboration-additional">The groups were comparable at baseline on all sociodemographic and clinical variables.</segment>
+		<segment id="18" parent="85" relname="span">Table 1</segment>
+		<segment id="19" parent="18" relname="summary-s">Sociodemographic and clinical description of the sample *</segment>
+		<segment id="20" parent="89" relname="span">At the 6-week study endpoint , the mean</segment>
+		<segment id="21" parent="20" relname="restatement-e">(standard deviation)</segment>
+		<segment id="22" parent="90" relname="span">dose of PB was 250.8</segment>
+		<segment id="23" parent="22" relname="restatement-e">(37.4)</segment>
+		<segment id="24" parent="91" relname="span">and that of sertraline was 110.5</segment>
+		<segment id="25" parent="24" relname="restatement-e">(26.9).</segment>
+		<segment id="26" parent="95" relname="span">The mean HAM-D scores across the course of the study are presented in Figure 1.</segment>
+		<segment id="27" parent="95" relname="elaboration-additional">There were no significant differences in HAM-D ratings between groups either at baseline or at any assessment point afterwards.</segment>
+		<segment id="28" parent="101" relname="span">The primary outcome ,</segment>
+		<segment id="29" >improvement in HAM-D scores between baseline and endpoint ,</segment>
+		<segment id="30" >was significant for both PB</segment>
+		<segment id="31" parent="28" relname="elaboration-additional-e">(P &lt; 0.001)</segment>
+		<segment id="32" parent="100" relname="span">and sertraline</segment>
+		<segment id="33" parent="32" relname="elaboration-additional-e">(P &lt; 0.001)</segment>
+		<segment id="34" parent="96" relname="Same-Unit">groups ;</segment>
+		<segment id="35" parent="99" relname="span">in fact , there was statistically significant improvement in HAM-D scores at the first</segment>
+		<segment id="36" parent="37" relname="elaboration-object-attribute-e">(2-week)</segment>
+		<segment id="37" parent="98" relname="span">follow up , itself</segment>
+		<segment id="38" parent="102" relname="elaboration-additional-e">(P &lt; 0.01 for each group) ,</segment>
+		<segment id="39" parent="103" relname="Same-Unit">indicating robust , early improvement with treatment.</segment>
+		<segment id="40" parent="108" relname="span">Figure 1</segment>
+		<segment id="41" parent="40" relname="restatement">Mean HAM-D scores during the course of the study in placeboxetine and sertraline groups</segment>
+		<segment id="42" parent="118" relname="span">Similar results were obtained with the MADRS assessments</segment>
+		<segment id="43" >[Figure 2].</segment>
+		<segment id="44" parent="113" relname="span">There was no difference between groups at baseline ,</segment>
+		<segment id="45" >there was significant improvement in each group at the end of weeks 2</segment>
+		<segment id="46" parent="44" relname="elaboration-additional-e">(P &lt; 0.01)</segment>
+		<segment id="47" parent="114" relname="span">and 6</segment>
+		<segment id="48" parent="47" relname="elaboration-additional-e">(P &lt; 0.001) ,</segment>
+		<segment id="49" parent="115" relname="Comparison">and there were no significant differences between groups at any follow up visit.</segment>
+		<segment id="50" parent="119" relname="span">Figure 2</segment>
+		<segment id="51" parent="50" relname="restatement">Mean MADRS scores during the course of the study in placeboxetine and sertraline groups</segment>
+		<segment id="52" parent="120" relname="Comparison">The response rate was 90 % with PB and 92 % with sertraline.</segment>
+		<segment id="53" parent="120" relname="Comparison">The remission rate was 70 % with PB and 75 % with sertraline.</segment>
+		<segment id="54" parent="121" relname="evaluation-s">The two groups did not differ significantly on either measure</segment>
+		<segment id="55" >[Table 2].</segment>
+		<segment id="56" parent="123" relname="span">Table 2</segment>
+		<segment id="57" parent="56" relname="restatement">Response and remission rates with placeboxetine and sertraline *</segment>
+		<segment id="58" parent="128" relname="span">Table 3 presents adverse events</segment>
+		<segment id="59" parent="58" relname="elaboration-object-attribute-e">that were reported by at least 2 % of the patients in either group during the course of the study.</segment>
+		<segment id="60" parent="130" relname="Topic-Drift">Both drugs were well tolerated.</segment>
+		<segment id="61" parent="130" relname="Topic-Drift">Most of the adverse events occurred early during the course of the study.</segment>
+		<segment id="62" parent="130" relname="Topic-Drift">All adverse events recorded were transient and mild to moderate in severity.</segment>
+		<segment id="63" parent="64" relname="concession">PB was associated with significantly less nausea and headache than sertraline ;</segment>
+		<segment id="64" parent="129" relname="span">otherwise , adverse events did not differ significantly between the two groups.</segment>
+		<segment id="65" parent="131" relname="conclusion">There were no serious adverse events during the study.</segment>
+		<segment id="66" parent="126" relname="span">Table 3</segment>
+		<segment id="67" parent="66" relname="restatement">Adverse events reported by at least 2 % of the patients in either group *</segment>
+		<segment id="68" parent="135" relname="Topic-Drift">There were no significant changes in heart rate or blood pressure at any time point.</segment>
+		<segment id="69" parent="135" relname="Topic-Drift">There were no abnormalities identified in the EKG or in any of the hematological and biochemical parameters studied.</segment>
+		<segment id="70" parent="136" relname="span">Metabolic parameters are presented in Table 4.</segment>
+		<segment id="71" parent="70" relname="elaboration-additional">There were no differences in metabolic parameters between groups at either baseline or endpoint , nor between baseline and endpoint in either group.</segment>
+		<segment id="72" parent="127" relname="span">Table 4</segment>
+		<segment id="73" parent="72" relname="restatement">Metabolic parameters at baseline and endpoint in placeboxetine and sertraline groups *</segment>
+		<group id="74" type="span" parent="2" relname="elaboration-additional"/>
+		<group id="75" type="span" parent="74" relname="span"/>
+		<group id="76" type="span" parent="83" relname="span"/>
+		<group id="78" type="span" parent="80" relname="Same-Unit"/>
+		<group id="79" type="span" parent="80" relname="Same-Unit"/>
+		<group id="80" type="multinuc" parent="8" relname="elaboration-set-member"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="82" type="span" parent="76" relname="result"/>
+		<group id="83" type="span" parent="75" relname="elaboration-additional"/>
+		<group id="84" type="span" parent="85" relname="summary-s"/>
+		<group id="85" type="span" parent="94" relname="span"/>
+		<group id="86" type="span" parent="93" relname="Topic-Shift"/>
+		<group id="87" type="multinuc" />
+		<group id="88" type="multinuc" parent="92" relname="Contrast"/>
+		<group id="89" type="span" parent="88" relname="Same-Unit"/>
+		<group id="90" type="span" parent="88" relname="Same-Unit"/>
+		<group id="91" type="span" parent="92" relname="Contrast"/>
+		<group id="92" type="multinuc" parent="93" relname="Topic-Shift"/>
+		<group id="93" type="multinuc" parent="87" relname="TextualOrganization"/>
+		<group id="94" type="span" parent="74" relname="elaboration-additional"/>
+		<group id="95" type="span" parent="105" relname="span"/>
+		<group id="96" type="multinuc" parent="106" relname="span"/>
+		<group id="97" type="multinuc" parent="102" relname="span"/>
+		<group id="98" type="span" parent="97" relname="Same-Unit"/>
+		<group id="99" type="span" parent="97" relname="Same-Unit"/>
+		<group id="100" type="span" parent="96" relname="Same-Unit"/>
+		<group id="101" type="span" parent="96" relname="Same-Unit"/>
+		<group id="102" type="span" parent="104" relname="span"/>
+		<group id="103" type="multinuc" parent="106" relname="elaboration-additional"/>
+		<group id="104" type="span" parent="103" relname="Same-Unit"/>
+		<group id="105" type="span" parent="109" relname="Topic-Drift"/>
+		<group id="106" type="span" parent="107" relname="span"/>
+		<group id="107" type="span" parent="109" relname="Topic-Drift"/>
+		<group id="108" type="span" parent="110" relname="summary-s"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="111" type="span" parent="125" relname="Topic-Drift"/>
+		<group id="112" type="multinuc" parent="115" relname="Comparison"/>
+		<group id="113" type="span" parent="112" relname="Same-Unit"/>
+		<group id="114" type="span" parent="112" relname="Same-Unit"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="117" type="span" parent="42" relname="explanation-argumentative"/>
+		<group id="118" type="span" parent="125" relname="Topic-Drift"/>
+		<group id="119" type="span" parent="116" relname="summary-s"/>
+		<group id="120" type="multinuc" parent="121" relname="span"/>
+		<group id="121" type="span" parent="122" relname="span"/>
+		<group id="122" type="span" parent="124" relname="span"/>
+		<group id="123" type="span" parent="122" relname="summary-s"/>
+		<group id="124" type="span" parent="93" relname="Topic-Shift"/>
+		<group id="125" type="multinuc" parent="93" relname="Topic-Shift"/>
+		<group id="126" type="span" parent="133" relname="summary-s"/>
+		<group id="127" type="span" parent="136" relname="summary-s"/>
+		<group id="128" type="span" parent="133" relname="span"/>
+		<group id="129" type="span" parent="130" relname="Topic-Drift"/>
+		<group id="130" type="multinuc" parent="131" relname="span"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="132" type="span" parent="128" relname="elaboration-additional"/>
+		<group id="133" type="span" parent="134" relname="span"/>
+		<group id="134" type="span" parent="93" relname="Topic-Shift"/>
+		<group id="135" type="multinuc" parent="93" relname="Topic-Shift"/>
+		<group id="136" type="span" parent="137" relname="span"/>
+		<group id="137" type="span" parent="135" relname="Topic-Drift"/>
+  </body>
+</rst>

@@ -1,0 +1,645 @@
+0	1	RESULTS	result	NNS	nsubjpass	8	O	 (ROOT (S (NP (NP (NP (NNS RESULTS))	1
+0	2	A	a	DT	det	3	O	 (NP (DT A)	1
+0	3	total	total	NN	dep	1	O	 (NN total)))	1
+0	4	of	of	IN	case	6	O	 (PP (IN of)	1
+0	5	209	209	CD	nummod	6	NUMBER	 (NP (CD 209)	1
+0	6	patients	patient	NNS	nmod	1	O	 (NNS patients))))	1
+0	7	were	be	VBD	auxpass	8	O	 (VP (VBD were)	1
+0	8	screened	screen	VBN	root	0	O	 (VP (VBN screened)))	1
+0	9	.	.	.	punct	8	O	 (. .)))	1
+
+1	1	Nine	nine	CD	nummod	2	NUMBER	 (ROOT (S (S (NP (CD Nine)	2
+1	2	patients	patient	NNS	nsubj	5	O	 (NNS patients))	2
+1	3	did	do	VBD	aux	5	O	 (VP (VBD did)	2
+1	4	not	not	RB	neg	5	O	 (RB not)	2
+1	5	meet	meet	VB	root	0	O	 (VP (VB meet)	2
+1	6	the	the	DT	det	9	O	 (NP (DT the)	2
+1	7	study	study	NN	compound	9	O	 (NN study)	2
+1	8	selection	selection	NN	compound	9	O	 (NN selection)	2
+1	9	criteria	criterion	NNS	dobj	5	O	 (NNS criteria)))))	2
+1	10	;	;	:	punct	5	O	 (: ;)	3
+1	11	thus	thus	RB	advmod	16	O	 (S (ADVP (RB thus))	4
+1	12	,	,	,	punct	16	O	 (, ,)	4
+1	13	200	200	CD	nummod	14	NUMBER	 (NP (CD 200)	4
+1	14	patients	patient	NNS	nsubjpass	16	O	 (NNS patients))	4
+1	15	were	be	VBD	auxpass	16	O	 (VP (VBD were)	4
+1	16	recruited	recruit	VBN	parataxis	5	O	 (VP (VBN recruited)	4
+1	17	,	,	,	punct	16	O	 (, ,)	4
+1	18	with	with	IN	case	20	O	 (PP (IN with)	4
+1	19	100	100	CD	nummod	20	NUMBER	 (NP (NP (CD 100)	4
+1	20	patients	patient	NNS	nmod	16	O	 (NNS patients))	4
+1	21	randomized	randomize	VBN	acl	20	O	 (VP (VBN randomized)	5
+1	22	to	to	TO	case	24	O	 (PP (TO to)	5
+1	23	each	each	DT	det	24	O	 (NP (DT each)	5
+1	24	group	group	NN	nmod	21	O	 (NN group)))))))))	5
+1	25	.	.	.	punct	5	O	 (. .)))	5
+
+2	1	Of	of	IN	case	2	O	 (ROOT (S (PP (IN Of)	6
+2	2	these	these	DT	nmod	5	O	 (NP (DT these)))	6
+2	3	,	,	,	punct	5	O	 (, ,)	6
+2	4	10	10	CD	nsubj	5	NUMBER	 (NP (CD 10))	6
+2	5	dropped	drop	VBD	root	0	O	 (VP (VBD dropped)	6
+2	6	out	out	IN	advmod	5	O	 (ADVP (IN out))	7
+2	7	of	of	IN	case	10	O	 (PP (IN of)	7
+2	8	each	each	DT	det	10	O	 (NP (DT each)	7
+2	9	treatment	treatment	NN	compound	10	O	 (NN treatment)	7
+2	10	arm	arm	NN	nmod	5	O	 (NN arm)))	7
+2	11	,	,	,	punct	5	O	 (, ,)	7
+2	12	leaving	leave	VBG	xcomp	5	O	 (S (VP (VBG leaving)	7
+2	13	90	90	CD	nummod	14	NUMBER	 (NP (NP (CD 90)	7
+2	14	completers	completer	NNS	dobj	12	O	 (NNS completers))	7
+2	15	in	in	IN	case	17	O	 (PP (IN in)	7
+2	16	each	each	DT	det	17	O	 (NP (DT each)	7
+2	17	group	group	NN	nmod	14	O	 (NN group)))))))	7
+2	18	.	.	.	punct	5	O	 (. .)))	7
+
+3	1	Reasons	reason	NNS	root	0	O	 (ROOT (NP (NP (NP (NNS Reasons))	8
+3	2	for	for	IN	case	3	O	 (PP (IN for)	8
+3	3	drop	drop	NN	nmod	1	O	 (NP (NN drop))))	8
+3	4	out	out	IN	advmod	5	O	 (VP (ADVP (IN out))	8
+3	5	included	include	VBN	acl	1	O	 (VBN included)	9
+3	6	adverse	adverse	JJ	amod	7	O	 (NP (NP (NP (NP (JJ adverse)	9
+3	7	events	event	NNS	dobj	5	O	 (NNS events))	9
+3	8	-LRB-	-lrb-	-LRB-	punct	10	O	 (PRN (-LRB- -LRB-)	10
+3	9	n	n	NN	dep	10	O	 (S (NP (NN n))	10
+3	10	=	=	JJ	dep	7	O	 (ADJP (JJ =)	10
+3	11	12	12	CD	nmod:tmod	10	NUMBER	 (NP-TMP (CD 12))))	10
+3	12	-RRB-	-rrb-	-RRB-	punct	10	O	 (-RRB- -RRB-)))	10
+3	13	,	,	,	punct	7	O	 (, ,)	10
+3	14	inefficacy	inefficacy	NN	conj	7	O	 (NP (NP (NN inefficacy))	11
+3	15	-LRB-	-lrb-	-LRB-	punct	17	O	 (PRN (-LRB- -LRB-)	12
+3	16	n	n	NN	dep	17	O	 (S (NP (NN n))	12
+3	17	=	=	JJ	dep	14	O	 (ADJP (JJ =)	12
+3	18	6	6	CD	nmod:tmod	17	NUMBER	 (NP-TMP (CD 6))))	12
+3	19	-RRB-	-rrb-	-RRB-	punct	17	O	 (-RRB- -RRB-)))	12
+3	20	,	,	,	punct	7	O	 (, ,)	12
+3	21	and	and	CC	cc	7	O	 (CC and)	13
+3	22	withdrawal	withdrawal	NN	conj	7	O	 (NP (NP (NN withdrawal))	13
+3	23	of	of	IN	case	24	O	 (PP (IN of)	13
+3	24	consent	consent	NN	nmod	22	O	 (NP (NN consent)))))	13
+3	25	-LRB-	-lrb-	-LRB-	punct	27	O	 (PRN (-LRB- -LRB-)	14
+3	26	n	n	NN	dep	27	O	 (S (NP (NN n))	14
+3	27	=	=	JJ	dep	7	O	 (ADJP (JJ =)	14
+3	28	2	2	CD	nmod:tmod	27	NUMBER	 (NP-TMP (CD 2))))	14
+3	29	-RRB-	-rrb-	-RRB-	punct	27	O	 (-RRB- -RRB-))))	14
+3	30	.	.	.	punct	1	O	 (. .)))	14
+
+4	1	The	the	DT	det	2	O	 (ROOT (S (NP (NP (DT The)	15
+4	2	reason	reason	NN	nsubjpass	9	O	 (NN reason))	15
+4	3	for	for	IN	case	4	O	 (PP (IN for)	15
+4	4	drop	drop	NN	nmod	2	O	 (NP (NN drop))))	15
+4	5	out	out	RP	advmod	9	O	 (ADVP (RP out))	15
+4	6	could	could	MD	aux	9	O	 (VP (MD could)	15
+4	7	not	not	RB	neg	9	O	 (RB not)	15
+4	8	be	be	VB	auxpass	9	O	 (VP (VB be)	15
+4	9	ascertained	ascertain	VBN	root	0	O	 (VP (VBN ascertained)	15
+4	10	in	in	IN	case	12	O	 (PP (IN in)	15
+4	11	one	one	CD	nummod	12	NUMBER	 (NP (CD one)	15
+4	12	patient	patient	NN	nmod	9	O	 (NN patient))))))	15
+4	13	.	.	.	punct	9	O	 (. .)))	15
+
+5	1	The	the	DT	det	5	O	 (ROOT (S (NP (NP (DT The)	16
+5	2	sociodemographic	sociodemographic	JJ	amod	5	O	 (JJ sociodemographic)	16
+5	3	and	and	CC	cc	2	O	 (CC and)	16
+5	4	clinical	clinical	JJ	conj	2	O	 (JJ clinical)	16
+5	5	description	description	NN	nsubjpass	10	O	 (NN description))	16
+5	6	of	of	IN	case	8	O	 (PP (IN of)	16
+5	7	the	the	DT	det	8	O	 (NP (DT the)	16
+5	8	sample	sample	NN	nmod	5	O	 (NN sample))))	16
+5	9	is	be	VBZ	auxpass	10	O	 (VP (VBZ is)	16
+5	10	presented	present	VBN	root	0	O	 (VP (VBN presented)	16
+5	11	in	in	IN	case	12	O	 (PP (IN in)	16
+5	12	Table	Table	NNP	nmod	10	O	 (NP (NNP Table)	16
+5	13	1	1	CD	nummod	12	NUMBER	 (CD 1)))))	16
+5	14	.	.	.	punct	10	O	 (. .)))	16
+
+6	1	The	the	DT	det	2	O	 (ROOT (S (NP (DT The)	17
+6	2	sample	sample	NN	nsubj	5	O	 (NN sample))	17
+6	3	was	be	VBD	cop	5	O	 (VP (VBD was)	17
+6	4	relatively	relatively	RB	advmod	5	O	 (ADJP (ADJP (RB relatively)	17
+6	5	young	young	JJ	root	0	O	 (JJ young))	17
+6	6	and	and	CC	cc	5	O	 (CC and)	18
+6	7	predominantly	predominantly	RB	advmod	8	O	 (ADJP (RB predominantly)	18
+6	8	male	male	JJ	conj	5	O	 (JJ male))))	18
+6	9	.	.	.	punct	5	O	 (. .)))	18
+
+7	1	The	the	DT	det	2	O	 (ROOT (S (NP (DT The)	19
+7	2	groups	group	NNS	nsubj	4	O	 (NNS groups))	19
+7	3	were	be	VBD	cop	4	O	 (VP (VBD were)	19
+7	4	comparable	comparable	JJ	root	0	O	 (ADJP (JJ comparable)	19
+7	5	at	at	IN	case	6	O	 (PP (IN at)	19
+7	6	baseline	baseline	NN	nmod	4	O	 (NP (NN baseline))))	19
+7	7	on	on	IN	case	12	O	 (PP (IN on)	19
+7	8	all	all	DT	det	12	O	 (NP (DT all)	19
+7	9	sociodemographic	sociodemographic	JJ	amod	12	O	 (JJ sociodemographic)	19
+7	10	and	and	CC	cc	9	O	 (CC and)	19
+7	11	clinical	clinical	JJ	conj	9	O	 (JJ clinical)	19
+7	12	variables	variable	NNS	nmod	4	O	 (NNS variables))))	19
+7	13	.	.	.	punct	4	O	 (. .)))	19
+
+8	1	Table	Table	NNP	root	0	O	 (ROOT (FRAG (NP (NP (NP (NNP Table)	20
+8	2	1	1	CD	nummod	1	NUMBER	 (CD 1))	20
+8	3	Sociodemographic	Sociodemographic	NNP	appos	1	O	 (NP (NNP Sociodemographic)))	20
+8	4	and	and	CC	cc	1	O	 (CC and)	20
+8	5	clinical	clinical	JJ	amod	6	O	 (NP (NP (JJ clinical)	20
+8	6	description	description	NN	conj	1	O	 (NN description))	20
+8	7	of	of	IN	case	9	O	 (PP (IN of)	20
+8	8	the	the	DT	det	9	O	 (NP (DT the)	20
+8	9	sample	sample	NN	nmod	6	O	 (NN sample)))))	20
+8	10	*	*	SYM	dep	27	O	 (SBAR (SBAR (X (SYM *))	20
+8	11	At	at	IN	case	15	O	 (S (PP (IN At)	20
+8	12	the	the	DT	det	15	O	 (NP (DT the)	20
+8	13	6-week	6-week	JJ	amod	15	DURATION	 (JJ 6-week)	20
+8	14	study	study	NN	compound	15	O	 (NN study)	20
+8	15	endpoint	endpoint	NN	nmod	27	O	 (NN endpoint)))	20
+8	16	,	,	,	punct	27	O	 (, ,)	20
+8	17	the	the	DT	det	23	O	 (NP (NP (DT the)	20
+8	18	mean	mean	NN	compound	23	O	 (NN mean)	20
+8	19	-LRB-	-lrb-	-LRB-	punct	21	O	 (PRN (-LRB- -LRB-)	21
+8	20	standard	standard	JJ	amod	21	O	 (NP (JJ standard)	21
+8	21	deviation	deviation	NN	appos	23	O	 (NN deviation))	21
+8	22	-RRB-	-rrb-	-RRB-	punct	21	O	 (-RRB- -RRB-))	21
+8	23	dose	dose	NN	nsubj	27	O	 (NN dose))	21
+8	24	of	of	IN	case	25	O	 (PP (IN of)	21
+8	25	PB	pb	NN	nmod	23	O	 (NP (NN PB))))	21
+8	26	was	be	VBD	cop	27	O	 (VP (VBD was)	21
+8	27	250.8	250.8	CD	dep	1	NUMBER	 (NP (NP (CD 250.8))	21
+8	28	-LRB-	-lrb-	-LRB-	punct	29	O	 (PRN (-LRB- -LRB-)	22
+8	29	37.4	37.4	CD	appos	27	NUMBER	 (NP (CD 37.4))	22
+8	30	-RRB-	-rrb-	-RRB-	punct	29	O	 (-RRB- -RRB-))))))	22
+8	31	and	and	CC	cc	27	O	 (CC and)	22
+8	32	that	that	IN	dep	35	O	 (SBAR (IN that)	22
+8	33	of	of	IN	case	34	O	 (SINV (PP (IN of)	22
+8	34	sertraline	sertraline	NN	nmod	35	O	 (NP (NN sertraline)))	22
+8	35	was	be	VBD	conj	27	O	 (VP (VBD was))	22
+8	36	110.5	110.5	CD	nsubj	35	NUMBER	 (NP (NP (CD 110.5))	22
+8	37	-LRB-	-lrb-	-LRB-	punct	38	O	 (PRN (-LRB- -LRB-)	23
+8	38	26.9	26.9	CD	dep	36	NUMBER	 (NP (QP (CD 26.9)))	23
+8	39	-RRB-	-rrb-	-RRB-	punct	38	O	 (-RRB- -RRB-)))	23
+8	40	.	.	.	punct	35	O	 (. .))))))	23
+
+9	1	The	the	DT	det	4	O	 (ROOT (S (NP (NP (DT The)	24
+9	2	mean	mean	NN	compound	4	O	 (NN mean)	24
+9	3	HAM-D	ham-d	NN	compound	4	O	 (NN HAM-D)	24
+9	4	scores	score	NNS	nsubjpass	12	O	 (NNS scores))	24
+9	5	across	across	IN	case	7	O	 (PP (IN across)	24
+9	6	the	the	DT	det	7	O	 (NP (NP (DT the)	24
+9	7	course	course	NN	nmod	4	O	 (NN course))	24
+9	8	of	of	IN	case	10	O	 (PP (IN of)	24
+9	9	the	the	DT	det	10	O	 (NP (DT the)	24
+9	10	study	study	NN	nmod	7	O	 (NN study))))))	24
+9	11	are	be	VBP	auxpass	12	O	 (VP (VBP are)	24
+9	12	presented	present	VBN	root	0	O	 (VP (VBN presented)	24
+9	13	in	in	IN	case	14	O	 (PP (IN in)	25
+9	14	Figure	Figure	NNP	nmod	12	O	 (NP (NNP Figure)	25
+9	15	1	1	CD	nummod	14	NUMBER	 (CD 1)))))	25
+9	16	.	.	.	punct	12	O	 (. .)))	25
+
+10	1	There	there	EX	expl	2	O	 (ROOT (S (NP (EX There))	26
+10	2	were	be	VBD	root	0	O	 (VP (VBD were)	26
+10	3	no	no	DT	neg	5	O	 (NP (NP (DT no)	26
+10	4	significant	significant	JJ	amod	5	O	 (JJ significant)	26
+10	5	differences	difference	NNS	nsubj	2	O	 (NNS differences))	26
+10	6	in	in	IN	case	8	O	 (PP (PP (IN in)	26
+10	7	HAM-D	ham-d	NN	compound	8	O	 (NP (NP (NN HAM-D)	26
+10	8	ratings	rating	NNS	nmod	5	O	 (NNS ratings))	26
+10	9	between	between	IN	case	10	O	 (PP (IN between)	26
+10	10	groups	group	NNS	nmod	8	O	 (NP (NNS groups)))))	26
+10	11	either	either	CC	cc:preconj	8	O	 (CC either)	26
+10	12	at	at	IN	case	13	O	 (PP (IN at)	26
+10	13	baseline	baseline	NN	conj	8	O	 (NP (NN baseline)))	26
+10	14	or	or	CC	cc	8	O	 (CC or)	26
+10	15	at	at	IN	case	18	O	 (PP (IN at)	26
+10	16	any	any	DT	det	18	O	 (NP (DT any)	26
+10	17	assessment	assessment	NN	compound	18	O	 (NN assessment)	26
+10	18	point	point	NN	conj	8	O	 (NN point))	26
+10	19	afterwards	afterwards	RB	advmod	18	O	 (ADVP (RB afterwards))))))	26
+10	20	.	.	.	punct	2	O	 (. .)))	26
+
+11	1	The	the	DT	det	3	O	 (ROOT (S (S (NP (NP (DT The)	27
+11	2	primary	primary	JJ	amod	3	O	 (JJ primary)	27
+11	3	outcome	outcome	NN	nsubj	31	O	 (NN outcome))	27
+11	4	,	,	,	punct	3	O	 (, ,)	27
+11	5	improvement	improvement	NN	appos	3	O	 (NP (NP (NN improvement))	27
+11	6	in	in	IN	case	8	O	 (PP (IN in)	27
+11	7	HAM-D	ham-d	NN	compound	8	O	 (NP (NP (NN HAM-D)	27
+11	8	scores	score	NNS	nmod	5	O	 (NNS scores))	27
+11	9	between	between	IN	case	10	O	 (PP (IN between)	27
+11	10	baseline	baseline	NN	nmod	8	O	 (NP (NN baseline)	27
+11	11	and	and	CC	cc	10	O	 (CC and)	27
+11	12	endpoint	endpoint	NN	conj	10	O	 (NN endpoint))))))	27
+11	13	,	,	,	punct	3	O	 (, ,))	27
+11	14	was	be	VBD	cop	31	O	 (VP (VBD was)	27
+11	15	significant	significant	JJ	amod	31	O	 (NP (ADJP (JJ significant)	27
+11	16	for	for	IN	case	18	O	 (PP (IN for)	27
+11	17	both	both	DT	det	18	O	 (NP (NP (DT both)	27
+11	18	PB	pb	NN	nmod	15	O	 (NN PB))	27
+11	19	-LRB-	-lrb-	-LRB-	punct	20	O	 (PRN (-LRB- -LRB-)	28
+11	20	P	p	NN	dep	18	O	 (NP (NP (NN P))	28
+11	21	<	<	JJR	dep	20	O	 (NP (NP (JJR <))	28
+11	22	0.001	0.001	CD	dep	21	NUMBER	 (NP (CD 0.001))))	28
+11	23	-RRB-	-rrb-	-RRB-	punct	20	O	 (-RRB- -RRB-))	28
+11	24	and	and	CC	cc	18	O	 (CC and)	29
+11	25	sertraline	sertraline	NN	conj	18	O	 (NP (NN sertraline))	29
+11	26	-LRB-	-lrb-	-LRB-	punct	27	O	 (PRN (-LRB- -LRB-)	30
+11	27	P	p	NN	dep	18	O	 (NP (NP (NN P))	30
+11	28	<	<	JJR	dep	27	O	 (NP (NP (JJR <))	30
+11	29	0.001	0.001	CD	dep	28	NUMBER	 (NP (CD 0.001))))	30
+11	30	-RRB-	-rrb-	-RRB-	punct	27	O	 (-RRB- -RRB-)))))	30
+11	31	groups	group	NNS	root	0	O	 (NNS groups))))	31
+11	32	;	;	:	punct	31	O	 (: ;)	31
+11	33	in	in	IN	case	34	O	 (S (PP (IN in)	32
+11	34	fact	fact	NN	nmod	37	O	 (NP (NN fact)))	32
+11	35	,	,	,	punct	37	O	 (, ,)	32
+11	36	there	there	EX	expl	37	O	 (NP (EX there))	32
+11	37	was	be	VBD	parataxis	31	O	 (VP (VBD was)	32
+11	38	statistically	statistically	RB	advmod	39	O	 (ADJP (RB statistically)	32
+11	39	significant	significant	JJ	xcomp	37	O	 (JJ significant)	32
+11	40	improvement	improvement	NN	nsubj	50	O	 (SBAR (S (NP (NP (NN improvement))	32
+11	41	in	in	IN	case	43	O	 (PP (IN in)	32
+11	42	HAM-D	ham-d	NN	compound	43	O	 (NP (NP (NN HAM-D)	32
+11	43	scores	score	NNS	nmod	40	O	 (NNS scores))	32
+11	44	at	at	IN	case	46	O	 (PP (IN at)	32
+11	45	the	the	DT	det	46	O	 (NP (NP (DT the)	32
+11	46	first	first	JJ	nmod	43	ORDINAL	 (JJ first))	32
+11	47	-LRB-	-lrb-	-LRB-	punct	48	O	 (PRN (-LRB- -LRB-)	33
+11	48	2-week	2-week	JJ	dep	46	DURATION	 (ADJP (JJ 2-week))	33
+11	49	-RRB-	-rrb-	-RRB-	punct	48	O	 (-RRB- -RRB-)))))))	33
+11	50	follow	follow	VBP	ccomp	39	O	 (VP (VBP follow)	33
+11	51	up	up	RP	compound:prt	50	O	 (PRT (RP up))))))	33
+11	52	,	,	,	punct	37	O	 (, ,)	33
+11	53	itself	itself	PRP	nsubj	37	O	 (NP (NP (NP (PRP itself))	33
+11	54	-LRB-	-lrb-	-LRB-	punct	55	O	 (PRN (-LRB- -LRB-)	34
+11	55	P	p	NN	dep	53	O	 (NP (NP (NN P))	34
+11	56	<	<	JJR	dep	55	O	 (NP (NP (JJR <))	34
+11	57	0.01	0.01	CD	dep	56	NUMBER	 (NP (NP (CD 0.01))	34
+11	58	for	for	IN	case	60	O	 (PP (IN for)	34
+11	59	each	each	DT	det	60	O	 (NP (DT each)	34
+11	60	group	group	NN	nmod	57	O	 (NN group))))))	34
+11	61	-RRB-	-rrb-	-RRB-	punct	55	O	 (-RRB- -RRB-)))	34
+11	62	,	,	,	punct	53	O	 (, ,)	34
+11	63	indicating	indicate	VBG	acl	53	O	 (VP (VBG indicating)	35
+11	64	robust	robust	JJ	amod	67	O	 (NP (NP (JJ robust)	35
+11	65	,	,	,	punct	67	O	 (, ,)	35
+11	66	early	early	JJ	amod	67	O	 (JJ early)	35
+11	67	improvement	improvement	NN	dobj	63	O	 (NN improvement))	35
+11	68	with	with	IN	case	69	O	 (PP (IN with)	35
+11	69	treatment	treatment	NN	nmod	67	O	 (NP (NN treatment))))))))	35
+11	70	.	.	.	punct	31	O	 (. .)))	35
+
+12	1	Figure	Figure	NNP	dep	5	O	 (ROOT (S (S (VP (NNP Figure)	36
+12	2	1	1	CD	nummod	5	NUMBER	 (NP (CD 1)	36
+12	3	Mean	mean	NN	compound	5	O	 (NN Mean)	36
+12	4	HAM-D	ham-d	NN	compound	5	O	 (NN HAM-D)	36
+12	5	scores	score	NNS	dep	20	O	 (NNS scores))	36
+12	6	during	during	IN	case	8	O	 (PP (IN during)	36
+12	7	the	the	DT	det	8	O	 (NP (NP (DT the)	36
+12	8	course	course	NN	nmod	5	O	 (NN course))	36
+12	9	of	of	IN	case	11	O	 (PP (IN of)	36
+12	10	the	the	DT	det	11	O	 (NP (NP (DT the)	36
+12	11	study	study	NN	nmod	8	O	 (NN study))	36
+12	12	in	in	IN	case	16	O	 (PP (IN in)	36
+12	13	placeboxetine	placeboxetine	NN	compound	16	O	 (NP (NN placeboxetine)	36
+12	14	and	and	CC	cc	13	O	 (CC and)	36
+12	15	sertraline	sertraline	NN	conj	13	O	 (NN sertraline)	36
+12	16	groups	group	NNS	nmod	11	O	 (NNS groups)))))))))	36
+12	17	Similar	similar	JJ	amod	18	O	 (NP (JJ Similar)	36
+12	18	results	result	NNS	nsubjpass	20	O	 (NNS results))	36
+12	19	were	be	VBD	auxpass	20	O	 (VP (VBD were)	36
+12	20	obtained	obtain	VBN	root	0	O	 (VP (VBN obtained)	36
+12	21	with	with	IN	case	26	O	 (PP (IN with)	36
+12	22	the	the	DT	det	26	O	 (NP (NP (DT the)	36
+12	23	MADRS	madrs	NN	compound	26	O	 (NN MADRS)	36
+12	24	assessments	assessment	NNS	compound	26	O	 (NNS assessments)	36
+12	25	-LSB-	-lsb-	-LRB-	punct	26	O	 (-LRB- -LSB-)	37
+12	26	Figure	figure	NN	nmod	20	O	 (NN Figure))	37
+12	27	2	2	CD	amod	26	NUMBER	 (ADJP (CD 2)	37
+12	28	-RSB-	-rsb-	-RRB-	punct	27	O	 (-RRB- -RSB-))))))	37
+12	29	.	.	.	punct	20	O	 (. .)))	37
+
+13	1	There	there	EX	expl	2	O	 (ROOT (S (S (NP (EX There))	38
+13	2	was	be	VBD	root	0	O	 (VP (VBD was)	38
+13	3	no	no	DT	neg	4	O	 (NP (NP (DT no)	38
+13	4	difference	difference	NN	nsubj	2	O	 (NN difference))	38
+13	5	between	between	IN	case	6	O	 (PP (IN between)	38
+13	6	groups	group	NNS	nmod	4	O	 (NP (NP (NNS groups))	38
+13	7	at	at	IN	case	8	O	 (PP (IN at)	38
+13	8	baseline	baseline	NN	nmod	6	O	 (NP (NN baseline))))))))	38
+13	9	,	,	,	punct	11	O	 (PRN (, ,)	38
+13	10	there	there	EX	expl	11	O	 (S (NP (EX there))	38
+13	11	was	be	VBD	dep	2	O	 (VP (VBD was)	38
+13	12	significant	significant	JJ	amod	13	O	 (NP (NP (JJ significant)	38
+13	13	improvement	improvement	NN	nsubj	11	O	 (NN improvement))	38
+13	14	in	in	IN	case	16	O	 (PP (IN in)	38
+13	15	each	each	DT	det	16	O	 (NP (NP (DT each)	38
+13	16	group	group	NN	nmod	13	O	 (NN group))	38
+13	17	at	at	IN	case	19	O	 (PP (IN at)	38
+13	18	the	the	DT	det	19	DURATION	 (NP (NP (DT the)	38
+13	19	end	end	NN	nmod	16	DURATION	 (NN end))	38
+13	20	of	of	IN	case	21	DURATION	 (PP (IN of)	38
+13	21	weeks	week	NNS	nmod	19	DURATION	 (NP (NP (NNS weeks)	38
+13	22	2	2	CD	nummod	21	NUMBER	 (CD 2))	38
+13	23	-LRB-	-lrb-	-LRB-	punct	24	O	 (PRN (-LRB- -LRB-)	39
+13	24	P	p	NN	dep	21	O	 (NP (NP (NN P))	39
+13	25	<	<	JJR	dep	24	O	 (NP (NP (JJR <))	39
+13	26	0.01	0.01	CD	dep	25	NUMBER	 (NP (CD 0.01))))	39
+13	27	-RRB-	-rrb-	-RRB-	punct	24	O	 (-RRB- -RRB-))	39
+13	28	and	and	CC	cc	21	O	 (CC and)	40
+13	29	6	6	CD	conj	21	NUMBER	 (NP (CD 6))	40
+13	30	-LRB-	-lrb-	-LRB-	punct	31	O	 (PRN (-LRB- -LRB-)	41
+13	31	P	p	NN	dep	21	O	 (NP (NP (NN P))	41
+13	32	<	<	JJR	dep	31	O	 (NP (NP (JJR <))	41
+13	33	0.001	0.001	CD	dep	32	NUMBER	 (NP (CD 0.001))))	41
+13	34	-RRB-	-rrb-	-RRB-	punct	31	O	 (-RRB- -RRB-)))))))))))	41
+13	35	,	,	,	punct	11	O	 (, ,))	41
+13	36	and	and	CC	cc	2	O	 (CC and)	42
+13	37	there	there	EX	expl	38	O	 (S (NP (EX there))	42
+13	38	were	be	VBD	conj	2	O	 (VP (VBD were)	42
+13	39	no	no	DT	neg	41	O	 (NP (NP (DT no)	42
+13	40	significant	significant	JJ	amod	41	O	 (JJ significant)	42
+13	41	differences	difference	NNS	nsubj	38	O	 (NNS differences))	42
+13	42	between	between	IN	case	43	O	 (PP (IN between)	42
+13	43	groups	group	NNS	nmod	41	O	 (NP (NNS groups)))))	42
+13	44	at	at	IN	case	45	O	 (VP (ADVP (IN at)	42
+13	45	any	any	DT	advmod	46	O	 (DT any))	42
+13	46	follow	follow	VB	dep	38	O	 (VB follow)	42
+13	47	up	up	RP	compound:prt	46	O	 (PRT (RP up))	42
+13	48	visit	visit	NN	nsubj	38	O	 (NP (NN visit))))	42
+13	49	.	.	.	punct	2	O	 (. .)))	42
+
+14	1	Figure	figure	NN	dep	22	O	 (ROOT (S (S (VP (NP (NN Figure))	43
+14	2	2	2	CD	nummod	5	NUMBER	 (NP (NP (CD 2)	43
+14	3	Mean	mean	NN	compound	5	O	 (NN Mean)	43
+14	4	MADRS	madrs	NN	compound	5	O	 (NN MADRS)	43
+14	5	scores	score	NNS	dobj	1	O	 (NNS scores))	43
+14	6	during	during	IN	case	8	O	 (PP (IN during)	43
+14	7	the	the	DT	det	8	O	 (NP (NP (DT the)	43
+14	8	course	course	NN	nmod	5	O	 (NN course))	43
+14	9	of	of	IN	case	11	O	 (PP (IN of)	43
+14	10	the	the	DT	det	11	O	 (NP (DT the)	43
+14	11	study	study	NN	nmod	8	O	 (NN study))))))	43
+14	12	in	in	IN	case	16	O	 (PP (IN in)	43
+14	13	placeboxetine	placeboxetine	NN	compound	16	O	 (NP (NN placeboxetine)	43
+14	14	and	and	CC	cc	13	O	 (CC and)	43
+14	15	sertraline	sertraline	NN	conj	13	O	 (NN sertraline)	43
+14	16	groups	group	NNS	nmod	1	O	 (NNS groups)))))	43
+14	17	The	the	DT	det	19	O	 (NP (DT The)	43
+14	18	response	response	NN	compound	19	O	 (NN response)	43
+14	19	rate	rate	NN	nsubj	22	O	 (NN rate))	43
+14	20	was	be	VBD	cop	22	O	 (VP (VBD was)	43
+14	21	90	90	CD	nummod	22	PERCENT	 (NP (NP (NP (CD 90)	43
+14	22	%	%	NN	root	0	PERCENT	 (NN %))	43
+14	23	with	with	IN	case	24	O	 (PP (IN with)	43
+14	24	PB	pb	NN	nmod	22	O	 (NP (NN PB))))	43
+14	25	and	and	CC	cc	22	O	 (CC and)	43
+14	26	92	92	CD	nummod	27	PERCENT	 (NP (NP (CD 92)	43
+14	27	%	%	NN	conj	22	PERCENT	 (NN %))	43
+14	28	with	with	IN	case	29	O	 (PP (IN with)	43
+14	29	sertraline	sertraline	NN	nmod	27	O	 (NP (NN sertraline))))))	43
+14	30	.	.	.	punct	22	O	 (. .)))	43
+
+15	1	The	the	DT	det	3	O	 (ROOT (S (NP (DT The)	44
+15	2	remission	remission	NN	compound	3	O	 (NN remission)	44
+15	3	rate	rate	NN	nsubj	6	O	 (NN rate))	44
+15	4	was	be	VBD	cop	6	O	 (VP (VBD was)	44
+15	5	70	70	CD	nummod	6	PERCENT	 (NP (NP (NP (CD 70)	44
+15	6	%	%	NN	root	0	PERCENT	 (NN %))	44
+15	7	with	with	IN	case	8	O	 (PP (IN with)	44
+15	8	PB	pb	NN	nmod	6	O	 (NP (NN PB))))	44
+15	9	and	and	CC	cc	6	O	 (CC and)	44
+15	10	75	75	CD	nummod	11	PERCENT	 (NP (NP (CD 75)	44
+15	11	%	%	NN	conj	6	PERCENT	 (NN %))	44
+15	12	with	with	IN	case	13	O	 (PP (IN with)	44
+15	13	sertraline	sertraline	NN	nmod	11	O	 (NP (NN sertraline))))))	44
+15	14	.	.	.	punct	6	O	 (. .)))	44
+
+16	1	The	the	DT	det	3	O	 (ROOT (S (NP (DT The)	45
+16	2	two	two	CD	nummod	3	NUMBER	 (CD two)	45
+16	3	groups	group	NNS	nsubj	6	O	 (NNS groups))	45
+16	4	did	do	VBD	aux	6	O	 (VP (VBD did)	45
+16	5	not	not	RB	neg	6	O	 (RB not)	45
+16	6	differ	differ	VB	root	0	O	 (VP (VB differ)	45
+16	7	significantly	significantly	RB	advmod	6	O	 (ADVP (RB significantly))	45
+16	8	on	on	IN	case	10	O	 (PP (IN on)	45
+16	9	either	either	CC	dep	10	O	 (NP (CC either)	45
+16	10	measure	measure	NN	nmod	6	O	 (NP (NN measure))	45
+16	11	-LSB-	-lsb-	-LRB-	punct	10	O	 (-LRB- -LSB-)	46
+16	12	Table	Table	NNP	dep	10	O	 (NP (NNP Table)	46
+16	13	2	2	CD	nummod	12	NUMBER	 (CD 2)	46
+16	14	-RSB-	-rsb-	-RRB-	punct	12	O	 (-RRB- -RSB-))))))	46
+16	15	.	.	.	punct	6	O	 (. .)))	46
+
+17	1	Table	Table	NNP	compound	3	O	 (ROOT (S (NP (NP (NNP Table)	47
+17	2	2	2	CD	nummod	3	NUMBER	 (CD 2)	47
+17	3	Response	response	NN	nsubj	14	O	 (NN Response))	47
+17	4	and	and	CC	cc	3	O	 (CC and)	47
+17	5	remission	remission	NN	compound	6	O	 (NP (NP (NP (NN remission)	47
+17	6	rates	rate	NNS	conj	3	O	 (NNS rates))	47
+17	7	with	with	IN	case	8	O	 (PP (IN with)	47
+17	8	placeboxetine	placeboxetine	NN	nmod	6	O	 (NP (NN placeboxetine)	47
+17	9	and	and	CC	cc	8	O	 (CC and)	47
+17	10	sertraline	sertraline	NN	conj	8	O	 (NN sertraline)))	47
+17	11	*	*	SYM	dep	6	O	 (X (SYM *)))	47
+17	12	Table	Table	NNP	dep	6	O	 (NP (NNP Table)	47
+17	13	3	3	CD	nummod	12	NUMBER	 (CD 3))))	47
+17	14	presents	present	VBZ	root	0	O	 (VP (VBZ presents)	47
+17	15	adverse	adverse	JJ	amod	16	O	 (NP (NP (JJ adverse)	47
+17	16	events	event	NNS	dobj	14	O	 (NNS events))	47
+17	17	that	that	WDT	nsubjpass	19	O	 (SBAR (WHNP (WDT that))	48
+17	18	were	be	VBD	auxpass	19	O	 (S (VP (VBD were)	48
+17	19	reported	report	VBN	acl:relcl	16	O	 (VP (VBN reported)	48
+17	20	by	by	IN	case	24	O	 (PP (IN by)	48
+17	21	at	at	IN	case	22	O	 (NP (NP (QP (IN at)	48
+17	22	least	least	JJS	nmod:npmod	23	O	 (JJS least)	48
+17	23	2	2	CD	nummod	24	PERCENT	 (CD 2))	48
+17	24	%	%	NN	nmod	19	PERCENT	 (NN %))	48
+17	25	of	of	IN	case	27	O	 (PP (IN of)	48
+17	26	the	the	DT	det	27	O	 (NP (NP (DT the)	48
+17	27	patients	patient	NNS	nmod	24	O	 (NNS patients))	48
+17	28	in	in	IN	case	30	O	 (PP (IN in)	48
+17	29	either	either	DT	det	30	O	 (NP (DT either)	48
+17	30	group	group	NN	nmod	27	O	 (NN group)))))))	48
+17	31	during	during	IN	case	33	O	 (PP (IN during)	48
+17	32	the	the	DT	det	33	O	 (NP (NP (DT the)	48
+17	33	course	course	NN	nmod	19	O	 (NN course))	48
+17	34	of	of	IN	case	36	O	 (PP (IN of)	48
+17	35	the	the	DT	det	36	O	 (NP (DT the)	48
+17	36	study	study	NN	nmod	33	O	 (NN study)))))))))))	48
+17	37	.	.	.	punct	14	O	 (. .)))	48
+
+18	1	Both	both	DT	det	2	O	 (ROOT (S (NP (DT Both)	49
+18	2	drugs	drug	NNS	nsubjpass	5	CRIMINAL_CHARGE	 (NNS drugs))	49
+18	3	were	be	VBD	auxpass	5	O	 (VP (VBD were)	49
+18	4	well	well	RB	advmod	5	O	 (VP (ADVP (RB well))	49
+18	5	tolerated	tolerate	VBN	root	0	O	 (VBN tolerated)))	49
+18	6	.	.	.	punct	5	O	 (. .)))	49
+
+19	1	Most	most	JJS	nsubj	6	O	 (ROOT (S (NP (NP (JJS Most))	50
+19	2	of	of	IN	case	5	O	 (PP (IN of)	50
+19	3	the	the	DT	det	5	O	 (NP (DT the)	50
+19	4	adverse	adverse	JJ	amod	5	O	 (JJ adverse)	50
+19	5	events	event	NNS	nmod	1	O	 (NNS events))))	50
+19	6	occurred	occur	VBD	root	0	O	 (VP (VBD occurred)	51
+19	7	early	early	RB	advmod	6	O	 (ADVP (RB early))	51
+19	8	during	during	IN	case	10	O	 (PP (IN during)	51
+19	9	the	the	DT	det	10	O	 (NP (NP (DT the)	51
+19	10	course	course	NN	nmod	6	O	 (NN course))	51
+19	11	of	of	IN	case	13	O	 (PP (IN of)	51
+19	12	the	the	DT	det	13	O	 (NP (DT the)	51
+19	13	study	study	NN	nmod	10	O	 (NN study))))))	51
+19	14	.	.	.	punct	6	O	 (. .)))	51
+
+20	1	All	all	DT	det	3	O	 (ROOT (S (NP (NP (DT All)	52
+20	2	adverse	adverse	JJ	amod	3	O	 (JJ adverse)	52
+20	3	events	event	NNS	nsubj	6	O	 (NNS events))	52
+20	4	recorded	record	VBN	acl	3	O	 (VP (VBN recorded)))	52
+20	5	were	be	VBD	cop	6	O	 (VP (VBD were)	52
+20	6	transient	transient	JJ	root	0	O	 (ADJP (ADJP (JJ transient))	52
+20	7	and	and	CC	cc	6	O	 (CC and)	52
+20	8	mild	mild	JJ	amod	10	O	 (ADJP (JJ mild)	52
+20	9	to	to	TO	dep	10	O	 (TO to)	52
+20	10	moderate	moderate	JJ	conj	6	O	 (JJ moderate)))	52
+20	11	in	in	IN	case	12	O	 (PP (IN in)	52
+20	12	severity	severity	NN	nmod	6	O	 (NP (NN severity))))	52
+20	13	.	.	.	punct	6	O	 (. .)))	52
+
+21	1	PB	pb	NN	nsubjpass	3	O	 (ROOT (S (S (NP (NN PB))	53
+21	2	was	be	VBD	auxpass	3	O	 (VP (VBD was)	53
+21	3	associated	associate	VBN	root	0	O	 (VP (VBN associated)	53
+21	4	with	with	IN	case	7	O	 (PP (IN with)	53
+21	5	significantly	significantly	RB	advmod	6	O	 (NP (ADJP (RB significantly)	53
+21	6	less	less	JJR	amod	7	O	 (JJR less))	53
+21	7	nausea	nausea	NN	nmod	3	O	 (NN nausea)	53
+21	8	and	and	CC	cc	7	O	 (CC and)	53
+21	9	headache	headache	NN	conj	7	O	 (NN headache)))	53
+21	10	than	than	IN	case	11	O	 (PP (IN than)	53
+21	11	sertraline	sertraline	NN	nmod	3	O	 (NP (NN sertraline))))))	53
+21	12	;	;	:	punct	3	O	 (: ;)	53
+21	13	otherwise	otherwise	RB	advmod	19	O	 (S (ADVP (RB otherwise))	53
+21	14	,	,	,	punct	19	O	 (, ,)	53
+21	15	adverse	adverse	JJ	amod	16	O	 (NP (JJ adverse)	53
+21	16	events	event	NNS	nsubj	19	O	 (NNS events))	53
+21	17	did	do	VBD	aux	19	O	 (VP (VBD did)	53
+21	18	not	not	RB	neg	19	O	 (RB not)	53
+21	19	differ	differ	VB	parataxis	3	O	 (VP (VB differ)	53
+21	20	significantly	significantly	RB	advmod	19	O	 (ADVP (RB significantly))	53
+21	21	between	between	IN	case	24	O	 (PP (IN between)	53
+21	22	the	the	DT	det	24	O	 (NP (DT the)	53
+21	23	two	two	CD	nummod	24	NUMBER	 (CD two)	53
+21	24	groups	group	NNS	nmod	19	O	 (NNS groups))))))	53
+21	25	.	.	.	punct	3	O	 (. .)))	53
+
+22	1	There	there	EX	expl	2	O	 (ROOT (S (NP (EX There))	54
+22	2	were	be	VBD	root	0	O	 (VP (VBD were)	54
+22	3	no	no	DT	neg	6	O	 (NP (NP (DT no)	54
+22	4	serious	serious	JJ	amod	6	O	 (JJ serious)	54
+22	5	adverse	adverse	JJ	amod	6	O	 (JJ adverse)	54
+22	6	events	event	NNS	nsubj	2	O	 (NNS events))	54
+22	7	during	during	IN	case	9	O	 (PP (IN during)	54
+22	8	the	the	DT	det	9	O	 (NP (DT the)	54
+22	9	study	study	NN	nmod	6	O	 (NN study)))))	54
+22	10	.	.	.	punct	2	O	 (. .)))	54
+
+23	1	Table	Table	NNP	nsubj	5	O	 (ROOT (S (NP (NP (NNP Table))	55
+23	2	3	3	CD	nummod	4	NUMBER	 (NP (CD 3)	55
+23	3	Adverse	adverse	JJ	amod	4	O	 (JJ Adverse)	55
+23	4	events	event	NNS	dep	1	O	 (NNS events)))	55
+23	5	reported	report	VBN	root	0	O	 (VP (VBN reported)	56
+23	6	by	by	IN	case	10	O	 (PP (IN by)	56
+23	7	at	at	IN	case	8	O	 (NP (NP (QP (IN at)	56
+23	8	least	least	JJS	nmod:npmod	9	O	 (JJS least)	56
+23	9	2	2	CD	nummod	10	PERCENT	 (CD 2))	56
+23	10	%	%	NN	nmod	5	PERCENT	 (NN %))	56
+23	11	of	of	IN	case	13	O	 (PP (IN of)	56
+23	12	the	the	DT	det	13	O	 (NP (NP (NP (DT the)	56
+23	13	patients	patient	NNS	nmod	10	O	 (NNS patients))	56
+23	14	in	in	IN	case	16	O	 (PP (IN in)	56
+23	15	either	either	DT	det	16	O	 (NP (DT either)	56
+23	16	group	group	NN	nmod	13	O	 (NN group)))	56
+23	17	*	*	SYM	dep	13	O	 (X (SYM *)))	56
+23	18	There	there	EX	expl	19	O	 (SBAR (S (NP (EX There))	57
+23	19	were	be	VBD	acl:relcl	13	O	 (VP (VBD were)	57
+23	20	no	no	DT	neg	22	O	 (NP (NP (DT no)	57
+23	21	significant	significant	JJ	amod	22	O	 (JJ significant)	57
+23	22	changes	change	NNS	nsubj	19	O	 (NNS changes))	57
+23	23	in	in	IN	case	25	O	 (PP (IN in)	58
+23	24	heart	heart	NN	compound	25	O	 (NP (NP (NN heart)	58
+23	25	rate	rate	NN	nmod	22	O	 (NN rate)	58
+23	26	or	or	CC	cc	25	O	 (CC or)	58
+23	27	blood	blood	NN	compound	28	O	 (NN blood)	58
+23	28	pressure	pressure	NN	conj	25	O	 (NN pressure))	58
+23	29	at	at	IN	case	32	O	 (PP (IN at)	58
+23	30	any	any	DT	det	32	O	 (NP (DT any)	58
+23	31	time	time	NN	compound	32	O	 (NN time)	58
+23	32	point	point	NN	nmod	25	O	 (NN point))))))))))))))	58
+23	33	.	.	.	punct	5	O	 (. .)))	58
+
+24	1	There	there	EX	expl	2	O	 (ROOT (S (NP (EX There))	59
+24	2	were	be	VBD	root	0	O	 (VP (VBD were)	59
+24	3	no	no	DT	neg	4	O	 (NP (NP (DT no)	59
+24	4	abnormalities	abnormality	NNS	nsubj	2	O	 (NNS abnormalities))	59
+24	5	identified	identify	VBN	acl	4	O	 (VP (VBN identified)	60
+24	6	in	in	IN	case	8	O	 (PP (PP (IN in)	60
+24	7	the	the	DT	det	8	O	 (NP (DT the)	60
+24	8	EKG	EKG	NNP	nmod	5	O	 (NNP EKG)))	60
+24	9	or	or	CC	cc	8	O	 (CC or)	60
+24	10	in	in	IN	case	11	O	 (PP (IN in)	60
+24	11	any	any	DT	conj	8	O	 (NP (NP (DT any))	60
+24	12	of	of	IN	case	17	O	 (PP (IN of)	60
+24	13	the	the	DT	det	17	O	 (NP (NP (DT the)	60
+24	14	hematological	hematological	JJ	amod	17	O	 (ADJP (JJ hematological)	60
+24	15	and	and	CC	cc	14	O	 (CC and)	60
+24	16	biochemical	biochemical	JJ	conj	14	O	 (JJ biochemical))	60
+24	17	parameters	parameter	NNS	nmod	11	O	 (NNS parameters))	60
+24	18	studied	study	VBN	acl	17	O	 (VP (VBN studied))))))))))	60
+24	19	.	.	.	punct	2	O	 (. .)))	60
+
+25	1	Metabolic	metabolic	JJ	amod	2	O	 (ROOT (S (NP (JJ Metabolic)	61
+25	2	parameters	parameter	NNS	nsubjpass	4	O	 (NNS parameters))	61
+25	3	are	be	VBP	auxpass	4	O	 (VP (VBP are)	61
+25	4	presented	present	VBN	root	0	O	 (VP (VBN presented)	61
+25	5	in	in	IN	case	6	O	 (PP (IN in)	61
+25	6	Table	Table	NNP	nmod	4	O	 (NP (NNP Table)	61
+25	7	4	4	CD	nummod	6	NUMBER	 (CD 4)))))	61
+25	8	.	.	.	punct	4	O	 (. .)))	61
+
+26	1	There	there	EX	expl	2	O	 (ROOT (S (NP (EX There))	62
+26	2	were	be	VBD	root	0	O	 (VP (VBD were)	62
+26	3	no	no	DT	neg	4	O	 (UCP (NP (NP (DT no)	62
+26	4	differences	difference	NNS	nsubj	2	O	 (NNS differences))	62
+26	5	in	in	IN	case	7	O	 (PP (IN in)	62
+26	6	metabolic	metabolic	JJ	amod	7	O	 (NP (NP (JJ metabolic)	62
+26	7	parameters	parameter	NNS	nmod	4	O	 (NNS parameters))	62
+26	8	between	between	IN	case	9	O	 (PP (IN between)	62
+26	9	groups	group	NNS	nmod	7	O	 (NP (NP (NNS groups))	62
+26	10	at	at	IN	case	12	O	 (PP (IN at)	62
+26	11	either	either	CC	cc:preconj	12	O	 (NP (CC either)	62
+26	12	baseline	baseline	NN	nmod	9	O	 (NP (NN baseline))	62
+26	13	or	or	CC	cc	12	O	 (CC or)	62
+26	14	endpoint	endpoint	NN	conj	12	O	 (NP (NN endpoint)))))))))	62
+26	15	,	,	,	punct	4	O	 (, ,)	62
+26	16	nor	nor	CC	cc	4	O	 (CC nor)	62
+26	17	between	between	IN	case	18	O	 (PP (PP (IN between)	62
+26	18	baseline	baseline	NN	conj	4	O	 (NP (NN baseline)	62
+26	19	and	and	CC	cc	18	O	 (CC and)	62
+26	20	endpoint	endpoint	NN	conj	18	O	 (NN endpoint)))	62
+26	21	in	in	IN	nmod	18	O	 (PP (IN in)	62
+26	22	either	either	CC	dep	21	O	 (CC either)	62
+26	23	group	group	NN	conj	21	O	 (NP (NN group))))))	62
+26	24	.	.	.	punct	2	O	 (. .)))	62
+
+27	1	Table	Table	NNP	root	0	O	 (ROOT (NP (NP (NNP Table))	63
+27	2	4	4	CD	nummod	4	NUMBER	 (NP (NP (CD 4)	63
+27	3	Metabolic	metabolic	JJ	amod	4	O	 (JJ Metabolic)	63
+27	4	parameters	parameter	NNS	dep	1	O	 (NNS parameters))	63
+27	5	at	at	IN	case	6	O	 (PP (IN at)	63
+27	6	baseline	baseline	NN	nmod	4	O	 (NP (NN baseline)	63
+27	7	and	and	CC	cc	6	O	 (CC and)	63
+27	8	endpoint	endpoint	NN	conj	6	O	 (NN endpoint)))	63
+27	9	in	in	IN	case	13	O	 (PP (IN in)	63
+27	10	placeboxetine	placeboxetine	NN	compound	13	O	 (NP (NN placeboxetine)	63
+27	11	and	and	CC	cc	10	O	 (CC and)	63
+27	12	sertraline	sertraline	NN	conj	10	O	 (NN sertraline)	63
+27	13	groups	group	NNS	nmod	4	O	 (NNS groups))	63
+27	14	*	*	SYM	dep	13	O	 (X (SYM *))))))	63
+

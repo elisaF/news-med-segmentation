@@ -1,0 +1,243 @@
+0	1	Background	background	NN	compound	3	O	 (ROOT (S (NP (NN Background)	1
+0	2	Postal	postal	JJ	amod	3	O	 (JJ Postal)	1
+0	3	surveys	survey	NNS	nsubjpass	6	O	 (NNS surveys))	1
+0	4	are	be	VBP	auxpass	6	O	 (VP (VBP are)	1
+0	5	commonly	commonly	RB	advmod	6	O	 (ADVP (RB commonly))	1
+0	6	used	use	VBN	root	0	O	 (VP (VBN used)	1
+0	7	in	in	IN	case	9	O	 (PP (IN in)	1
+0	8	medical	medical	JJ	amod	9	O	 (NP (JJ medical)	1
+0	9	research	research	NN	nmod	6	O	 (NN research)))	1
+0	10	as	as	IN	case	13	O	 (PP (IN as)	1
+0	11	an	a	DT	det	13	O	 (NP (NP (DT an)	1
+0	12	efficient	efficient	JJ	amod	13	O	 (JJ efficient)	1
+0	13	method	method	NN	nmod	6	O	 (NN method))	1
+0	14	of	of	IN	mark	15	O	 (PP (IN of)	2
+0	15	obtaining	obtain	VBG	acl	13	O	 (S (VP (VBG obtaining)	2
+0	16	information	information	NN	dobj	15	O	 (NP (NN information))	2
+0	17	about	about	IN	case	20	O	 (PP (IN about)	2
+0	18	medical	medical	JJ	amod	20	O	 (NP (JJ medical)	2
+0	19	practitioners	practitioner	NNS	compound	20	O	 (NNS practitioners)	2
+0	20	attributes	attribute	NNS	nmod	15	O	 (NNS attributes)	2
+0	21	,	,	,	punct	20	O	 (, ,)	2
+0	22	behaviours	behaviour	NNS	conj	20	O	 (NNS behaviours)	2
+0	23	,	,	,	punct	20	O	 (, ,)	2
+0	24	attitudes	attitude	NNS	conj	20	O	 (NNS attitudes)	2
+0	25	and	and	CC	cc	20	O	 (CC and)	2
+0	26	beliefs	belief	NNS	conj	20	O	 (NNS beliefs))))))))))	2
+0	27	.	.	.	punct	6	O	 (. .)))	2
+
+1	1	There	there	EX	expl	2	O	 (ROOT (S (S (NP (EX There))	3
+1	2	is	be	VBZ	root	0	O	 (VP (VBZ is)	3
+1	3	evidence	evidence	NN	nsubj	2	O	 (NP (NN evidence))	3
+1	4	that	that	IN	mark	10	O	 (SBAR (IN that)	4
+1	5	response	response	NN	compound	6	O	 (S (NP (NP (NN response)	4
+1	6	rates	rate	NNS	nsubj	10	O	 (NNS rates))	4
+1	7	to	to	TO	case	8	O	 (PP (TO to)	4
+1	8	surveys	survey	NNS	nmod	6	O	 (NP (NNS surveys))))	4
+1	9	are	be	VBP	aux	10	O	 (VP (VBP are)	4
+1	10	declining	decline	VBG	ccomp	2	O	 (VP (VBG declining)	4
+1	11	in	in	IN	case	13	O	 (PP (IN in)	4
+1	12	general	general	JJ	amod	13	TITLE	 (NP (NP (JJ general)	4
+1	13	practice	practice	NN	nmod	10	O	 (NN practice))	4
+1	14	-LSB-	-lsb-	-LRB-	punct	15	O	 (PP (-LRB- -LSB-)	5
+1	15	1	1	CD	nmod	13	NUMBER	 (NP (CD 1)))))))))))	5
+1	16	-RSB-	-rsb-	-RRB-	punct	2	O	 (-RRB- -RSB-)	5
+1	17	and	and	CC	cc	2	O	 (CC and)	5
+1	18	this	this	DT	det	19	O	 (S (NP (DT this)	5
+1	19	trend	trend	NN	nsubjpass	23	O	 (NN trend))	5
+1	20	may	may	MD	aux	23	O	 (VP (MD may)	5
+1	21	also	also	RB	advmod	23	O	 (ADVP (RB also))	5
+1	22	be	be	VB	auxpass	23	O	 (VP (VB be)	5
+1	23	reflected	reflect	VBN	conj	2	O	 (VP (VBN reflected)	5
+1	24	in	in	IN	case	25	O	 (PP (IN in)	5
+1	25	hospital	hospital	NN	nmod	23	O	 (NP (NP (NN hospital))	5
+1	26	based	base	VBN	acl	25	O	 (VP (VBN based)	6
+1	27	medicine	medicine	NN	dobj	26	O	 (NP (NN medicine)))))))))	6
+1	28	.	.	.	punct	2	O	 (. .)))	6
+
+2	1	This	this	DT	nsubj	4	O	 (ROOT (S (NP (DT This))	7
+2	2	is	be	VBZ	cop	4	O	 (VP (VBZ is)	7
+2	3	of	of	IN	case	4	O	 (PP (IN of)	7
+2	4	concern	concern	NN	root	0	O	 (NP (NN concern)))	7
+2	5	as	as	IN	mark	16	O	 (SBAR (IN as)	8
+2	6	the	the	DT	det	8	O	 (S (NP (NP (DT the)	8
+2	7	external	external	JJ	amod	8	O	 (JJ external)	8
+2	8	validity	validity	NN	nsubj	16	O	 (NN validity))	8
+2	9	of	of	IN	case	11	O	 (PP (IN of)	8
+2	10	the	the	DT	det	11	O	 (NP (NP (DT the)	8
+2	11	findings	finding	NNS	nmod	8	O	 (NNS findings))	8
+2	12	from	from	IN	case	14	O	 (PP (IN from)	8
+2	13	these	these	DT	det	14	O	 (NP (DT these)	8
+2	14	surveys	survey	NNS	nmod	11	O	 (NNS surveys))))))	8
+2	15	is	be	VBZ	cop	16	O	 (VP (VBZ is)	8
+2	16	dependent	dependent	JJ	advcl	4	O	 (ADJP (JJ dependent)	8
+2	17	upon	upon	IN	case	20	O	 (PP (IN upon)	8
+2	18	adequate	adequate	JJ	amod	20	O	 (NP (NP (JJ adequate)	8
+2	19	response	response	NN	compound	20	O	 (NN response)	8
+2	20	rates	rate	NNS	nmod	16	O	 (NNS rates))	8
+2	21	-LSB-	-lsb-	-LRB-	punct	22	O	 (PP (-LRB- -LSB-)	9
+2	22	1	1	CD	nmod	20	NUMBER	 (NP (CD 1)	9
+2	23	-RSB-	-rsb-	-RRB-	punct	22	O	 (-RRB- -RSB-))))))))))	9
+2	24	.	.	.	punct	4	O	 (. .)))	9
+
+3	1	Therefore	therefore	RB	advmod	12	O	 (ROOT (S (ADVP (RB Therefore))	10
+3	2	the	the	DT	det	3	O	 (NP (NP (DT the)	10
+3	3	identification	identification	NN	nsubj	12	O	 (NN identification))	10
+3	4	of	of	IN	case	6	O	 (PP (IN of)	10
+3	5	effective	effective	JJ	amod	6	O	 (NP (JJ effective)	10
+3	6	strategies	strategy	NNS	nmod	3	O	 (NNS strategies)))	10
+3	7	to	to	TO	mark	8	O	 (S (VP (TO to)	11
+3	8	increase	increase	VB	acl	3	O	 (VP (VB increase)	11
+3	9	response	response	NN	compound	10	O	 (NP (NN response)	11
+3	10	rates	rate	NNS	dobj	8	O	 (NNS rates))))))	11
+3	11	is	be	VBZ	cop	12	O	 (VP (VBZ is)	11
+3	12	important	important	JJ	root	0	O	 (ADJP (JJ important)	11
+3	13	to	to	TO	mark	14	O	 (S (VP (TO to)	12
+3	14	improve	improve	VB	xcomp	12	O	 (VP (VB improve)	12
+3	15	the	the	DT	det	16	O	 (NP (NP (DT the)	12
+3	16	quality	quality	NN	dobj	14	O	 (NN quality)	12
+3	17	and	and	CC	cc	16	O	 (CC and)	12
+3	18	generalisability	generalisability	NN	conj	16	O	 (NN generalisability))	12
+3	19	of	of	IN	case	22	O	 (PP (IN of)	12
+3	20	such	such	JJ	amod	22	O	 (NP (JJ such)	12
+3	21	health	health	NN	compound	22	O	 (NN health)	12
+3	22	research	research	NN	nmod	16	O	 (NN research)))))))))	12
+3	23	.	.	.	punct	12	O	 (. .)))	12
+
+4	1	In	in	IN	case	6	O	 (ROOT (S (PP (IN In)	13
+4	2	two	two	CD	nummod	6	NUMBER	 (NP (CD two)	13
+4	3	earlier	earlier	JJR	dep	4	O	 (ADJP (JJR earlier)	13
+4	4	randomised	randomised	JJ	amod	6	O	 (JJ randomised))	13
+4	5	controlled	control	VBN	amod	6	O	 (VBN controlled)	13
+4	6	trials	trial	NNS	nmod	9	O	 (NNS trials)))	13
+4	7	,	,	,	punct	9	O	 (, ,)	13
+4	8	we	we	PRP	nsubj	9	O	 (NP (PRP we))	13
+4	9	reported	report	VBD	root	0	O	 (VP (VBD reported)	13
+4	10	no	no	DT	neg	11	O	 (NP (DT no)	13
+4	11	effect	effect	NN	dobj	9	O	 (NN effect))	13
+4	12	on	on	IN	case	14	O	 (PP (IN on)	13
+4	13	the	the	DT	det	14	O	 (NP (NP (DT the)	13
+4	14	rate	rate	NN	nmod	9	O	 (NN rate))	13
+4	15	of	of	IN	case	16	O	 (PP (IN of)	13
+4	16	response	response	NN	nmod	14	O	 (NP (NN response)))))	13
+4	17	to	to	TO	case	20	O	 (PP (TO to)	13
+4	18	a	a	DT	det	20	O	 (NP (NP (DT a)	13
+4	19	medical	medical	JJ	amod	20	O	 (JJ medical)	13
+4	20	questionnaire	questionnaire	NN	nmod	9	O	 (NN questionnaire))	13
+4	21	of	of	IN	case	23	O	 (PP (IN of)	13
+4	22	paper	paper	NN	compound	23	O	 (NP (NP (NN paper)	13
+4	23	quality	quality	NN	nmod	20	O	 (NN quality)	13
+4	24	or	or	CC	cc	23	O	 (CC or)	13
+4	25	provision	provision	NN	conj	23	O	 (NN provision))	13
+4	26	of	of	IN	case	29	O	 (PP (IN of)	13
+4	27	a	a	DT	det	29	O	 (NP (NP (DT a)	13
+4	28	complimentary	complimentary	JJ	amod	29	O	 (JJ complimentary)	13
+4	29	pen	pen	NN	nmod	23	O	 (NN pen))	13
+4	30	-LSB-	-lsb-	-LRB-	punct	31	O	 (PP (-LRB- -LSB-)	14
+4	31	2,3	2,3	CD	nmod	29	NUMBER	 (NP (CD 2,3)	14
+4	32	-RSB-	-rsb-	-RRB-	punct	31	O	 (-RRB- -RSB-))))))))))	14
+4	33	.	.	.	punct	9	O	 (. .)))	14
+
+5	1	A	a	DT	det	5	O	 (ROOT (S (NP (DT A)	15
+5	2	recently	recently	RB	advmod	3	DATE	 (NP (ADJP (RB recently)	15
+5	3	published	publish	VBN	amod	5	O	 (VBN published))	15
+5	4	systematic	systematic	JJ	amod	5	O	 (JJ systematic)	15
+5	5	review	review	NN	nsubj	6	O	 (NN review)))	15
+5	6	showed	show	VBD	root	0	O	 (VP (VBD showed)	15
+5	7	that	that	IN	mark	10	O	 (SBAR (IN that)	16
+5	8	monetary	monetary	JJ	amod	9	O	 (S (NP (JJ monetary)	16
+5	9	incentives	incentive	NNS	nsubj	10	O	 (NNS incentives))	16
+5	10	doubled	double	VBD	ccomp	6	O	 (VP (VBD doubled)	16
+5	11	the	the	DT	det	12	O	 (NP (NP (DT the)	16
+5	12	odds	odds	NNS	dobj	10	O	 (NNS odds))	16
+5	13	of	of	IN	case	14	O	 (PP (IN of)	16
+5	14	response	response	NN	nmod	12	O	 (NP (NN response))))	16
+5	15	in	in	IN	case	18	O	 (PP (IN in)	16
+5	16	the	the	DT	det	18	O	 (NP (DT the)	16
+5	17	general	general	JJ	amod	18	TITLE	 (JJ general)	16
+5	18	population	population	NN	nmod	10	O	 (NN population)))))))	16
+5	19	.	.	.	punct	6	O	 (. .)))	16
+
+6	1	Furthermore	furthermore	RB	advmod	4	O	 (ROOT (S (ADVP (RB Furthermore))	17
+6	2	,	,	,	punct	4	O	 (, ,)	17
+6	3	it	it	PRP	nsubj	4	O	 (NP (PRP it))	17
+6	4	demonstrated	demonstrate	VBD	root	0	O	 (VP (VBD demonstrated)	17
+6	5	that	that	IN	mark	11	O	 (SBAR (IN that)	18
+6	6	non-monetary	non-monetary	JJ	amod	7	O	 (S (NP (JJ non-monetary)	18
+6	7	incentives	incentive	NNS	nsubj	11	O	 (NNS incentives))	18
+6	8	may	may	MD	aux	11	O	 (VP (MD may)	18
+6	9	also	also	RB	advmod	11	O	 (ADVP (RB also))	18
+6	10	be	be	VB	cop	11	O	 (VP (VB be)	18
+6	11	effective	effective	JJ	ccomp	4	O	 (ADJP (JJ effective)	18
+6	12	in	in	IN	mark	13	O	 (PP (IN in)	18
+6	13	improving	improve	VBG	advcl	11	O	 (S (VP (VBG improving)	18
+6	14	response	response	NN	compound	15	O	 (NP (NN response)	18
+6	15	rates	rate	NNS	dobj	13	O	 (NNS rates))	18
+6	16	by	by	IN	case	19	O	 (PP (IN by)	19
+6	17	a	a	DT	det	19	O	 (NP (DT a)	19
+6	18	smaller	smaller	JJR	amod	19	O	 (JJR smaller)	19
+6	19	degree	degree	NN	nmod	13	O	 (NN degree)))))))	19
+6	20	,	,	,	punct	11	O	 (, ,)	19
+6	21	although	although	IN	mark	24	O	 (SBAR (IN although)	20
+6	22	the	the	DT	det	23	O	 (S (NP (DT the)	20
+6	23	effect	effect	NN	nsubj	24	O	 (NN effect))	20
+6	24	varied	vary	VBD	advcl	11	O	 (VP (VBD varied)	20
+6	25	according	accord	VBG	case	27	O	 (PP (VBG according)	21
+6	26	to	to	TO	mwe	25	O	 (PP (TO to)	21
+6	27	population	population	NN	nmod	24	O	 (NP (NP (NN population)	21
+6	28	and	and	CC	cc	27	O	 (CC and)	21
+6	29	type	type	NN	conj	27	O	 (NN type))	21
+6	30	of	of	IN	case	31	O	 (PP (IN of)	21
+6	31	incentive	incentive	NN	nmod	27	O	 (NP (NP (NN incentive))	21
+6	32	-LSB-	-lsb-	-LRB-	punct	33	O	 (PP (-LRB- -LSB-)	22
+6	33	4	4	CD	nmod	31	NUMBER	 (NP (CD 4)	22
+6	34	-RSB-	-rsb-	-RRB-	punct	33	O	 (-RRB- -RSB-))))))))))))))))	22
+6	35	.	.	.	punct	4	O	 (. .)))	22
+
+7	1	In	in	IN	case	2	O	 (ROOT (S (PP (IN In)	23
+7	2	order	order	NN	nmod	19	O	 (NP (NP (NN order))	23
+7	3	to	to	TO	case	5	O	 (PP (TO to)	23
+7	4	further	further	JJ	amod	5	O	 (NP (NP (JJ further)	23
+7	5	test	test	NN	nmod	2	O	 (NN test))	23
+7	6	the	the	DT	det	7	O	 (NP (NP (DT the)	23
+7	7	impact	impact	NN	dep	5	O	 (NN impact))	23
+7	8	of	of	IN	case	10	O	 (PP (IN of)	23
+7	9	non-monetary	non-monetary	JJ	amod	10	O	 (NP (NP (JJ non-monetary)	23
+7	10	incentives	incentive	NNS	nmod	7	O	 (NNS incentives))	23
+7	11	on	on	IN	case	13	O	 (PP (IN on)	23
+7	12	survey	survey	NN	compound	13	O	 (NP (NP (NN survey)	23
+7	13	response	response	NN	nmod	10	O	 (NN response))	23
+7	14	by	by	IN	case	16	O	 (PP (IN by)	23
+7	15	medical	medical	JJ	amod	16	O	 (NP (JJ medical)	23
+7	16	professionals	professional	NNS	nmod	13	O	 (NNS professionals))))))))))))	23
+7	17	,	,	,	punct	19	O	 (, ,)	23
+7	18	we	we	PRP	nsubj	19	O	 (NP (PRP we))	23
+7	19	hypothesised	hypothesise	VBD	root	0	O	 (VP (VBD hypothesised)	23
+7	20	that	that	IN	mark	36	O	 (SBAR (IN that)	24
+7	21	entry	entry	NN	nsubj	36	O	 (S (NP (NP (NN entry))	24
+7	22	into	into	IN	case	25	O	 (PP (IN into)	24
+7	23	a	a	DT	det	25	O	 (NP (DT a)	24
+7	24	prize	prize	NN	compound	25	O	 (NN prize)	24
+7	25	draw	draw	NN	nmod	21	O	 (NN draw)))	24
+7	26	to	to	TO	mark	27	O	 (S (VP (TO to)	25
+7	27	win	win	VB	acl	21	O	 (VP (VB win)	25
+7	28	a	a	DT	det	31	O	 (NP (NP (DT a)	25
+7	29	personal	personal	JJ	amod	31	O	 (JJ personal)	25
+7	30	digital	digital	JJ	amod	31	O	 (JJ digital)	25
+7	31	assistant	assistant	NN	dobj	27	TITLE	 (NN assistant))	25
+7	32	-LRB-	-lrb-	-LRB-	punct	33	O	 (PRN (-LRB- -LRB-)	26
+7	33	PDA	pda	NN	appos	31	O	 (NP (NN PDA))	26
+7	34	-RRB-	-rrb-	-RRB-	punct	33	O	 (-RRB- -RRB-)))))))	26
+7	35	would	would	MD	aux	36	O	 (VP (MD would)	26
+7	36	increase	increase	VB	ccomp	19	O	 (VP (VB increase)	26
+7	37	response	response	NN	dobj	36	O	 (NP (NN response))	26
+7	38	to	to	TO	case	40	O	 (PP (TO to)	26
+7	39	a	a	DT	det	40	O	 (NP (NP (DT a)	26
+7	40	survey	survey	NN	nmod	36	O	 (NN survey))	26
+7	41	of	of	IN	mark	42	O	 (PP (IN of)	27
+7	42	practising	practise	VBG	acl	40	O	 (S (VP (VBG practising)	27
+7	43	obstetricians	obstetrician	NNS	dobj	42	O	 (NP (NNS obstetricians)	27
+7	44	and	and	CC	cc	43	O	 (CC and)	27
+7	45	gynaecologists	gynaecologist	NNS	conj	43	O	 (NNS gynaecologists))))))))))))	27
+7	46	.	.	.	punct	19	O	 (. .)))	27
+

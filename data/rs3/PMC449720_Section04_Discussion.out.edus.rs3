@@ -1,0 +1,239 @@
+<rst>
+<header>
+	<relations>
+			<rel name="Analogy" type="multinuc"/>
+			<rel name="Cause-Result" type="multinuc"/>
+			<rel name="Comment-Topic" type="multinuc"/>
+			<rel name="Comparison" type="multinuc"/>
+			<rel name="Conclusion" type="multinuc"/>
+			<rel name="Consequence" type="multinuc"/>
+			<rel name="Contrast" type="multinuc"/>
+			<rel name="Disjunction" type="multinuc"/>
+			<rel name="Evaluation" type="multinuc"/>
+			<rel name="Interpretation" type="multinuc"/>
+			<rel name="Inverted-Sequence" type="multinuc"/>
+			<rel name="List" type="multinuc"/>
+			<rel name="Otherwise" type="multinuc"/>
+			<rel name="Problem-Solution" type="multinuc"/>
+			<rel name="Proportion" type="multinuc"/>
+			<rel name="Question-Answer" type="multinuc"/>
+			<rel name="Reason" type="multinuc"/>
+			<rel name="Same-Unit" type="multinuc"/>
+			<rel name="Sequence" type="multinuc"/>
+			<rel name="Statement-Response" type="multinuc"/>
+			<rel name="Temporal-Same-Time" type="multinuc"/>
+			<rel name="TextualOrganization" type="multinuc"/>
+			<rel name="Topic-Comment" type="multinuc"/>
+			<rel name="Topic-Drift" type="multinuc"/>
+			<rel name="Topic-Shift" type="multinuc"/>
+			<rel name="analogy-e" type="rst"/>
+			<rel name="analogy" type="rst"/>
+			<rel name="antithesis-e" type="rst"/>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution-e" type="rst"/>
+			<rel name="attribution-n-e" type="rst"/>
+			<rel name="attribution-n" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background-e" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause-e" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance-e" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="comment-e" type="rst"/>
+			<rel name="comment" type="rst"/>
+			<rel name="comparison-e" type="rst"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="concession-e" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion-e" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition-e" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="consequence-n-e" type="rst"/>
+			<rel name="consequence-n" type="rst"/>
+			<rel name="consequence-s-e" type="rst"/>
+			<rel name="consequence-s" type="rst"/>
+			<rel name="contingency-e" type="rst"/>
+			<rel name="contingency" type="rst"/>
+			<rel name="definition-e" type="rst"/>
+			<rel name="definition" type="rst"/>
+			<rel name="elaboration-additional-e" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-general-specific-e" type="rst"/>
+			<rel name="elaboration-general-specific" type="rst"/>
+			<rel name="elaboration-object-attribute-e" type="rst"/>
+			<rel name="elaboration-object-attribute" type="rst"/>
+			<rel name="elaboration-part-whole-e" type="rst"/>
+			<rel name="elaboration-part-whole" type="rst"/>
+			<rel name="elaboration-process-step-e" type="rst"/>
+			<rel name="elaboration-process-step" type="rst"/>
+			<rel name="elaboration-set-member-e" type="rst"/>
+			<rel name="elaboration-set-member" type="rst"/>
+			<rel name="enablement-e" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n-e" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s-e" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence-e" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="example-e" type="rst"/>
+			<rel name="example" type="rst"/>
+			<rel name="explanation-argumentative-e" type="rst"/>
+			<rel name="explanation-argumentative" type="rst"/>
+			<rel name="hypothetical-e" type="rst"/>
+			<rel name="hypothetical" type="rst"/>
+			<rel name="interpretation-n-e" type="rst"/>
+			<rel name="interpretation-n" type="rst"/>
+			<rel name="interpretation-s-e" type="rst"/>
+			<rel name="interpretation-s" type="rst"/>
+			<rel name="manner-e" type="rst"/>
+			<rel name="manner" type="rst"/>
+			<rel name="means-e" type="rst"/>
+			<rel name="means" type="rst"/>
+			<rel name="otherwise-e" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preference-e" type="rst"/>
+			<rel name="preference" type="rst"/>
+			<rel name="problem-solution-n-e" type="rst"/>
+			<rel name="problem-solution-n" type="rst"/>
+			<rel name="problem-solution-s-e" type="rst"/>
+			<rel name="problem-solution-s" type="rst"/>
+			<rel name="purpose-e" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question-answer-n-e" type="rst"/>
+			<rel name="question-answer-n" type="rst"/>
+			<rel name="question-answer-s-e" type="rst"/>
+			<rel name="question-answer-s" type="rst"/>
+			<rel name="reason-e" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-e" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result-e" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="rhetorical-question-e" type="rst"/>
+			<rel name="rhetorical-question" type="rst"/>
+			<rel name="statement-response-n-e" type="rst"/>
+			<rel name="statement-response-n" type="rst"/>
+			<rel name="statement-response-s-e" type="rst"/>
+			<rel name="statement-response-s" type="rst"/>
+			<rel name="summary-n-e" type="rst"/>
+			<rel name="summary-n" type="rst"/>
+			<rel name="summary-s-e" type="rst"/>
+			<rel name="summary-s" type="rst"/>
+			<rel name="temporal-after-e" type="rst"/>
+			<rel name="temporal-after" type="rst"/>
+			<rel name="temporal-before-e" type="rst"/>
+			<rel name="temporal-before" type="rst"/>
+			<rel name="temporal-same-time-e" type="rst"/>
+			<rel name="temporal-same-time" type="rst"/>
+			<rel name="topic-drift-e" type="rst"/>
+			<rel name="topic-drift" type="rst"/>
+			<rel name="topic-shift-e" type="rst"/>
+			<rel name="topic-shift" type="rst"/>
+		</relations>
+</header>
+<body>
+		<segment id="1" parent="55" relname="TextualOrganization">Discussion</segment>
+		<segment id="2" parent="91" relname="span">The addition of a prize draw incentive</segment>
+		<segment id="3" parent="92" relname="span">to win a PDA</segment>
+		<segment id="4" parent="3" relname="elaboration-object-attribute-e">in a national questionnaire survey of medical practitioners did not significantly increase response rates.</segment>
+		<segment id="5" parent="69" relname="span">There are several explanations for this.</segment>
+		<segment id="6" parent="57" relname="span">Firstly , negative studies are often due to type II errors ,</segment>
+		<segment id="7" parent="93" relname="span">that is inability to detect a difference</segment>
+		<segment id="8" parent="7" relname="circumstance-e">when one actually exists ,</segment>
+		<segment id="9" parent="93" relname="cause">due to small sample size.</segment>
+		<segment id="10" parent="57" relname="antithesis">However our study was adequately powered.</segment>
+		<segment id="11" parent="59" relname="span">Secondly , our assumption</segment>
+		<segment id="12" >that a PDA is an appealing commodity to consultant gynaecologists</segment>
+		<segment id="13" >may be wrong</segment>
+		<segment id="14" parent="11" relname="consequence-s">hence there is insufficient extra motivation for response.</segment>
+		<segment id="15" parent="60" relname="span">Also many consultants may already possess a PDA ,</segment>
+		<segment id="16" parent="95" relname="span">thus reducing the desire to acquire one</segment>
+		<segment id="17" parent="16" relname="consequence-s">and hence its value as an incentive.</segment>
+		<segment id="18" parent="62" relname="span">Thirdly , any positive effect on response of the incentive may have been offset</segment>
+		<segment id="19" parent="18" relname="explanation-argumentative">because it was explicitly stated</segment>
+		<segment id="20" >that it was supplied by industry.</segment>
+		<segment id="21" parent="63" relname="span">The content of the questionnaire was about laparoscopic surgery in endometriosis ,</segment>
+		<segment id="22" parent="21" relname="antithesis">but the sponsoring device manufacturer produced no product directly for use in treating endometriosis.</segment>
+		<segment id="23" parent="65" relname="span">Despite this ,</segment>
+		<segment id="24" parent="23" relname="antithesis-e">and although only one respondent stated concern over industry sponsorship of the incentive ,</segment>
+		<segment id="25" parent="64" relname="Same-Unit">this view may have been more prevalent amongst non-responders.</segment>
+		<segment id="26" parent="70" relname="span">We considered a 10 % increase in response rate to be a clinically worthwhile effect</segment>
+		<segment id="27" parent="26" relname="purpose">to justify utilisation of non-monetary incentives</segment>
+		<segment id="28" parent="70" relname="circumstance">when disseminating surveys.</segment>
+		<segment id="29" parent="72" relname="span">A systematic review of 45 trials</segment>
+		<segment id="30" >where a non-monetary incentive was employed</segment>
+		<segment id="31" >found an average odds ratio of 1.19</segment>
+		<segment id="32" parent="29" relname="restatement-e">(95 % CI 1.11 to 1.28)</segment>
+		<segment id="33" parent="73" relname="Same-Unit">compatible with a 4 % increase in response in the current study from 60 to 64 %</segment>
+		<segment id="34" parent="96" relname="attribution">[4].</segment>
+		<segment id="35" parent="74" relname="span">However , inferences regarding the role of non-monetary incentives in surveys of medical professionals are limited from this study</segment>
+		<segment id="36" parent="35" relname="explanation-argumentative">because of significant clinical and statistical heterogeneity.</segment>
+		<segment id="37" parent="75" relname="span">Studies</segment>
+		<segment id="38" >confined to medical professionals</segment>
+		<segment id="39" >have shown either small increase</segment>
+		<segment id="40" parent="37" relname="restatement-e">(less than 10 %)</segment>
+		<segment id="41" parent="76" relname="Same-Unit">in response</segment>
+		<segment id="42" parent="98" relname="attribution">[6]</segment>
+		<segment id="43" parent="100" relname="span">or more rapid initial response in favour of incentive</segment>
+		<segment id="44" parent="43" relname="attribution">[7].</segment>
+		<segment id="45" parent="79" relname="span">Our study did not assess the play of other factors</segment>
+		<segment id="46" >that may be predictive of improved response to non-monetary incentives</segment>
+		<segment id="47" parent="45" relname="example-e">(e.g. age , gender , qualifications etc)</segment>
+		<segment id="48" parent="80" relname="Same-Unit">and this could be the focus of further studies.</segment>
+		<segment id="49" parent="84" relname="result">In view of the lack of effectiveness shown in our study and the costs associated with provision of a non-monetary incentive ,</segment>
+		<segment id="50" parent="84" relname="span">investigators should be deterred from utilising this particular strategy</segment>
+		<segment id="51" parent="50" relname="purpose">to improve response rates from medical practitioners.</segment>
+		<segment id="52" parent="85" relname="circumstance">If non-monetary incentives are used ,</segment>
+		<segment id="53" parent="85" relname="span">then the nature of any incentive offered should be considered carefully</segment>
+		<segment id="54" parent="53" relname="purpose">so that it is optimally appealing to the target group.</segment>
+		<group id="55" type="multinuc" />
+		<group id="56" type="span" parent="89" relname="Topic-Drift"/>
+		<group id="57" type="span" parent="58" relname="span"/>
+		<group id="58" type="span" parent="68" relname="List"/>
+		<group id="59" type="span" parent="61" relname="span"/>
+		<group id="60" type="span" parent="59" relname="elaboration-additional"/>
+		<group id="61" type="span" parent="68" relname="List"/>
+		<group id="62" type="span" parent="66" relname="span"/>
+		<group id="63" type="span" parent="62" relname="elaboration-additional"/>
+		<group id="64" type="multinuc" parent="66" relname="concession"/>
+		<group id="65" type="span" parent="64" relname="Same-Unit"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="67" type="span" parent="68" relname="List"/>
+		<group id="68" type="multinuc" parent="5" relname="example"/>
+		<group id="69" type="span" parent="91" relname="explanation-argumentative"/>
+		<group id="70" type="span" parent="71" relname="span"/>
+		<group id="71" type="span" parent="83" relname="span"/>
+		<group id="72" type="span" parent="73" relname="Same-Unit"/>
+		<group id="73" type="multinuc" parent="96" relname="span"/>
+		<group id="74" type="span" parent="81" relname="span"/>
+		<group id="75" type="span" parent="76" relname="Same-Unit"/>
+		<group id="76" type="multinuc" parent="98" relname="span"/>
+		<group id="77" type="span" parent="74" relname="elaboration-additional"/>
+		<group id="78" type="multinuc" parent="77" relname="span"/>
+		<group id="79" type="span" parent="80" relname="Same-Unit"/>
+		<group id="80" type="multinuc" parent="71" relname="elaboration-additional"/>
+		<group id="81" type="span" parent="82" relname="Contrast"/>
+		<group id="82" type="multinuc" parent="71" relname="elaboration-additional"/>
+		<group id="83" type="span" parent="90" relname="Conclusion"/>
+		<group id="84" type="span" parent="87" relname="span"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="86" type="span" parent="87" relname="elaboration-additional"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="88" type="span" parent="90" relname="Conclusion"/>
+		<group id="89" type="multinuc" parent="55" relname="TextualOrganization"/>
+		<group id="90" type="multinuc" parent="89" relname="Topic-Drift"/>
+		<group id="91" type="span" parent="56" relname="span"/>
+		<group id="92" type="span" parent="2" relname="elaboration-object-attribute-e"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="94" type="span" parent="6" relname="elaboration-additional-e"/>
+		<group id="95" type="span" parent="15" relname="consequence-s"/>
+		<group id="96" type="span" parent="97" relname="span"/>
+		<group id="97" type="span" parent="82" relname="Contrast"/>
+		<group id="98" type="span" parent="99" relname="span"/>
+		<group id="99" type="span" parent="78" relname="Contrast"/>
+		<group id="100" type="span" parent="78" relname="Contrast"/>
+  </body>
+</rst>

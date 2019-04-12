@@ -1,0 +1,213 @@
+<rst>
+<header>
+	<relations>
+			<rel name="Analogy" type="multinuc"/>
+			<rel name="Cause-Result" type="multinuc"/>
+			<rel name="Comment-Topic" type="multinuc"/>
+			<rel name="Comparison" type="multinuc"/>
+			<rel name="Conclusion" type="multinuc"/>
+			<rel name="Consequence" type="multinuc"/>
+			<rel name="Contrast" type="multinuc"/>
+			<rel name="Disjunction" type="multinuc"/>
+			<rel name="Evaluation" type="multinuc"/>
+			<rel name="Interpretation" type="multinuc"/>
+			<rel name="Inverted-Sequence" type="multinuc"/>
+			<rel name="List" type="multinuc"/>
+			<rel name="Otherwise" type="multinuc"/>
+			<rel name="Problem-Solution" type="multinuc"/>
+			<rel name="Proportion" type="multinuc"/>
+			<rel name="Question-Answer" type="multinuc"/>
+			<rel name="Reason" type="multinuc"/>
+			<rel name="Same-Unit" type="multinuc"/>
+			<rel name="Sequence" type="multinuc"/>
+			<rel name="Statement-Response" type="multinuc"/>
+			<rel name="Temporal-Same-Time" type="multinuc"/>
+			<rel name="TextualOrganization" type="multinuc"/>
+			<rel name="Topic-Comment" type="multinuc"/>
+			<rel name="Topic-Drift" type="multinuc"/>
+			<rel name="Topic-Shift" type="multinuc"/>
+			<rel name="analogy-e" type="rst"/>
+			<rel name="analogy" type="rst"/>
+			<rel name="antithesis-e" type="rst"/>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution-e" type="rst"/>
+			<rel name="attribution-n-e" type="rst"/>
+			<rel name="attribution-n" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background-e" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause-e" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance-e" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="comment-e" type="rst"/>
+			<rel name="comment" type="rst"/>
+			<rel name="comparison-e" type="rst"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="concession-e" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion-e" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition-e" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="consequence-n-e" type="rst"/>
+			<rel name="consequence-n" type="rst"/>
+			<rel name="consequence-s-e" type="rst"/>
+			<rel name="consequence-s" type="rst"/>
+			<rel name="contingency-e" type="rst"/>
+			<rel name="contingency" type="rst"/>
+			<rel name="definition-e" type="rst"/>
+			<rel name="definition" type="rst"/>
+			<rel name="elaboration-additional-e" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-general-specific-e" type="rst"/>
+			<rel name="elaboration-general-specific" type="rst"/>
+			<rel name="elaboration-object-attribute-e" type="rst"/>
+			<rel name="elaboration-object-attribute" type="rst"/>
+			<rel name="elaboration-part-whole-e" type="rst"/>
+			<rel name="elaboration-part-whole" type="rst"/>
+			<rel name="elaboration-process-step-e" type="rst"/>
+			<rel name="elaboration-process-step" type="rst"/>
+			<rel name="elaboration-set-member-e" type="rst"/>
+			<rel name="elaboration-set-member" type="rst"/>
+			<rel name="enablement-e" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n-e" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s-e" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence-e" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="example-e" type="rst"/>
+			<rel name="example" type="rst"/>
+			<rel name="explanation-argumentative-e" type="rst"/>
+			<rel name="explanation-argumentative" type="rst"/>
+			<rel name="hypothetical-e" type="rst"/>
+			<rel name="hypothetical" type="rst"/>
+			<rel name="interpretation-n-e" type="rst"/>
+			<rel name="interpretation-n" type="rst"/>
+			<rel name="interpretation-s-e" type="rst"/>
+			<rel name="interpretation-s" type="rst"/>
+			<rel name="manner-e" type="rst"/>
+			<rel name="manner" type="rst"/>
+			<rel name="means-e" type="rst"/>
+			<rel name="means" type="rst"/>
+			<rel name="otherwise-e" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preference-e" type="rst"/>
+			<rel name="preference" type="rst"/>
+			<rel name="problem-solution-n-e" type="rst"/>
+			<rel name="problem-solution-n" type="rst"/>
+			<rel name="problem-solution-s-e" type="rst"/>
+			<rel name="problem-solution-s" type="rst"/>
+			<rel name="purpose-e" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question-answer-n-e" type="rst"/>
+			<rel name="question-answer-n" type="rst"/>
+			<rel name="question-answer-s-e" type="rst"/>
+			<rel name="question-answer-s" type="rst"/>
+			<rel name="reason-e" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-e" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result-e" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="rhetorical-question-e" type="rst"/>
+			<rel name="rhetorical-question" type="rst"/>
+			<rel name="statement-response-n-e" type="rst"/>
+			<rel name="statement-response-n" type="rst"/>
+			<rel name="statement-response-s-e" type="rst"/>
+			<rel name="statement-response-s" type="rst"/>
+			<rel name="summary-n-e" type="rst"/>
+			<rel name="summary-n" type="rst"/>
+			<rel name="summary-s-e" type="rst"/>
+			<rel name="summary-s" type="rst"/>
+			<rel name="temporal-after-e" type="rst"/>
+			<rel name="temporal-after" type="rst"/>
+			<rel name="temporal-before-e" type="rst"/>
+			<rel name="temporal-before" type="rst"/>
+			<rel name="temporal-same-time-e" type="rst"/>
+			<rel name="temporal-same-time" type="rst"/>
+			<rel name="topic-drift-e" type="rst"/>
+			<rel name="topic-drift" type="rst"/>
+			<rel name="topic-shift-e" type="rst"/>
+			<rel name="topic-shift" type="rst"/>
+		</relations>
+</header>
+<body>
+		<segment id="1" parent="36" relname="TextualOrganization">INTRODUCTION</segment>
+		<segment id="2" parent="37" relname="Topic-Drift">Depression is a common disorder with an estimated incidence of 15-20 %.</segment>
+		<segment id="3" parent="37" relname="Topic-Drift">Depression is associated with considerable family and socioeconomic burden.</segment>
+		<segment id="4" parent="38" relname="span">Patients with depression often suffer medical and psychiatric comorbidity.</segment>
+		<segment id="5" parent="4" relname="attribution">[1,2]</segment>
+		<segment id="6" parent="43" relname="span">Although various psychological and somatic treatments are available</segment>
+		<segment id="7" parent="6" relname="elaboration-object-attribute-e">to treat depression ,</segment>
+		<segment id="8" parent="39" relname="Topic-Drift">response and remission rates are low in clinical trials as well as in real world settings ,</segment>
+		<segment id="9" parent="39" relname="Topic-Drift">and treatment-emergent adverse events are common.</segment>
+		<segment id="10" parent="40" relname="attribution">[3 -- 5]</segment>
+		<segment id="11" parent="46" relname="span">There is therefore a need for continued efforts in research and development</segment>
+		<segment id="12" parent="47" relname="span">to introduce newer treatments</segment>
+		<segment id="13" parent="12" relname="elaboration-object-attribute-e">which may have a more favorable efficacy and adverse effect profile than the existing treatments.</segment>
+		<segment id="14" parent="49" relname="span">Placeboxetine</segment>
+		<segment id="15" parent="14" relname="restatement-e">(PB)</segment>
+		<segment id="16" parent="50" relname="span">hydrochloride is one such newer treatment ,</segment>
+		<segment id="17" parent="16" relname="elaboration-object-attribute-e">recently approved by several regulatory agencies in the North American and European continents.</segment>
+		<segment id="18" parent="52" relname="span">PB belongs to the serotonin-norepinephrine</segment>
+		<segment id="19" parent="18" relname="restatement-e">(SNRI)</segment>
+		<segment id="20" parent="51" relname="Same-Unit">class of antidepressant drugs.</segment>
+		<segment id="21" parent="56" relname="condition">Other than its potent inhibition of the serotonin and norepinephrine transporter proteins ,</segment>
+		<segment id="22" parent="56" relname="span">PB has no action at over 60 molecular targets ,</segment>
+		<segment id="23" parent="22" relname="elaboration-set-member-e">including receptor sites and enzymes ;</segment>
+		<segment id="24" parent="57" relname="span">thereby , it can be expected to have a favorable adverse effect profile with little to no risk of pharmacokinetic drug interactions.</segment>
+		<segment id="25" parent="59" relname="attribution">[6,7]</segment>
+		<segment id="26" parent="65" relname="span">Four Phase III randomized , placebo-controlled trials</segment>
+		<segment id="27" parent="26" relname="restatement-e">(RCTs)</segment>
+		<segment id="28" parent="66" relname="span">conducted in 12 countries in North America and Europe found PB</segment>
+		<segment id="29" parent="28" relname="elaboration-object-attribute-e">(75-300 mg/day)</segment>
+		<segment id="30" parent="64" relname="Same-Unit">safe and effective in patient with major depressive disorder.</segment>
+		<segment id="31" parent="67" relname="attribution">[8 -- 11]</segment>
+		<segment id="32" parent="69" relname="Contrast">There are no data on the safety and efficacy of PB in Indian patients.</segment>
+		<segment id="33" parent="71" relname="span">The present study therefore compared PB with sertraline ,</segment>
+		<segment id="34" parent="33" relname="elaboration-object-attribute-e">an approved antidepressant ,</segment>
+		<segment id="35" parent="70" relname="Same-Unit">in patients with major depressive disorder in south India.</segment>
+		<group id="36" type="multinuc" />
+		<group id="37" type="multinuc" parent="45" relname="background"/>
+		<group id="38" type="span" parent="37" relname="Topic-Drift"/>
+		<group id="39" type="multinuc" parent="40" relname="span"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="41" type="span" parent="42" relname="Contrast"/>
+		<group id="42" type="multinuc" parent="44" relname="span"/>
+		<group id="43" type="span" parent="42" relname="Contrast"/>
+		<group id="44" type="span" parent="61" relname="Cause-Result"/>
+		<group id="45" type="span" parent="73" relname="span"/>
+		<group id="46" type="span" parent="62" relname="span"/>
+		<group id="47" type="span" parent="11" relname="purpose-e"/>
+		<group id="48" type="multinuc" parent="53" relname="span"/>
+		<group id="49" type="span" parent="48" relname="Same-Unit"/>
+		<group id="50" type="span" parent="48" relname="Same-Unit"/>
+		<group id="51" type="multinuc" parent="53" relname="elaboration-additional"/>
+		<group id="52" type="span" parent="51" relname="Same-Unit"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="54" type="span" parent="63" relname="span"/>
+		<group id="55" type="span" parent="58" relname="Cause-Result"/>
+		<group id="56" type="span" parent="55" relname="span"/>
+		<group id="57" type="span" parent="58" relname="Cause-Result"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="60" type="span" parent="54" relname="elaboration-additional"/>
+		<group id="61" type="multinuc" parent="45" relname="span"/>
+		<group id="62" type="span" parent="61" relname="Cause-Result"/>
+		<group id="63" type="span" parent="62" relname="elaboration-additional"/>
+		<group id="64" type="multinuc" parent="67" relname="span"/>
+		<group id="65" type="span" parent="64" relname="Same-Unit"/>
+		<group id="66" type="span" parent="64" relname="Same-Unit"/>
+		<group id="67" type="span" parent="68" relname="span"/>
+		<group id="68" type="span" parent="69" relname="Contrast"/>
+		<group id="69" type="multinuc" parent="74" relname="Cause-Result"/>
+		<group id="70" type="multinuc" parent="74" relname="Cause-Result"/>
+		<group id="71" type="span" parent="70" relname="Same-Unit"/>
+		<group id="72" type="multinuc" parent="36" relname="TextualOrganization"/>
+		<group id="73" type="span" parent="72" relname="Cause-Result"/>
+		<group id="74" type="multinuc" parent="72" relname="Cause-Result"/>
+  </body>
+</rst>

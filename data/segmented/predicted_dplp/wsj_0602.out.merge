@@ -1,0 +1,728 @@
+0	1	Friday	Friday	NNP	compound	3	DATE	 (ROOT (S (NP (NP (NP (NNP Friday)	1
+0	2	,	,	,	punct	3	DATE	 (, ,)	1
+0	3	October	October	NNP	nsubj	18	DATE	 (NNP October)	1
+0	4	27	27	CD	nummod	3	DATE	 (CD 27)	1
+0	5	,	,	,	punct	3	DATE	 (, ,)	1
+0	6	1989	1989	CD	nummod	3	DATE	 (CD 1989))	1
+0	7	The	the	DT	det	14	O	 (NP (DT The)	2
+0	8	key	key	JJ	amod	14	O	 (JJ key)	2
+0	9	U.S.	U.S.	NNP	compound	14	COUNTRY	 (UCP (NNP U.S.)	2
+0	10	and	and	CC	cc	9	O	 (CC and)	2
+0	11	foreign	foreign	JJ	conj	9	O	 (JJ foreign))	2
+0	12	annual	annual	JJ	amod	14	O	 (JJ annual)	2
+0	13	interest	interest	NN	compound	14	O	 (NN interest)	2
+0	14	rates	rate	NNS	dep	3	O	 (NNS rates)))	2
+0	15	below	below	RB	advmod	3	O	 (ADVP (RB below)))	2
+0	16	are	be	VBP	cop	18	O	 (VP (VP (VBP are)	2
+0	17	a	a	DT	det	18	O	 (NP (NP (DT a)	2
+0	18	guide	guide	NN	root	0	TITLE	 (NN guide))	2
+0	19	to	to	TO	case	21	O	 (PP (TO to)	2
+0	20	general	general	JJ	amod	21	TITLE	 (NP (JJ general)	2
+0	21	levels	level	NNS	nmod	18	O	 (NNS levels)))))	2
+0	22	but	but	CC	cc	18	O	 (CC but)	3
+0	23	do	do	VBP	aux	26	O	 (VP (VBP do)	3
+0	24	n't	not	RB	neg	26	O	 (RB n't)	3
+0	25	always	always	RB	advmod	26	O	 (ADVP (RB always))	3
+0	26	represent	represent	VB	conj	18	O	 (VP (VB represent)	3
+0	27	actual	actual	JJ	amod	28	O	 (NP (JJ actual)	3
+0	28	transactions	transaction	NNS	dobj	26	O	 (NNS transactions)))))	3
+0	29	.	.	.	punct	18	O	 (. .)))	3
+
+1	1	PRIME	prime	JJ	amod	2	O	 (ROOT (NP (NP (JJ PRIME)	4
+1	2	RATE	rate	NN	root	0	O	 (NN RATE))	4
+1	3	:	:	:	punct	2	O	 (: :)	4
+1	4	10	10	CD	compound	5	PERCENT	 (NP (QP (CD 10)	5
+1	5	1/2	1/2	CD	nummod	6	PERCENT	 (CD 1/2))	5
+1	6	%	%	NN	dep	2	PERCENT	 (NN %))	5
+1	7	.	.	.	punct	2	O	 (. .)))	5
+
+2	1	The	the	DT	det	3	O	 (ROOT (NP (NP (DT The)	6
+2	2	base	base	NN	compound	3	O	 (NN base)	6
+2	3	rate	rate	NN	root	0	O	 (NN rate))	6
+2	4	on	on	IN	case	6	O	 (PP (IN on)	6
+2	5	corporate	corporate	JJ	amod	6	O	 (NP (JJ corporate)	6
+2	6	loans	loan	NNS	nmod	3	O	 (NNS loans)))	6
+2	7	at	at	IN	case	13	O	 (PP (IN at)	6
+2	8	large	large	JJ	amod	13	O	 (NP (JJ large)	6
+2	9	U.S.	U.S.	NNP	compound	13	COUNTRY	 (NNP U.S.)	6
+2	10	money	money	NN	compound	13	O	 (NN money)	6
+2	11	center	center	NN	compound	13	O	 (NN center)	6
+2	12	commercial	commercial	JJ	amod	13	O	 (JJ commercial)	6
+2	13	banks	bank	NNS	nmod	3	O	 (NNS banks)))	6
+2	14	.	.	.	punct	3	O	 (. .)))	6
+
+3	1	FEDERAL	federal	JJ	amod	2	O	 (ROOT (NP (NP (JJ FEDERAL)	7
+3	2	FUNDS	fund	NNS	root	0	O	 (NNS FUNDS))	7
+3	3	:	:	:	punct	2	O	 (: :)	7
+3	4	8	8	CD	compound	6	PERCENT	 (NP (NP (ADJP (CD 8)	8
+3	5	3/4	3/4	CD	compound	6	PERCENT	 (CD 3/4)	8
+3	6	%	%	NN	amod	7	PERCENT	 (NN %))	8
+3	7	high	high	JJ	dep	2	O	 (JJ high))	8
+3	8	,	,	,	punct	7	O	 (, ,)	8
+3	9	8	8	CD	compound	10	PERCENT	 (NP (NP (QP (CD 8)	8
+3	10	11/16	11/16	CD	nummod	11	PERCENT	 (CD 11/16))	8
+3	11	%	%	NN	appos	7	PERCENT	 (NN %))	8
+3	12	low	low	JJ	advmod	11	O	 (ADVP (JJ low)))	8
+3	13	,	,	,	punct	7	O	 (, ,)	8
+3	14	8	8	CD	compound	15	PERCENT	 (NP (NP (QP (CD 8)	8
+3	15	5/8	5/8	CD	nummod	16	PERCENT	 (CD 5/8))	8
+3	16	%	%	NN	appos	7	PERCENT	 (NN %))	8
+3	17	near	near	IN	case	19	O	 (PP (IN near)	8
+3	18	closing	closing	NN	compound	19	O	 (NP (NN closing)	8
+3	19	bid	bid	NN	nmod	16	O	 (NN bid))))	8
+3	20	,	,	,	punct	7	O	 (, ,)	8
+3	21	8	8	CD	compound	22	PERCENT	 (NP (NP (QP (CD 8)	8
+3	22	11/16	11/16	CD	nummod	23	PERCENT	 (CD 11/16))	8
+3	23	%	%	NN	appos	7	PERCENT	 (NN %))	8
+3	24	offered	offer	VBN	acl	23	O	 (VP (VBN offered))))	9
+3	25	.	.	.	punct	2	O	 (. .)))	9
+
+4	1	Reserves	reserve	NNS	nsubj	2	O	 (ROOT (S (NP (NNS Reserves))	10
+4	2	traded	trade	VBN	root	0	O	 (VP (VBN traded)	11
+4	3	among	among	IN	case	5	O	 (PP (IN among)	11
+4	4	commercial	commercial	JJ	amod	5	O	 (NP (JJ commercial)	11
+4	5	banks	bank	NNS	nmod	2	O	 (NNS banks)))	11
+4	6	for	for	IN	case	8	O	 (PP (IN for)	11
+4	7	overnight	overnight	JJ	amod	8	TIME	 (NP (JJ overnight)	11
+4	8	use	use	NN	nmod	2	O	 (NN use)))	11
+4	9	in	in	IN	case	10	O	 (PP (IN in)	11
+4	10	amounts	amount	NNS	nmod	2	O	 (NP (NP (NNS amounts))	11
+4	11	of	of	IN	case	12	O	 (PP (IN of)	11
+4	12	$	$	$	nmod	10	MONEY	 (NP (QP ($ $)	11
+4	13	1	1	CD	compound	14	MONEY	 (CD 1)	11
+4	14	million	million	CD	nummod	12	MONEY	 (CD million)	11
+4	15	or	or	CC	cc	12	O	 (CC or)	11
+4	16	more	more	JJR	conj	12	O	 (JJR more)))))))	11
+4	17	.	.	.	punct	2	O	 (. .)))	11
+
+5	1	Source	source	NN	root	0	O	 (ROOT (NP (NP (NN Source))	12
+5	2	:	:	:	punct	1	O	 (: :)	12
+5	3	Fulton	Fulton	NNP	compound	8	ORGANIZATION	 (NP (NNP Fulton)	13
+5	4	Prebon	Prebon	NNP	compound	8	ORGANIZATION	 (NNP Prebon)	13
+5	5	-LRB-	-lrb-	-LRB-	punct	6	ORGANIZATION	 (PRN (-LRB- -LRB-)	14
+5	6	U.S.A.	U.S.A.	NNP	appos	8	ORGANIZATION	 (NP (NNP U.S.A.))	14
+5	7	-RRB-	-rrb-	-RRB-	punct	6	ORGANIZATION	 (-RRB- -RRB-))	14
+5	8	Inc	Inc	NNP	dep	1	ORGANIZATION	 (NNP Inc))	14
+5	9	.	.	.	punct	1	O	 (. .)))	14
+
+6	1	DISCOUNT	discount	NN	compound	2	O	 (ROOT (NP (NP (NN DISCOUNT)	15
+6	2	RATE	rate	NN	root	0	O	 (NN RATE))	15
+6	3	:	:	:	punct	2	O	 (: :)	15
+6	4	7	7	CD	nummod	5	PERCENT	 (NP (CD 7)	16
+6	5	%	%	NN	dep	2	PERCENT	 (NN %))	16
+6	6	.	.	.	punct	2	O	 (. .)))	16
+
+7	1	The	the	DT	det	2	O	 (ROOT (NP (NP (DT The)	17
+7	2	charge	charge	NN	root	0	O	 (NN charge))	17
+7	3	on	on	IN	case	4	O	 (PP (IN on)	17
+7	4	loans	loan	NNS	nmod	2	O	 (NP (NP (NNS loans))	17
+7	5	to	to	TO	case	7	O	 (PP (TO to)	17
+7	6	depository	depository	NN	compound	7	O	 (NP (NN depository)	17
+7	7	institutions	institution	NNS	nmod	4	O	 (NNS institutions)))))	17
+7	8	by	by	IN	case	14	O	 (PP (IN by)	17
+7	9	the	the	DT	det	14	O	 (NP (DT the)	17
+7	10	New	New	NNP	compound	14	ORGANIZATION	 (NNP New)	17
+7	11	York	York	NNP	compound	14	ORGANIZATION	 (NNP York)	17
+7	12	Federal	Federal	NNP	compound	14	ORGANIZATION	 (NNP Federal)	17
+7	13	Reserve	Reserve	NNP	compound	14	ORGANIZATION	 (NNP Reserve)	17
+7	14	Bank	Bank	NNP	nmod	2	ORGANIZATION	 (NNP Bank)))	17
+7	15	.	.	.	punct	2	O	 (. .)))	17
+
+8	1	CALL	call	JJ	amod	2	O	 (ROOT (NP (NP (JJ CALL)	18
+8	2	MONEY	money	NN	root	0	O	 (NN MONEY))	18
+8	3	:	:	:	punct	2	O	 (: :)	18
+8	4	9	9	CD	compound	9	PERCENT	 (NP (QP (CD 9)	19
+8	5	3/4	3/4	CD	compound	9	PERCENT	 (CD 3/4)	19
+8	6	%	%	NN	dep	9	PERCENT	 (NN %)	19
+8	7	to	to	TO	dep	9	O	 (TO to)	19
+8	8	10	10	CD	compound	9	PERCENT	 (CD 10)	19
+8	9	%	%	NN	dep	2	PERCENT	 (NN %)))	19
+8	10	.	.	.	punct	2	O	 (. .)))	19
+
+9	1	The	the	DT	det	2	O	 (ROOT (NP (NP (DT The)	20
+9	2	charge	charge	NN	root	0	O	 (NN charge))	20
+9	3	on	on	IN	case	4	O	 (PP (IN on)	20
+9	4	loans	loan	NNS	nmod	2	O	 (NP (NP (NNS loans))	20
+9	5	to	to	TO	case	6	O	 (PP (TO to)	20
+9	6	brokers	broker	NNS	nmod	4	O	 (NP (NNS brokers)))))	20
+9	7	on	on	IN	case	10	O	 (PP (IN on)	20
+9	8	stock	stock	NN	compound	10	O	 (NP (NN stock)	20
+9	9	exchange	exchange	NN	compound	10	O	 (NN exchange)	20
+9	10	collateral	collateral	NN	nmod	2	O	 (NN collateral)))	20
+9	11	.	.	.	punct	2	O	 (. .)))	20
+
+10	1	COMMERCIAL	commercial	JJ	amod	2	O	 (ROOT (NP (NP (NP (JJ COMMERCIAL)	21
+10	2	PAPER	paper	NN	root	0	O	 (NN PAPER))	21
+10	3	placed	place	VBN	acl	2	O	 (VP (VBN placed)	22
+10	4	directly	directly	RB	advmod	3	O	 (ADVP (RB directly))	22
+10	5	by	by	IN	case	9	O	 (PP (IN by)	22
+10	6	General	General	NNP	compound	9	ORGANIZATION	 (NP (NNP General)	22
+10	7	Motors	Motors	NNPS	compound	9	ORGANIZATION	 (NNPS Motors)	22
+10	8	Acceptance	Acceptance	NNP	compound	9	ORGANIZATION	 (NNP Acceptance)	22
+10	9	Corp.	Corp.	NNP	nmod	3	ORGANIZATION	 (NNP Corp.)))))	22
+10	10	:	:	:	punct	2	O	 (: :)	22
+10	11	8.50	8.50	CD	nummod	12	PERCENT	 (NP (NP (NP (CD 8.50)	23
+10	12	%	%	NN	dep	2	PERCENT	 (NN %))	23
+10	13	30	30	CD	compound	15	DURATION	 (NP-TMP (QP (CD 30)	23
+10	14	to	to	TO	dep	15	DURATION	 (TO to)	23
+10	15	44	44	CD	nummod	16	DURATION	 (CD 44))	23
+10	16	days	day	NNS	nmod:npmod	12	DURATION	 (NNS days)))	23
+10	17	;	;	:	punct	12	O	 (: ;)	23
+10	18	8.25	8.25	CD	nummod	19	PERCENT	 (NP (NP (CD 8.25)	23
+10	19	%	%	NN	dep	12	PERCENT	 (NN %))	23
+10	20	45	45	CD	compound	22	DURATION	 (NP-TMP (QP (CD 45)	23
+10	21	to	to	TO	dep	22	DURATION	 (TO to)	23
+10	22	65	65	CD	nummod	23	DURATION	 (CD 65))	23
+10	23	days	day	NNS	nmod:npmod	19	DURATION	 (NNS days)))	23
+10	24	;	;	:	punct	12	O	 (: ;)	23
+10	25	8.375	8.375	CD	nummod	26	PERCENT	 (NP (NP (CD 8.375)	23
+10	26	%	%	NN	dep	12	PERCENT	 (NN %))	23
+10	27	66	66	CD	compound	29	DURATION	 (NP-TMP (QP (CD 66)	23
+10	28	to	to	TO	dep	29	DURATION	 (TO to)	23
+10	29	89	89	CD	nummod	30	DURATION	 (CD 89))	23
+10	30	days	day	NNS	nmod:npmod	26	DURATION	 (NNS days)))	23
+10	31	;	;	:	punct	12	O	 (: ;)	23
+10	32	8	8	CD	nummod	33	PERCENT	 (NP (NP (CD 8)	23
+10	33	%	%	NN	dep	12	PERCENT	 (NN %))	23
+10	34	90	90	CD	compound	36	DURATION	 (NP-TMP (QP (CD 90)	23
+10	35	to	to	TO	dep	36	DURATION	 (TO to)	23
+10	36	119	119	CD	nummod	37	DURATION	 (CD 119))	23
+10	37	days	day	NNS	nmod:npmod	33	DURATION	 (NNS days)))	23
+10	38	;	;	:	punct	12	O	 (: ;)	23
+10	39	7.875	7.875	CD	nummod	40	PERCENT	 (NP (NP (CD 7.875)	23
+10	40	%	%	NN	dep	12	PERCENT	 (NN %))	23
+10	41	120	120	CD	compound	43	DURATION	 (NP-TMP (QP (CD 120)	23
+10	42	to	to	TO	dep	43	DURATION	 (TO to)	23
+10	43	149	149	CD	nummod	44	DURATION	 (CD 149))	23
+10	44	days	day	NNS	nmod:npmod	40	DURATION	 (NNS days)))	23
+10	45	;	;	:	punct	12	O	 (: ;)	23
+10	46	7.75	7.75	CD	nummod	47	PERCENT	 (NP (NP (CD 7.75)	23
+10	47	%	%	NN	dep	12	PERCENT	 (NN %))	23
+10	48	150	150	CD	compound	50	DURATION	 (NP-TMP (QP (CD 150)	23
+10	49	to	to	TO	dep	50	DURATION	 (TO to)	23
+10	50	179	179	CD	nummod	51	DURATION	 (CD 179))	23
+10	51	days	day	NNS	nmod:npmod	47	DURATION	 (NNS days)))	23
+10	52	;	;	:	punct	12	O	 (: ;)	23
+10	53	7.50	7.50	CD	nummod	54	PERCENT	 (NP (NP (CD 7.50)	23
+10	54	%	%	NN	dep	12	PERCENT	 (NN %))	23
+10	55	180	180	CD	compound	57	DURATION	 (NP-TMP (QP (CD 180)	23
+10	56	to	to	TO	dep	57	DURATION	 (TO to)	23
+10	57	270	270	CD	nummod	58	DURATION	 (CD 270))	23
+10	58	days	day	NNS	nmod:npmod	54	DURATION	 (NNS days))))	23
+10	59	.	.	.	punct	2	O	 (. .)))	23
+
+11	1	COMMERCIAL	commercial	JJ	amod	2	O	 (ROOT (NP (NP (JJ COMMERCIAL)	24
+11	2	PAPER	paper	NN	root	0	O	 (NN PAPER))	24
+11	3	:	:	:	punct	2	O	 (: :)	24
+11	4	High-grade	high-grade	JJ	amod	6	O	 (NP (NP (JJ High-grade)	25
+11	5	unsecured	unsecured	JJ	amod	6	O	 (JJ unsecured)	25
+11	6	notes	note	NNS	dep	2	O	 (NNS notes))	25
+11	7	sold	sell	VBN	acl	6	O	 (VP (VBN sold)	26
+11	8	through	through	IN	case	9	O	 (PP (IN through)	26
+11	9	dealers	dealer	NNS	nmod	7	O	 (NP (NNS dealers)))	26
+11	10	by	by	IN	case	12	O	 (PP (IN by)	26
+11	11	major	major	JJ	amod	12	O	 (NP (NP (JJ major)	26
+11	12	corporations	corporation	NNS	nmod	7	O	 (NNS corporations))	26
+11	13	in	in	IN	case	14	O	 (PP (IN in)	26
+11	14	multiples	multiple	NNS	nmod	12	O	 (NP (NP (NNS multiples))	26
+11	15	of	of	IN	case	17	O	 (PP (IN of)	26
+11	16	$	$	$	dep	17	MONEY	 (NP ($ $)	26
+11	17	1,000	1,000	CD	nmod	14	MONEY	 (CD 1,000)))))))))	26
+11	18	:	:	:	punct	2	O	 (: :)	26
+11	19	8.575	8.575	CD	nummod	20	PERCENT	 (NP (NP (CD 8.575)	27
+11	20	%	%	NN	dep	2	PERCENT	 (NN %))	27
+11	21	30	30	CD	nummod	22	DURATION	 (NP-TMP (CD 30)	27
+11	22	days	day	NNS	nmod:npmod	20	DURATION	 (NNS days)))	27
+11	23	;	;	:	punct	2	O	 (: ;)	27
+11	24	8.475	8.475	CD	nummod	25	PERCENT	 (NP (NP (CD 8.475)	27
+11	25	%	%	NN	dep	2	PERCENT	 (NN %))	27
+11	26	60	60	CD	nummod	27	DURATION	 (NP-TMP (CD 60)	27
+11	27	days	day	NNS	nmod:npmod	25	DURATION	 (NNS days)))	27
+11	28	;	;	:	punct	2	O	 (: ;)	27
+11	29	8.40	8.40	CD	nummod	30	PERCENT	 (NP (NP (CD 8.40)	27
+11	30	%	%	NN	dep	2	PERCENT	 (NN %))	27
+11	31	90	90	CD	nummod	32	DURATION	 (NP-TMP (CD 90)	27
+11	32	days	day	NNS	nmod:npmod	30	DURATION	 (NNS days)))	27
+11	33	.	.	.	punct	2	O	 (. .)))	27
+
+12	1	CERTIFICATES	certificate	NNS	root	0	O	 (ROOT (NP (NP (NP (NNS CERTIFICATES))	28
+12	2	OF	of	IN	case	3	O	 (PP (IN OF)	28
+12	3	DEPOSIT	deposit	NN	nmod	1	O	 (NP (NN DEPOSIT))))	28
+12	4	:	:	:	punct	1	O	 (: :)	28
+12	5	8.09	8.09	CD	nummod	6	PERCENT	 (NP (NP (CD 8.09)	29
+12	6	%	%	NN	dep	1	PERCENT	 (NN %))	29
+12	7	one	one	CD	nummod	8	DURATION	 (NP-TMP (CD one)	29
+12	8	month	month	NN	nmod:npmod	6	DURATION	 (NN month)))	29
+12	9	;	;	:	punct	1	O	 (: ;)	29
+12	10	8.04	8.04	CD	nummod	11	PERCENT	 (NP (NP (CD 8.04)	29
+12	11	%	%	NN	dep	1	PERCENT	 (NN %))	29
+12	12	two	two	CD	nummod	13	DURATION	 (NP-TMP (CD two)	29
+12	13	months	month	NNS	nmod:npmod	11	DURATION	 (NNS months)))	29
+12	14	;	;	:	punct	1	O	 (: ;)	29
+12	15	8.03	8.03	CD	nummod	16	PERCENT	 (NP (NP (CD 8.03)	29
+12	16	%	%	NN	dep	1	PERCENT	 (NN %))	29
+12	17	three	three	CD	nummod	18	DURATION	 (NP-TMP (CD three)	29
+12	18	months	month	NNS	nmod:npmod	16	DURATION	 (NNS months)))	29
+12	19	;	;	:	punct	1	O	 (: ;)	29
+12	20	7.96	7.96	CD	nummod	21	PERCENT	 (NP (NP (CD 7.96)	29
+12	21	%	%	NN	dep	1	PERCENT	 (NN %))	29
+12	22	six	six	CD	nummod	23	DURATION	 (NP-TMP (CD six)	29
+12	23	months	month	NNS	nmod:npmod	21	DURATION	 (NNS months)))	29
+12	24	;	;	:	punct	1	O	 (: ;)	29
+12	25	7.92	7.92	CD	nummod	26	PERCENT	 (NP (NP (CD 7.92)	29
+12	26	%	%	NN	dep	1	PERCENT	 (NN %))	29
+12	27	one	one	CD	nummod	28	DURATION	 (NP-TMP (CD one)	29
+12	28	year	year	NN	nmod:tmod	26	DURATION	 (NN year)))	29
+12	29	.	.	.	punct	1	O	 (. .)))	29
+
+13	1	Average	average	JJ	nsubj	5	O	 (ROOT (S (NP (NP (JJ Average))	30
+13	2	of	of	IN	case	4	O	 (PP (IN of)	30
+13	3	top	top	JJ	amod	4	O	 (NP (JJ top)	30
+13	4	rates	rate	NNS	nmod	1	O	 (NNS rates))))	30
+13	5	paid	pay	VBN	root	0	O	 (VP (VBN paid)	31
+13	6	by	by	IN	case	10	O	 (PP (IN by)	31
+13	7	major	major	JJ	amod	10	O	 (NP (JJ major)	31
+13	8	New	New	NNP	compound	10	STATE_OR_PROVINCE	 (NNP New)	31
+13	9	York	York	NNP	compound	10	STATE_OR_PROVINCE	 (NNP York)	31
+13	10	banks	bank	NNS	nmod	5	O	 (NNS banks)))	31
+13	11	on	on	IN	case	14	O	 (PP (IN on)	31
+13	12	primary	primary	JJ	amod	14	O	 (NP (NP (JJ primary)	31
+13	13	new	new	JJ	amod	14	O	 (JJ new)	31
+13	14	issues	issue	NNS	nmod	5	O	 (NNS issues))	31
+13	15	of	of	IN	case	17	O	 (PP (IN of)	31
+13	16	negotiable	negotiable	JJ	amod	17	O	 (NP (JJ negotiable)	31
+13	17	C.D.s	c.d.s	NNS	nmod	14	O	 (NNS C.D.s))))	31
+13	18	,	,	,	punct	14	O	 (, ,)	31
+13	19	usually	usually	RB	advmod	14	O	 (ADVP (RB usually)))	31
+13	20	on	on	IN	case	21	O	 (PP (IN on)	31
+13	21	amounts	amount	NNS	nmod	5	O	 (NP (NP (NNS amounts))	31
+13	22	of	of	IN	case	23	O	 (PP (IN of)	31
+13	23	$	$	$	nmod	21	MONEY	 (NP (QP ($ $)	31
+13	24	1	1	CD	compound	25	MONEY	 (CD 1)	31
+13	25	million	million	CD	nummod	23	MONEY	 (CD million)	31
+13	26	and	and	CC	cc	23	O	 (CC and)	31
+13	27	more	more	JJR	conj	23	O	 (JJR more)))))))	31
+13	28	.	.	.	punct	5	O	 (. .)))	31
+
+14	1	The	the	DT	det	3	O	 (ROOT (S (NP (DT The)	32
+14	2	minimum	minimum	JJ	amod	3	O	 (JJ minimum)	32
+14	3	unit	unit	NN	nsubj	6	O	 (NN unit))	32
+14	4	is	be	VBZ	cop	6	O	 (VP (VBZ is)	32
+14	5	$	$	$	dep	6	MONEY	 (NP ($ $)	32
+14	6	100,000	100,000	CD	root	0	MONEY	 (CD 100,000)))	32
+14	7	.	.	.	punct	6	O	 (. .)))	32
+
+15	1	Typical	typical	JJ	amod	2	O	 (ROOT (NP (NP (NP (JJ Typical)	33
+15	2	rates	rate	NNS	root	0	O	 (NNS rates))	33
+15	3	in	in	IN	case	6	O	 (PP (IN in)	33
+15	4	the	the	DT	det	6	O	 (NP (DT the)	33
+15	5	secondary	secondary	JJ	amod	6	O	 (JJ secondary)	33
+15	6	market	market	NN	nmod	2	O	 (NN market))))	33
+15	7	:	:	:	punct	2	O	 (: :)	33
+15	8	8.55	8.55	CD	nummod	9	PERCENT	 (NP (NP (CD 8.55)	34
+15	9	%	%	NN	dep	2	PERCENT	 (NN %))	34
+15	10	one	one	CD	nummod	11	DURATION	 (NP-TMP (CD one)	34
+15	11	month	month	NN	nmod:npmod	9	DURATION	 (NN month)))	34
+15	12	;	;	:	punct	2	O	 (: ;)	34
+15	13	8.50	8.50	CD	nummod	14	PERCENT	 (NP (NP (CD 8.50)	34
+15	14	%	%	NN	dep	2	PERCENT	 (NN %))	34
+15	15	three	three	CD	nummod	16	DURATION	 (NP-TMP (CD three)	34
+15	16	months	month	NNS	nmod:npmod	14	DURATION	 (NNS months)))	34
+15	17	;	;	:	punct	2	O	 (: ;)	34
+15	18	8.40	8.40	CD	nummod	19	PERCENT	 (NP (NP (CD 8.40)	34
+15	19	%	%	NN	dep	2	PERCENT	 (NN %))	34
+15	20	six	six	CD	nummod	21	DURATION	 (NP-TMP (CD six)	34
+15	21	months	month	NNS	nmod:npmod	19	DURATION	 (NNS months)))	34
+15	22	.	.	.	punct	2	O	 (. .)))	34
+
+16	1	BANKERS	banker	NNS	compound	2	O	 (ROOT (NP (NP (NNS BANKERS)	35
+16	2	ACCEPTANCES	acceptance	NNS	root	0	O	 (NNS ACCEPTANCES))	35
+16	3	:	:	:	punct	2	O	 (: :)	35
+16	4	8.52	8.52	CD	nummod	5	PERCENT	 (NP (NP (CD 8.52)	36
+16	5	%	%	NN	dep	2	PERCENT	 (NN %))	36
+16	6	30	30	CD	nummod	7	DURATION	 (NP-TMP (CD 30)	36
+16	7	days	day	NNS	nmod:npmod	5	DURATION	 (NNS days)))	36
+16	8	;	;	:	punct	2	O	 (: ;)	36
+16	9	8.35	8.35	CD	nummod	10	PERCENT	 (NP (NP (CD 8.35)	36
+16	10	%	%	NN	dep	2	PERCENT	 (NN %))	36
+16	11	60	60	CD	nummod	12	DURATION	 (NP-TMP (CD 60)	36
+16	12	days	day	NNS	nmod:npmod	10	DURATION	 (NNS days)))	36
+16	13	;	;	:	punct	2	O	 (: ;)	36
+16	14	8.33	8.33	CD	nummod	15	PERCENT	 (NP (NP (CD 8.33)	36
+16	15	%	%	NN	dep	2	PERCENT	 (NN %))	36
+16	16	90	90	CD	nummod	17	DURATION	 (NP-TMP (CD 90)	36
+16	17	days	day	NNS	nmod:npmod	15	DURATION	 (NNS days)))	36
+16	18	;	;	:	punct	2	O	 (: ;)	36
+16	19	8.17	8.17	CD	nummod	20	PERCENT	 (NP (NP (CD 8.17)	36
+16	20	%	%	NN	dep	2	PERCENT	 (NN %))	36
+16	21	120	120	CD	nummod	22	DURATION	 (NP-TMP (CD 120)	36
+16	22	days	day	NNS	nmod:npmod	20	DURATION	 (NNS days)))	36
+16	23	;	;	:	punct	2	O	 (: ;)	36
+16	24	8.08	8.08	CD	nummod	25	PERCENT	 (NP (NP (CD 8.08)	36
+16	25	%	%	NN	dep	2	PERCENT	 (NN %))	36
+16	26	150	150	CD	nummod	27	DURATION	 (NP-TMP (CD 150)	36
+16	27	days	day	NNS	nmod:npmod	25	DURATION	 (NNS days)))	36
+16	28	;	;	:	punct	2	O	 (: ;)	36
+16	29	8	8	CD	nummod	30	PERCENT	 (NP (NP (CD 8)	36
+16	30	%	%	NN	dep	2	PERCENT	 (NN %))	36
+16	31	180	180	CD	nummod	32	DURATION	 (NP-TMP (CD 180)	36
+16	32	days	day	NNS	nmod:npmod	30	DURATION	 (NNS days)))	36
+16	33	.	.	.	punct	2	O	 (. .)))	36
+
+17	1	Negotiable	negotiable	JJ	amod	6	O	 (ROOT (NP (NP (JJ Negotiable)	37
+17	2	,	,	,	punct	6	O	 (, ,)	37
+17	3	bank-backed	bank-backed	JJ	amod	6	O	 (JJ bank-backed)	37
+17	4	business	business	NN	compound	6	O	 (NN business)	37
+17	5	credit	credit	NN	compound	6	O	 (NN credit)	37
+17	6	instruments	instrument	NNS	root	0	O	 (NNS instruments))	37
+17	7	typically	typically	RB	advmod	8	O	 (VP (ADVP (RB typically))	38
+17	8	financing	finance	VBG	acl	6	O	 (VBG financing)	38
+17	9	an	a	DT	det	11	O	 (NP (DT an)	38
+17	10	import	import	NN	compound	11	O	 (NN import)	38
+17	11	order	order	NN	dobj	8	O	 (NN order)))	38
+17	12	.	.	.	punct	6	O	 (. .)))	38
+
+18	1	LONDON	LONDON	NNP	compound	3	CITY	 (ROOT (NP (NP (NNP LONDON)	39
+18	2	LATE	late	JJ	amod	3	O	 (JJ LATE)	39
+18	3	EURODOLLARS	eurodollar	NNS	root	0	O	 (NNS EURODOLLARS))	39
+18	4	:	:	:	punct	3	O	 (: :)	39
+18	5	8	8	CD	compound	11	PERCENT	 (NP (NP (QP (CD 8)	40
+18	6	11/16	11/16	CD	compound	11	PERCENT	 (CD 11/16)	40
+18	7	%	%	NN	dep	11	PERCENT	 (NN %)	40
+18	8	to	to	TO	dep	11	O	 (TO to)	40
+18	9	8	8	CD	compound	11	PERCENT	 (CD 8)	40
+18	10	9/16	9/16	CD	compound	11	PERCENT	 (CD 9/16)	40
+18	11	%	%	NN	dep	3	PERCENT	 (NN %)))	40
+18	12	one	one	CD	nummod	13	DURATION	 (NP-TMP (CD one)	40
+18	13	month	month	NN	nmod:npmod	11	DURATION	 (NN month)))	40
+18	14	;	;	:	punct	3	O	 (: ;)	40
+18	15	8	8	CD	compound	21	PERCENT	 (NP (NP (QP (CD 8)	40
+18	16	5/8	5/8	CD	compound	21	PERCENT	 (CD 5/8)	40
+18	17	%	%	NN	dep	21	PERCENT	 (NN %)	40
+18	18	to	to	TO	dep	21	O	 (TO to)	40
+18	19	8	8	CD	compound	21	PERCENT	 (CD 8)	40
+18	20	1/2	1/2	CD	compound	21	PERCENT	 (CD 1/2)	40
+18	21	%	%	NN	dep	3	PERCENT	 (NN %)))	40
+18	22	two	two	CD	nummod	23	DURATION	 (NP-TMP (CD two)	40
+18	23	months	month	NNS	nmod:npmod	21	DURATION	 (NNS months)))	40
+18	24	;	;	:	punct	3	O	 (: ;)	40
+18	25	8	8	CD	compound	31	PERCENT	 (NP (NP (QP (CD 8)	40
+18	26	11/16	11/16	CD	compound	31	PERCENT	 (CD 11/16)	40
+18	27	%	%	NN	dep	31	PERCENT	 (NN %)	40
+18	28	to	to	TO	dep	31	O	 (TO to)	40
+18	29	8	8	CD	compound	31	PERCENT	 (CD 8)	40
+18	30	9/16	9/16	CD	compound	31	PERCENT	 (CD 9/16)	40
+18	31	%	%	NN	dep	3	PERCENT	 (NN %)))	40
+18	32	three	three	CD	nummod	33	DURATION	 (NP-TMP (CD three)	40
+18	33	months	month	NNS	nmod:npmod	31	DURATION	 (NNS months)))	40
+18	34	;	;	:	punct	3	O	 (: ;)	40
+18	35	8	8	CD	compound	41	PERCENT	 (NP (NP (QP (CD 8)	40
+18	36	9/16	9/16	CD	compound	41	PERCENT	 (CD 9/16)	40
+18	37	%	%	NN	dep	41	PERCENT	 (NN %)	40
+18	38	to	to	TO	dep	41	O	 (TO to)	40
+18	39	8	8	CD	compound	41	PERCENT	 (CD 8)	40
+18	40	7/16	7/16	CD	compound	41	PERCENT	 (CD 7/16)	40
+18	41	%	%	NN	dep	3	PERCENT	 (NN %)))	40
+18	42	four	four	CD	nummod	43	DURATION	 (NP-TMP (CD four)	40
+18	43	months	month	NNS	nmod:npmod	41	DURATION	 (NNS months)))	40
+18	44	;	;	:	punct	3	O	 (: ;)	40
+18	45	8	8	CD	compound	51	PERCENT	 (NP (NP (QP (CD 8)	40
+18	46	1/2	1/2	CD	compound	51	PERCENT	 (CD 1/2)	40
+18	47	%	%	NN	dep	51	PERCENT	 (NN %)	40
+18	48	to	to	TO	dep	51	O	 (TO to)	40
+18	49	8	8	CD	compound	51	PERCENT	 (CD 8)	40
+18	50	3/8	3/8	CD	compound	51	PERCENT	 (CD 3/8)	40
+18	51	%	%	NN	dep	3	PERCENT	 (NN %)))	40
+18	52	five	five	CD	nummod	53	DURATION	 (NP-TMP (CD five)	41
+18	53	months	month	NNS	nmod:npmod	51	DURATION	 (NNS months)))	41
+18	54	;	;	:	punct	3	O	 (: ;)	41
+18	55	8	8	CD	compound	61	PERCENT	 (NP (NP (QP (CD 8)	41
+18	56	7/16	7/16	CD	compound	61	PERCENT	 (CD 7/16)	41
+18	57	%	%	NN	dep	61	PERCENT	 (NN %)	41
+18	58	to	to	TO	dep	61	O	 (TO to)	41
+18	59	8	8	CD	compound	61	PERCENT	 (CD 8)	41
+18	60	5/16	5/16	CD	compound	61	PERCENT	 (CD 5/16)	41
+18	61	%	%	NN	dep	3	PERCENT	 (NN %)))	41
+18	62	six	six	CD	nummod	63	DURATION	 (NP-TMP (CD six)	41
+18	63	months	month	NNS	nmod:npmod	61	DURATION	 (NNS months)))	41
+18	64	.	.	.	punct	3	O	 (. .)))	41
+
+19	1	LONDON	LONDON	NNP	compound	4	CITY	 (ROOT (NP (NP (NNP LONDON)	42
+19	2	INTERBANK	INTERBANK	NNP	compound	4	O	 (NNP INTERBANK)	42
+19	3	OFFERED	OFFERED	NNP	compound	4	O	 (NNP OFFERED)	42
+19	4	RATES	RATES	NNPS	root	0	O	 (NNPS RATES))	42
+19	5	-LRB-	-lrb-	-LRB-	punct	6	O	 (PRN (-LRB- -LRB-)	43
+19	6	LIBOR	LIBOR	NNP	appos	4	MISC	 (NP (NNP LIBOR))	43
+19	7	-RRB-	-rrb-	-RRB-	punct	6	O	 (-RRB- -RRB-))	43
+19	8	:	:	:	punct	4	O	 (: :)	43
+19	9	8	8	CD	compound	10	PERCENT	 (NP (NP (QP (CD 8)	44
+19	10	11/16	11/16	CD	nummod	11	PERCENT	 (CD 11/16))	44
+19	11	%	%	NN	dep	4	PERCENT	 (NN %))	44
+19	12	one	one	CD	nummod	13	DURATION	 (NP-TMP (CD one)	44
+19	13	month	month	NN	nmod:npmod	11	DURATION	 (NN month)))	44
+19	14	;	;	:	punct	4	O	 (: ;)	44
+19	15	8	8	CD	compound	16	PERCENT	 (NP (NP (QP (CD 8)	44
+19	16	11/16	11/16	CD	nummod	17	PERCENT	 (CD 11/16))	44
+19	17	%	%	NN	dep	4	PERCENT	 (NN %))	44
+19	18	three	three	CD	nummod	19	DURATION	 (NP-TMP (CD three)	44
+19	19	months	month	NNS	nmod:npmod	17	DURATION	 (NNS months)))	44
+19	20	;	;	:	punct	4	O	 (: ;)	44
+19	21	8	8	CD	compound	22	PERCENT	 (NP (NP (QP (CD 8)	44
+19	22	7/16	7/16	CD	nummod	23	PERCENT	 (CD 7/16))	44
+19	23	%	%	NN	dep	4	PERCENT	 (NN %))	44
+19	24	six	six	CD	nummod	25	DURATION	 (NP-TMP (CD six)	44
+19	25	months	month	NNS	nmod:npmod	23	DURATION	 (NNS months)))	44
+19	26	;	;	:	punct	4	O	 (: ;)	44
+19	27	8	8	CD	compound	28	PERCENT	 (NP (NP (QP (CD 8)	44
+19	28	3/8	3/8	CD	nummod	29	PERCENT	 (CD 3/8))	44
+19	29	%	%	NN	dep	4	PERCENT	 (NN %))	44
+19	30	one	one	CD	nummod	31	DURATION	 (NP-TMP (CD one)	44
+19	31	year	year	NN	nmod:tmod	29	DURATION	 (NN year)))	44
+19	32	.	.	.	punct	4	O	 (. .)))	44
+
+20	1	The	the	DT	det	2	O	 (ROOT (NP (NP (DT The)	45
+20	2	average	average	NN	root	0	O	 (NN average))	45
+20	3	of	of	IN	case	6	O	 (PP (IN of)	45
+20	4	interbank	interbank	NN	compound	6	O	 (NP (NN interbank)	45
+20	5	offered	offer	VBN	amod	6	O	 (VBN offered)	45
+20	6	rates	rate	NNS	nmod	2	O	 (NNS rates)))	45
+20	7	for	for	IN	case	9	O	 (PP (IN for)	45
+20	8	dollar	dollar	NN	compound	9	O	 (NP (NN dollar)	45
+20	9	deposits	deposit	NNS	nmod	2	O	 (NNS deposits)))	45
+20	10	in	in	IN	case	13	O	 (PP (IN in)	45
+20	11	the	the	DT	det	13	O	 (NP (DT the)	45
+20	12	London	London	NNP	compound	13	CITY	 (NNP London)	45
+20	13	market	market	NN	nmod	2	O	 (NN market)))	45
+20	14	based	base	VBN	acl	2	O	 (VP (VBN based)	46
+20	15	on	on	IN	case	16	O	 (PP (IN on)	46
+20	16	quotations	quotation	NNS	nmod	14	O	 (NP (NP (NNS quotations))	46
+20	17	at	at	IN	case	20	O	 (PP (IN at)	46
+20	18	five	five	CD	nummod	20	NUMBER	 (NP (CD five)	46
+20	19	major	major	JJ	amod	20	O	 (JJ major)	46
+20	20	banks	bank	NNS	nmod	16	O	 (NNS banks))))))	46
+20	21	.	.	.	punct	2	O	 (. .)))	46
+
+21	1	FOREIGN	foreign	JJ	amod	3	O	 (ROOT (NP (NP (JJ FOREIGN)	47
+21	2	PRIME	prime	JJ	amod	3	O	 (JJ PRIME)	47
+21	3	RATES	rate	NNS	root	0	O	 (NNS RATES))	47
+21	4	:	:	:	punct	3	O	 (: :)	47
+21	5	Canada	Canada	NNP	dep	3	COUNTRY	 (NP (NP (NNP Canada))	48
+21	6	13.50	13.50	CD	nummod	7	PERCENT	 (NP (CD 13.50)	48
+21	7	%	%	NN	dep	5	PERCENT	 (NN %)))	48
+21	8	;	;	:	punct	3	O	 (: ;)	48
+21	9	Germany	Germany	NNP	dep	3	COUNTRY	 (NP (NP (NNP Germany))	48
+21	10	9	9	CD	compound	11	PERCENT	 (ADJP (CD 9)	48
+21	11	%	%	NN	amod	9	PERCENT	 (NN %)))	48
+21	12	;	;	:	punct	3	O	 (: ;)	48
+21	13	Japan	Japan	NNP	dep	3	COUNTRY	 (NP (NP (NNP Japan))	48
+21	14	4.875	4.875	CD	nummod	15	PERCENT	 (NP (CD 4.875)	48
+21	15	%	%	NN	dep	13	PERCENT	 (NN %)))	48
+21	16	;	;	:	punct	3	O	 (: ;)	48
+21	17	Switzerland	Switzerland	NNP	dep	3	COUNTRY	 (NP (NP (NNP Switzerland))	48
+21	18	8.50	8.50	CD	nummod	19	PERCENT	 (NP (CD 8.50)	48
+21	19	%	%	NN	dep	17	PERCENT	 (NN %)))	48
+21	20	;	;	:	punct	3	O	 (: ;)	48
+21	21	Britain	Britain	NNP	dep	3	COUNTRY	 (NP (NP (NNP Britain))	48
+21	22	15	15	CD	compound	23	PERCENT	 (ADJP (CD 15)	48
+21	23	%	%	NN	amod	21	PERCENT	 (NN %)))	48
+21	24	.	.	.	punct	3	O	 (. .)))	48
+
+22	1	These	these	DT	det	3	O	 (ROOT (S (S (NP (DT These)	49
+22	2	rate	rate	NN	compound	3	O	 (NN rate)	49
+22	3	indications	indication	NNS	nsubj	7	O	 (NNS indications))	49
+22	4	are	be	VBP	cop	7	O	 (VP (VBP are)	49
+22	5	n't	not	RB	neg	7	O	 (RB n't)	49
+22	6	directly	directly	RB	advmod	7	O	 (ADJP (RB directly)	49
+22	7	comparable	comparable	JJ	root	0	O	 (JJ comparable))))	49
+22	8	;	;	:	punct	7	O	 (: ;)	49
+22	9	lending	lending	NN	compound	10	O	 (S (NP (NN lending)	50
+22	10	practices	practice	NNS	nsubj	11	O	 (NNS practices))	50
+22	11	vary	vary	VBP	parataxis	7	O	 (VP (VBP vary)	50
+22	12	widely	widely	RB	advmod	11	O	 (ADVP (RB widely))	50
+22	13	by	by	IN	case	14	O	 (PP (IN by)	50
+22	14	location	location	NN	nmod	11	O	 (NP (NN location)))))	50
+22	15	.	.	.	punct	7	O	 (. .)))	50
+
+23	1	TREASURY	treasury	NN	compound	2	ORGANIZATION	 (ROOT (NP (NP (NN TREASURY)	51
+23	2	BILLS	bill	NNS	root	0	O	 (NNS BILLS))	51
+23	3	:	:	:	punct	2	O	 (: :)	51
+23	4	Results	result	NNS	dep	2	O	 (NP (NP (NNS Results))	52
+23	5	of	of	IN	case	14	O	 (PP (IN of)	52
+23	6	the	the	DT	det	14	DATE	 (NP (NP (DT the)	52
+23	7	Monday	Monday	NNP	dep	14	DATE	 (NAC (NNP Monday)	52
+23	8	,	,	,	punct	7	DATE	 (, ,)	52
+23	9	October	October	NNP	dep	7	DATE	 (NNP October)	52
+23	10	23	23	CD	dep	7	DATE	 (CD 23)	52
+23	11	,	,	,	punct	7	DATE	 (, ,)	52
+23	12	1989	1989	CD	dep	7	DATE	 (CD 1989)	52
+23	13	,	,	,	punct	7	O	 (, ,))	52
+23	14	auction	auction	NN	nmod	4	O	 (NN auction))	52
+23	15	of	of	IN	case	19	O	 (PP (IN of)	52
+23	16	short-term	short-term	JJ	amod	19	O	 (NP (JJ short-term)	52
+23	17	U.S.	U.S.	NNP	compound	19	COUNTRY	 (NNP U.S.)	52
+23	18	government	government	NN	compound	19	O	 (NN government)	52
+23	19	bills	bill	NNS	nmod	14	O	 (NNS bills)))	52
+23	20	,	,	,	punct	14	O	 (, ,)	52
+23	21	sold	sell	VBN	acl	14	O	 (VP (VBN sold)	53
+23	22	at	at	IN	case	24	O	 (PP (IN at)	53
+23	23	a	a	DT	det	24	O	 (NP (NP (DT a)	53
+23	24	discount	discount	NN	nmod	21	O	 (NN discount))	53
+23	25	from	from	IN	case	27	O	 (PP (IN from)	53
+23	26	face	face	NN	compound	27	O	 (NP (NN face)	53
+23	27	value	value	NN	nmod	24	O	 (NN value)))))	53
+23	28	in	in	IN	case	29	O	 (PP (IN in)	53
+23	29	units	unit	NNS	nmod	21	O	 (NP (NP (NNS units))	53
+23	30	of	of	IN	case	34	O	 (PP (IN of)	53
+23	31	$	$	$	dep	34	MONEY	 (NP (QP ($ $)	53
+23	32	10,000	10,000	CD	compound	34	MONEY	 (CD 10,000)	53
+23	33	to	to	TO	dep	34	O	 (TO to)	53
+23	34	$	$	$	nmod	29	MONEY	 ($ $)	53
+23	35	1	1	CD	compound	36	MONEY	 (CD 1)	53
+23	36	million	million	CD	nummod	34	MONEY	 (CD million))))))))))	53
+23	37	:	:	:	punct	2	O	 (: :)	53
+23	38	7.52	7.52	CD	nummod	39	PERCENT	 (NP (NP (CD 7.52)	53
+23	39	%	%	NN	dep	2	PERCENT	 (NN %))	53
+23	40	13	13	CD	nummod	41	DURATION	 (NP-TMP (CD 13)	53
+23	41	weeks	week	NNS	nmod:tmod	39	DURATION	 (NNS weeks)))	53
+23	42	;	;	:	punct	2	O	 (: ;)	53
+23	43	7.50	7.50	CD	nummod	44	PERCENT	 (NP (NP (CD 7.50)	53
+23	44	%	%	NN	dep	2	PERCENT	 (NN %))	53
+23	45	26	26	CD	nummod	46	DURATION	 (NP-TMP (CD 26)	53
+23	46	weeks	week	NNS	nmod:tmod	44	DURATION	 (NNS weeks)))	53
+23	47	.	.	.	punct	2	O	 (. .)))	53
+
+24	1	FEDERAL	FEDERAL	NNP	compound	5	ORGANIZATION	 (ROOT (NP (NP (NNP FEDERAL)	54
+24	2	HOME	HOME	NNP	compound	5	ORGANIZATION	 (NNP HOME)	54
+24	3	LOAN	LOAN	NNP	compound	5	ORGANIZATION	 (NNP LOAN)	54
+24	4	MORTGAGE	MORTGAGE	NNP	compound	5	ORGANIZATION	 (NNP MORTGAGE)	54
+24	5	CORP.	CORP.	NNP	root	0	ORGANIZATION	 (NNP CORP.))	54
+24	6	-LRB-	-lrb-	-LRB-	punct	8	O	 (PRN (-LRB- -LRB-)	55
+24	7	Freddie	Freddie	NNP	compound	8	ORGANIZATION	 (NP (NNP Freddie)	55
+24	8	Mac	Mac	NNP	appos	5	ORGANIZATION	 (NNP Mac))	55
+24	9	-RRB-	-rrb-	-RRB-	punct	8	O	 (-RRB- -RRB-))	55
+24	10	:	:	:	punct	5	O	 (: :)	55
+24	11	Posted	post	VBN	amod	12	O	 (NP (NP (VBN Posted)	56
+24	12	yields	yield	NNS	dep	5	O	 (NNS yields))	56
+24	13	on	on	IN	case	16	O	 (PP (IN on)	56
+24	14	30-year	30-year	JJ	amod	16	DURATION	 (NP (JJ 30-year)	56
+24	15	mortgage	mortgage	NN	compound	16	O	 (NN mortgage)	56
+24	16	commitments	commitment	NNS	nmod	12	O	 (NNS commitments)))	56
+24	17	for	for	IN	case	18	O	 (PP (IN for)	56
+24	18	delivery	delivery	NN	nmod	12	O	 (NP (NN delivery)))	56
+24	19	within	within	IN	case	21	O	 (PP (IN within)	56
+24	20	30	30	CD	nummod	21	DURATION	 (NP (CD 30)	56
+24	21	days	day	NNS	nmod	12	DURATION	 (NNS days))))	56
+24	22	.	.	.	punct	5	O	 (. .)))	56
+
+25	1	9.80	9.80	CD	nummod	2	PERCENT	 (ROOT (NP (NP (NP (CD 9.80)	57
+25	2	%	%	NN	root	0	PERCENT	 (NN %))	57
+25	3	,	,	,	punct	2	O	 (, ,)	57
+25	4	standard	standard	JJ	amod	7	O	 (NP (JJ standard)	57
+25	5	conventional	conventional	JJ	amod	7	O	 (JJ conventional)	57
+25	6	fixed-rate	fixed-rate	JJ	amod	7	O	 (JJ fixed-rate)	57
+25	7	mortgages	mortgage	NNS	appos	2	O	 (NNS mortgages)))	57
+25	8	;	;	:	punct	2	O	 (: ;)	57
+25	9	7.875	7.875	CD	nummod	10	PERCENT	 (NP (NP (CD 7.875)	57
+25	10	%	%	NN	dep	2	PERCENT	 (NN %))	57
+25	11	,	,	,	punct	10	O	 (, ,)	57
+25	12	2	2	CD	compound	13	PERCENT	 (NP (ADJP (CD 2)	57
+25	13	%	%	NN	amod	19	PERCENT	 (NN %))	57
+25	14	rate	rate	NN	compound	19	O	 (NN rate)	57
+25	15	capped	cap	VBD	amod	19	O	 (VBD capped)	57
+25	16	one-year	one-year	JJ	amod	19	DURATION	 (JJ one-year)	57
+25	17	adjustable	adjustable	JJ	amod	19	O	 (JJ adjustable)	57
+25	18	rate	rate	NN	compound	19	O	 (NN rate)	57
+25	19	mortgages	mortgage	NNS	appos	10	O	 (NNS mortgages)))	57
+25	20	.	.	.	punct	2	O	 (. .)))	57
+
+26	1	Source	source	NN	root	0	O	 (ROOT (NP (NP (NN Source))	58
+26	2	:	:	:	punct	1	O	 (: :)	58
+26	3	Telerate	Telerate	NNP	compound	5	ORGANIZATION	 (NP (NNP Telerate)	59
+26	4	Systems	Systems	NNPS	compound	5	ORGANIZATION	 (NNPS Systems)	59
+26	5	Inc	Inc	NNP	dep	1	ORGANIZATION	 (NNP Inc))	59
+26	6	.	.	.	punct	1	O	 (. .)))	59
+
+27	1	FEDERAL	FEDERAL	NNP	compound	4	ORGANIZATION	 (ROOT (NP (NP (NNP FEDERAL)	60
+27	2	NATIONAL	NATIONAL	NNP	compound	4	ORGANIZATION	 (NNP NATIONAL)	60
+27	3	MORTGAGE	MORTGAGE	NNP	compound	4	ORGANIZATION	 (NNP MORTGAGE)	60
+27	4	ASSOCIATION	ASSOCIATION	NNP	root	0	ORGANIZATION	 (NNP ASSOCIATION))	60
+27	5	-LRB-	-lrb-	-LRB-	punct	7	O	 (PRN (-LRB- -LRB-)	61
+27	6	Fannie	Fannie	NNP	compound	7	ORGANIZATION	 (NP (NNP Fannie)	61
+27	7	Mae	Mae	NNP	appos	4	ORGANIZATION	 (NNP Mae))	61
+27	8	-RRB-	-rrb-	-RRB-	punct	7	O	 (-RRB- -RRB-))	61
+27	9	:	:	:	punct	4	O	 (: :)	61
+27	10	Posted	post	VBN	amod	11	O	 (NP (NP (VBN Posted)	62
+27	11	yields	yield	NNS	dep	4	O	 (NNS yields))	62
+27	12	on	on	IN	case	16	O	 (PP (IN on)	62
+27	13	30	30	CD	nummod	16	DURATION	 (NP (NP (CD 30)	62
+27	14	year	year	NN	compound	16	DURATION	 (NN year)	62
+27	15	mortgage	mortgage	NN	compound	16	O	 (NN mortgage)	62
+27	16	commitments	commitment	NNS	nmod	11	O	 (NNS commitments))	62
+27	17	for	for	IN	case	18	O	 (PP (IN for)	62
+27	18	delivery	delivery	NN	nmod	16	O	 (NP (NN delivery)))))	62
+27	19	within	within	IN	case	21	O	 (PP (IN within)	62
+27	20	30	30	CD	nummod	21	DURATION	 (NP (CD 30)	62
+27	21	days	day	NNS	nmod	11	DURATION	 (NNS days)))	62
+27	22	-LRB-	-lrb-	-LRB-	punct	23	O	 (PRN (-LRB- -LRB-)	63
+27	23	priced	price	VBN	dep	11	O	 (VP (VBN priced)	63
+27	24	at	at	IN	case	25	O	 (PP (IN at)	63
+27	25	par	par	NN	nmod	23	O	 (NP (NN par))))	63
+27	26	-RRB-	-rrb-	-RRB-	punct	23	O	 (-RRB- -RRB-)))	63
+27	27	9.75	9.75	CD	nummod	28	PERCENT	 (NP (NP (NP (CD 9.75)	63
+27	28	%	%	NN	dep	4	PERCENT	 (NN %))	63
+27	29	,	,	,	punct	28	O	 (, ,)	63
+27	30	standard	standard	JJ	amod	33	O	 (NP (JJ standard)	63
+27	31	conventional	conventional	JJ	amod	33	O	 (JJ conventional)	63
+27	32	fixed-rate	fixed-rate	JJ	amod	33	O	 (JJ fixed-rate)	63
+27	33	mortgages	mortgage	NNS	appos	28	O	 (NNS mortgages)))	63
+27	34	;	;	:	punct	28	O	 (: ;)	63
+27	35	8.70	8.70	CD	nummod	36	PERCENT	 (NP (NP (CD 8.70)	63
+27	36	%	%	NN	dep	28	PERCENT	 (NN %))	63
+27	37	,	,	,	punct	36	O	 (, ,)	63
+27	38	6/2	6/2	CD	nummod	44	NUMBER	 (NP (CD 6/2)	63
+27	39	rate	rate	NN	amod	44	O	 (ADJP (NN rate)	63
+27	40	capped	cap	VBD	dep	39	O	 (VBD capped))	63
+27	41	one-year	one-year	JJ	amod	44	DURATION	 (JJ one-year)	63
+27	42	adjustable	adjustable	JJ	amod	44	O	 (JJ adjustable)	63
+27	43	rate	rate	NN	compound	44	O	 (NN rate)	63
+27	44	mortgages	mortgage	NNS	appos	36	O	 (NNS mortgages))))	63
+27	45	.	.	.	punct	4	O	 (. .)))	63
+
+28	1	Source	source	NN	root	0	O	 (ROOT (NP (NP (NN Source))	64
+28	2	:	:	:	punct	1	O	 (: :)	64
+28	3	Telerate	Telerate	NNP	compound	5	ORGANIZATION	 (NP (NNP Telerate)	65
+28	4	Systems	Systems	NNPS	compound	5	ORGANIZATION	 (NNPS Systems)	65
+28	5	Inc	Inc	NNP	dep	1	ORGANIZATION	 (NNP Inc))	65
+28	6	.	.	.	punct	1	O	 (. .)))	65
+
+29	1	MERRILL	MERRILL	NNP	compound	5	ORGANIZATION	 (ROOT (NP (NP (NNP MERRILL)	66
+29	2	LYNCH	LYNCH	NNP	compound	5	ORGANIZATION	 (NNP LYNCH)	66
+29	3	READY	READY	NNP	compound	5	O	 (NNP READY)	66
+29	4	ASSETS	ASSETS	NNPS	compound	5	O	 (NNPS ASSETS)	66
+29	5	TRUST	TRUST	NNP	root	0	O	 (NNP TRUST))	66
+29	6	:	:	:	punct	5	O	 (: :)	66
+29	7	8.65	8.65	CD	nummod	8	PERCENT	 (NP (CD 8.65)	67
+29	8	%	%	NN	dep	5	PERCENT	 (NN %))	67
+29	9	.	.	.	punct	5	O	 (. .)))	67
+
+30	1	Annualized	annualized	JJ	amod	3	O	 (ROOT (NP (NP (NP (JJ Annualized)	68
+30	2	average	average	JJ	amod	3	O	 (JJ average)	68
+30	3	rate	rate	NN	root	0	O	 (NN rate))	68
+30	4	of	of	IN	case	5	O	 (PP (IN of)	68
+30	5	return	return	NN	nmod	3	O	 (NP (NP (NN return))	68
+30	6	after	after	IN	case	7	O	 (PP (IN after)	68
+30	7	expenses	expense	NNS	nmod	5	O	 (NP (NP (NNS expenses))	68
+30	8	for	for	IN	case	12	O	 (PP (IN for)	68
+30	9	the	the	DT	det	12	DURATION	 (NP (DT the)	68
+30	10	past	past	JJ	amod	12	DURATION	 (JJ past)	68
+30	11	30	30	CD	nummod	12	DURATION	 (CD 30)	68
+30	12	days	day	NNS	nmod	7	DURATION	 (NNS days))))))))	68
+30	13	;	;	:	punct	3	O	 (: ;)	68
+30	14	not	not	RB	neg	16	O	 (NP (NP (RB not)	68
+30	15	a	a	DT	det	16	O	 (DT a)	68
+30	16	forecast	forecast	NN	dep	3	O	 (NN forecast))	68
+30	17	of	of	IN	case	19	O	 (PP (IN of)	68
+30	18	future	future	JJ	amod	19	DATE	 (NP (JJ future)	68
+30	19	returns	return	NNS	nmod	16	O	 (NNS returns))))	68
+30	20	.	.	.	punct	3	O	 (. .)))	68
+

@@ -1,0 +1,211 @@
+<rst>
+<header>
+	<relations>
+			<rel name="Analogy" type="multinuc"/>
+			<rel name="Cause-Result" type="multinuc"/>
+			<rel name="Comment-Topic" type="multinuc"/>
+			<rel name="Comparison" type="multinuc"/>
+			<rel name="Conclusion" type="multinuc"/>
+			<rel name="Consequence" type="multinuc"/>
+			<rel name="Contrast" type="multinuc"/>
+			<rel name="Disjunction" type="multinuc"/>
+			<rel name="Evaluation" type="multinuc"/>
+			<rel name="Interpretation" type="multinuc"/>
+			<rel name="Inverted-Sequence" type="multinuc"/>
+			<rel name="List" type="multinuc"/>
+			<rel name="Otherwise" type="multinuc"/>
+			<rel name="Problem-Solution" type="multinuc"/>
+			<rel name="Proportion" type="multinuc"/>
+			<rel name="Question-Answer" type="multinuc"/>
+			<rel name="Reason" type="multinuc"/>
+			<rel name="Same-Unit" type="multinuc"/>
+			<rel name="Sequence" type="multinuc"/>
+			<rel name="Statement-Response" type="multinuc"/>
+			<rel name="Temporal-Same-Time" type="multinuc"/>
+			<rel name="TextualOrganization" type="multinuc"/>
+			<rel name="Topic-Comment" type="multinuc"/>
+			<rel name="Topic-Drift" type="multinuc"/>
+			<rel name="Topic-Shift" type="multinuc"/>
+			<rel name="analogy-e" type="rst"/>
+			<rel name="analogy" type="rst"/>
+			<rel name="antithesis-e" type="rst"/>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution-e" type="rst"/>
+			<rel name="attribution-n-e" type="rst"/>
+			<rel name="attribution-n" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background-e" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause-e" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance-e" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="comment-e" type="rst"/>
+			<rel name="comment" type="rst"/>
+			<rel name="comparison-e" type="rst"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="concession-e" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion-e" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition-e" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="consequence-n-e" type="rst"/>
+			<rel name="consequence-n" type="rst"/>
+			<rel name="consequence-s-e" type="rst"/>
+			<rel name="consequence-s" type="rst"/>
+			<rel name="contingency-e" type="rst"/>
+			<rel name="contingency" type="rst"/>
+			<rel name="definition-e" type="rst"/>
+			<rel name="definition" type="rst"/>
+			<rel name="elaboration-additional-e" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-general-specific-e" type="rst"/>
+			<rel name="elaboration-general-specific" type="rst"/>
+			<rel name="elaboration-object-attribute-e" type="rst"/>
+			<rel name="elaboration-object-attribute" type="rst"/>
+			<rel name="elaboration-part-whole-e" type="rst"/>
+			<rel name="elaboration-part-whole" type="rst"/>
+			<rel name="elaboration-process-step-e" type="rst"/>
+			<rel name="elaboration-process-step" type="rst"/>
+			<rel name="elaboration-set-member-e" type="rst"/>
+			<rel name="elaboration-set-member" type="rst"/>
+			<rel name="enablement-e" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n-e" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s-e" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence-e" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="example-e" type="rst"/>
+			<rel name="example" type="rst"/>
+			<rel name="explanation-argumentative-e" type="rst"/>
+			<rel name="explanation-argumentative" type="rst"/>
+			<rel name="hypothetical-e" type="rst"/>
+			<rel name="hypothetical" type="rst"/>
+			<rel name="interpretation-n-e" type="rst"/>
+			<rel name="interpretation-n" type="rst"/>
+			<rel name="interpretation-s-e" type="rst"/>
+			<rel name="interpretation-s" type="rst"/>
+			<rel name="manner-e" type="rst"/>
+			<rel name="manner" type="rst"/>
+			<rel name="means-e" type="rst"/>
+			<rel name="means" type="rst"/>
+			<rel name="otherwise-e" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preference-e" type="rst"/>
+			<rel name="preference" type="rst"/>
+			<rel name="problem-solution-n-e" type="rst"/>
+			<rel name="problem-solution-n" type="rst"/>
+			<rel name="problem-solution-s-e" type="rst"/>
+			<rel name="problem-solution-s" type="rst"/>
+			<rel name="purpose-e" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question-answer-n-e" type="rst"/>
+			<rel name="question-answer-n" type="rst"/>
+			<rel name="question-answer-s-e" type="rst"/>
+			<rel name="question-answer-s" type="rst"/>
+			<rel name="reason-e" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-e" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result-e" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="rhetorical-question-e" type="rst"/>
+			<rel name="rhetorical-question" type="rst"/>
+			<rel name="statement-response-n-e" type="rst"/>
+			<rel name="statement-response-n" type="rst"/>
+			<rel name="statement-response-s-e" type="rst"/>
+			<rel name="statement-response-s" type="rst"/>
+			<rel name="summary-n-e" type="rst"/>
+			<rel name="summary-n" type="rst"/>
+			<rel name="summary-s-e" type="rst"/>
+			<rel name="summary-s" type="rst"/>
+			<rel name="temporal-after-e" type="rst"/>
+			<rel name="temporal-after" type="rst"/>
+			<rel name="temporal-before-e" type="rst"/>
+			<rel name="temporal-before" type="rst"/>
+			<rel name="temporal-same-time-e" type="rst"/>
+			<rel name="temporal-same-time" type="rst"/>
+			<rel name="topic-drift-e" type="rst"/>
+			<rel name="topic-drift" type="rst"/>
+			<rel name="topic-shift-e" type="rst"/>
+			<rel name="topic-shift" type="rst"/>
+		</relations>
+</header>
+<body>
+		<segment id="1" parent="37" relname="TextualOrganization">Introduction :</segment>
+		<segment id="2" parent="41" relname="Topic-Shift">This paper describes a fictitious study of a fictitious drug.</segment>
+		<segment id="3" parent="75" relname="span">A companion paper in this issue of the Indian J Psychiatry critically examines this paper</segment>
+		<segment id="4" >and provides author , reader , reviewer , and researcher perspectives on problems</segment>
+		<segment id="5" >related to the design and conduct of a clinical trial ;</segment>
+		<segment id="6" >on issues</segment>
+		<segment id="7" >related to the analysis of data ;</segment>
+		<segment id="8" parent="40" relname="List">on how to write a research paper ;</segment>
+		<segment id="9" parent="40" relname="List">and on how to critically read or review a journal article.</segment>
+		<segment id="10" parent="43" relname="span">Readers are invited to appraise this paper</segment>
+		<segment id="11" parent="10" relname="temporal-after">and then compare their assessment with that presented in the companion paper.</segment>
+		<segment id="12" parent="44" relname="TextualOrganization">Background :</segment>
+		<segment id="13" parent="45" relname="span">This study sought to compare the safety and efficacy of placeboxetine</segment>
+		<segment id="14" parent="13" relname="restatement-e">(PB)</segment>
+		<segment id="15" parent="46" relname="Same-Unit">hydrochloride extended release capsules with sertraline hydrochloride in patients</segment>
+		<segment id="16" >diagnosed with major depressive disorder in 15 general hospitals in south India.</segment>
+		<segment id="17" parent="49" relname="TextualOrganization">Materials and Methods :</segment>
+		<segment id="18" >In a prospective , open-label , 15-center , randomized controlled clinical trial , consecutive outpatients</segment>
+		<segment id="19" >diagnosed with major depressive disorder of at least moderate severity</segment>
+		<segment id="20" >were randomized 1:1 to receive flexible doses of either PB or sertraline once each morning.</segment>
+		<segment id="21" parent="56" relname="span">Patients were evaluated every two weeks , until the study endpoint ,</segment>
+		<segment id="22" parent="55" relname="span">using the Hamilton Rating Scale for Depression</segment>
+		<segment id="23" parent="22" relname="restatement">(HAM-D)</segment>
+		<segment id="24" parent="54" relname="span">and the Montgomery-Asberg Rating Scale</segment>
+		<segment id="25" parent="24" relname="restatement">(MADRS).</segment>
+		<segment id="26" parent="59" relname="Temporal-Same-Time">Safety was determined through assessments of vital signs , adverse events , study discontinuation rates , hematological parameters , metabolic parameters , electrocardiography , and other measures.</segment>
+		<segment id="27" parent="60" relname="TextualOrganization">Results :</segment>
+		<segment id="28" parent="62" relname="Topic-Drift">Ten patients dropped out of the study from each treatment arm.</segment>
+		<segment id="29" parent="63" relname="Comparison">There was a significant , marked improvement in HAM-D and MADRS scores in each group by the treatment endpoint.</segment>
+		<segment id="30" parent="63" relname="Comparison">There was no significant difference between PB and sertraline groups on either HAM-D or MADRS at any visit.</segment>
+		<segment id="31" parent="64" relname="Comparison">The response rate was 90 % with PB and 92 % with sertraline.</segment>
+		<segment id="32" parent="65" relname="Comparison">The remission rate was 70 % with PB and 75 % with sertraline.</segment>
+		<segment id="33" parent="66" relname="span">All laboratory parameters were within normal limits in all patients.</segment>
+		<segment id="34" parent="33" relname="restatement">There were no serious adverse events.</segment>
+		<segment id="35" parent="67" relname="TextualOrganization">Conclusions :</segment>
+		<segment id="36" parent="67" relname="TextualOrganization">Placeboxetine is as safe and effective as sertraline in Indian patients with major depressive disorder.</segment>
+		<group id="37" type="multinuc" parent="71" relname="background"/>
+		<group id="38" type="span" parent="37" relname="TextualOrganization"/>
+		<group id="39" type="span" parent="41" relname="Topic-Shift"/>
+		<group id="40" type="multinuc" parent="73" relname="elaboration-additional"/>
+		<group id="41" type="multinuc" parent="38" relname="span"/>
+		<group id="42" type="span" parent="39" relname="span"/>
+		<group id="43" type="span" parent="42" relname="elaboration-additional"/>
+		<group id="44" type="multinuc" parent="68" relname="Question-Answer"/>
+		<group id="45" type="span" parent="46" relname="Same-Unit"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="48" type="span" parent="44" relname="TextualOrganization"/>
+		<group id="49" type="multinuc" parent="69" relname="Cause-Result"/>
+		<group id="52" type="span" parent="21" relname="manner"/>
+		<group id="53" type="multinuc" parent="52" relname="span"/>
+		<group id="54" type="span" parent="53" relname="List"/>
+		<group id="55" type="span" parent="53" relname="List"/>
+		<group id="56" type="span" parent="58" relname="Sequence"/>
+		<group id="58" type="multinuc" parent="59" relname="Temporal-Same-Time"/>
+		<group id="59" type="multinuc" parent="49" relname="TextualOrganization"/>
+		<group id="60" type="multinuc" parent="69" relname="Cause-Result"/>
+		<group id="61" type="span" parent="60" relname="TextualOrganization"/>
+		<group id="62" type="multinuc" parent="61" relname="span"/>
+		<group id="63" type="multinuc" parent="62" relname="Topic-Drift"/>
+		<group id="64" type="multinuc" parent="62" relname="Topic-Drift"/>
+		<group id="65" type="multinuc" parent="62" relname="Topic-Drift"/>
+		<group id="66" type="span" parent="62" relname="Topic-Drift"/>
+		<group id="67" type="multinuc" parent="70" relname="Conclusion"/>
+		<group id="68" type="multinuc" parent="70" relname="Conclusion"/>
+		<group id="69" type="multinuc" parent="68" relname="Question-Answer"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="72" type="span" />
+		<group id="73" type="span" parent="42" relname="span"/>
+		<group id="74" type="multinuc" parent="73" relname="span"/>
+		<group id="75" type="span" parent="74" relname="Same-Unit"/>
+  </body>
+</rst>

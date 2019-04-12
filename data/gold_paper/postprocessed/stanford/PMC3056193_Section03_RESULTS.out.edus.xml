@@ -1,0 +1,3398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <docId>PMC3056193_Section03_RESULTS.out.edus</docId>
+    <sentences>
+      <sentence id="1" line="1">
+        <tokens>
+          <token id="1">
+            <word>RESULTS</word>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="2" line="2">
+        <tokens>
+          <token id="1">
+            <word>A</word>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>total</word>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>of</word>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>18</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>209</word>
+            <CharacterOffsetBegin>19</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>patients</word>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>were</word>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>screened</word>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>.</word>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="3" line="3">
+        <tokens>
+          <token id="1">
+            <word>Nine</word>
+            <CharacterOffsetBegin>47</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>patients</word>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>did</word>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>not</word>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>meet</word>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>73</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>the</word>
+            <CharacterOffsetBegin>74</CharacterOffsetBegin>
+            <CharacterOffsetEnd>77</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>study</word>
+            <CharacterOffsetBegin>78</CharacterOffsetBegin>
+            <CharacterOffsetEnd>83</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>selection</word>
+            <CharacterOffsetBegin>84</CharacterOffsetBegin>
+            <CharacterOffsetEnd>93</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>criteria</word>
+            <CharacterOffsetBegin>94</CharacterOffsetBegin>
+            <CharacterOffsetEnd>102</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>;</word>
+            <CharacterOffsetBegin>102</CharacterOffsetBegin>
+            <CharacterOffsetEnd>103</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="4" line="4">
+        <tokens>
+          <token id="1">
+            <word>thus</word>
+            <CharacterOffsetBegin>104</CharacterOffsetBegin>
+            <CharacterOffsetEnd>108</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>,</word>
+            <CharacterOffsetBegin>108</CharacterOffsetBegin>
+            <CharacterOffsetEnd>109</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>200</word>
+            <CharacterOffsetBegin>110</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>patients</word>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>122</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>were</word>
+            <CharacterOffsetBegin>123</CharacterOffsetBegin>
+            <CharacterOffsetEnd>127</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>recruited</word>
+            <CharacterOffsetBegin>128</CharacterOffsetBegin>
+            <CharacterOffsetEnd>137</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>,</word>
+            <CharacterOffsetBegin>137</CharacterOffsetBegin>
+            <CharacterOffsetEnd>138</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="5" line="5">
+        <tokens>
+          <token id="1">
+            <word>with</word>
+            <CharacterOffsetBegin>139</CharacterOffsetBegin>
+            <CharacterOffsetEnd>143</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>100</word>
+            <CharacterOffsetBegin>144</CharacterOffsetBegin>
+            <CharacterOffsetEnd>147</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>patients</word>
+            <CharacterOffsetBegin>148</CharacterOffsetBegin>
+            <CharacterOffsetEnd>156</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>randomized</word>
+            <CharacterOffsetBegin>157</CharacterOffsetBegin>
+            <CharacterOffsetEnd>167</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>to</word>
+            <CharacterOffsetBegin>168</CharacterOffsetBegin>
+            <CharacterOffsetEnd>170</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>each</word>
+            <CharacterOffsetBegin>171</CharacterOffsetBegin>
+            <CharacterOffsetEnd>175</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>group</word>
+            <CharacterOffsetBegin>176</CharacterOffsetBegin>
+            <CharacterOffsetEnd>181</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>.</word>
+            <CharacterOffsetBegin>181</CharacterOffsetBegin>
+            <CharacterOffsetEnd>182</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="6" line="6">
+        <tokens>
+          <token id="1">
+            <word>Of</word>
+            <CharacterOffsetBegin>183</CharacterOffsetBegin>
+            <CharacterOffsetEnd>185</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>these</word>
+            <CharacterOffsetBegin>186</CharacterOffsetBegin>
+            <CharacterOffsetEnd>191</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>,</word>
+            <CharacterOffsetBegin>191</CharacterOffsetBegin>
+            <CharacterOffsetEnd>192</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>10</word>
+            <CharacterOffsetBegin>193</CharacterOffsetBegin>
+            <CharacterOffsetEnd>195</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>dropped</word>
+            <CharacterOffsetBegin>196</CharacterOffsetBegin>
+            <CharacterOffsetEnd>203</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>out</word>
+            <CharacterOffsetBegin>204</CharacterOffsetBegin>
+            <CharacterOffsetEnd>207</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>of</word>
+            <CharacterOffsetBegin>208</CharacterOffsetBegin>
+            <CharacterOffsetEnd>210</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>each</word>
+            <CharacterOffsetBegin>211</CharacterOffsetBegin>
+            <CharacterOffsetEnd>215</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>treatment</word>
+            <CharacterOffsetBegin>216</CharacterOffsetBegin>
+            <CharacterOffsetEnd>225</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>arm</word>
+            <CharacterOffsetBegin>226</CharacterOffsetBegin>
+            <CharacterOffsetEnd>229</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>,</word>
+            <CharacterOffsetBegin>229</CharacterOffsetBegin>
+            <CharacterOffsetEnd>230</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="7" line="7">
+        <tokens>
+          <token id="1">
+            <word>leaving</word>
+            <CharacterOffsetBegin>231</CharacterOffsetBegin>
+            <CharacterOffsetEnd>238</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>90</word>
+            <CharacterOffsetBegin>239</CharacterOffsetBegin>
+            <CharacterOffsetEnd>241</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>completers</word>
+            <CharacterOffsetBegin>242</CharacterOffsetBegin>
+            <CharacterOffsetEnd>252</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>in</word>
+            <CharacterOffsetBegin>253</CharacterOffsetBegin>
+            <CharacterOffsetEnd>255</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>each</word>
+            <CharacterOffsetBegin>256</CharacterOffsetBegin>
+            <CharacterOffsetEnd>260</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>group</word>
+            <CharacterOffsetBegin>261</CharacterOffsetBegin>
+            <CharacterOffsetEnd>266</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>.</word>
+            <CharacterOffsetBegin>266</CharacterOffsetBegin>
+            <CharacterOffsetEnd>267</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="8" line="8">
+        <tokens>
+          <token id="1">
+            <word>Reasons</word>
+            <CharacterOffsetBegin>268</CharacterOffsetBegin>
+            <CharacterOffsetEnd>275</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>for</word>
+            <CharacterOffsetBegin>276</CharacterOffsetBegin>
+            <CharacterOffsetEnd>279</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>drop</word>
+            <CharacterOffsetBegin>280</CharacterOffsetBegin>
+            <CharacterOffsetEnd>284</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>out</word>
+            <CharacterOffsetBegin>285</CharacterOffsetBegin>
+            <CharacterOffsetEnd>288</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>included</word>
+            <CharacterOffsetBegin>289</CharacterOffsetBegin>
+            <CharacterOffsetEnd>297</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>adverse</word>
+            <CharacterOffsetBegin>298</CharacterOffsetBegin>
+            <CharacterOffsetEnd>305</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>events</word>
+            <CharacterOffsetBegin>306</CharacterOffsetBegin>
+            <CharacterOffsetEnd>312</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="9" line="9">
+        <tokens>
+          <token id="1">
+            <word>-LRB-</word>
+            <CharacterOffsetBegin>313</CharacterOffsetBegin>
+            <CharacterOffsetEnd>314</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>n</word>
+            <CharacterOffsetBegin>314</CharacterOffsetBegin>
+            <CharacterOffsetEnd>315</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>=</word>
+            <CharacterOffsetBegin>316</CharacterOffsetBegin>
+            <CharacterOffsetEnd>317</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>12</word>
+            <CharacterOffsetBegin>318</CharacterOffsetBegin>
+            <CharacterOffsetEnd>320</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>-RRB-</word>
+            <CharacterOffsetBegin>320</CharacterOffsetBegin>
+            <CharacterOffsetEnd>321</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>,</word>
+            <CharacterOffsetBegin>321</CharacterOffsetBegin>
+            <CharacterOffsetEnd>322</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="10" line="10">
+        <tokens>
+          <token id="1">
+            <word>inefficacy</word>
+            <CharacterOffsetBegin>323</CharacterOffsetBegin>
+            <CharacterOffsetEnd>333</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="11" line="11">
+        <tokens>
+          <token id="1">
+            <word>-LRB-</word>
+            <CharacterOffsetBegin>334</CharacterOffsetBegin>
+            <CharacterOffsetEnd>335</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>n</word>
+            <CharacterOffsetBegin>335</CharacterOffsetBegin>
+            <CharacterOffsetEnd>336</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>=</word>
+            <CharacterOffsetBegin>337</CharacterOffsetBegin>
+            <CharacterOffsetEnd>338</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>6</word>
+            <CharacterOffsetBegin>339</CharacterOffsetBegin>
+            <CharacterOffsetEnd>340</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>-RRB-</word>
+            <CharacterOffsetBegin>340</CharacterOffsetBegin>
+            <CharacterOffsetEnd>341</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>,</word>
+            <CharacterOffsetBegin>341</CharacterOffsetBegin>
+            <CharacterOffsetEnd>342</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="12" line="12">
+        <tokens>
+          <token id="1">
+            <word>and</word>
+            <CharacterOffsetBegin>343</CharacterOffsetBegin>
+            <CharacterOffsetEnd>346</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>withdrawal</word>
+            <CharacterOffsetBegin>347</CharacterOffsetBegin>
+            <CharacterOffsetEnd>357</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>of</word>
+            <CharacterOffsetBegin>358</CharacterOffsetBegin>
+            <CharacterOffsetEnd>360</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>consent</word>
+            <CharacterOffsetBegin>361</CharacterOffsetBegin>
+            <CharacterOffsetEnd>368</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="13" line="13">
+        <tokens>
+          <token id="1">
+            <word>-LRB-</word>
+            <CharacterOffsetBegin>369</CharacterOffsetBegin>
+            <CharacterOffsetEnd>370</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>n</word>
+            <CharacterOffsetBegin>370</CharacterOffsetBegin>
+            <CharacterOffsetEnd>371</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>=</word>
+            <CharacterOffsetBegin>372</CharacterOffsetBegin>
+            <CharacterOffsetEnd>373</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>2</word>
+            <CharacterOffsetBegin>374</CharacterOffsetBegin>
+            <CharacterOffsetEnd>375</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>-RRB-</word>
+            <CharacterOffsetBegin>375</CharacterOffsetBegin>
+            <CharacterOffsetEnd>376</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>.</word>
+            <CharacterOffsetBegin>376</CharacterOffsetBegin>
+            <CharacterOffsetEnd>377</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="14" line="14">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <CharacterOffsetBegin>378</CharacterOffsetBegin>
+            <CharacterOffsetEnd>381</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>reason</word>
+            <CharacterOffsetBegin>382</CharacterOffsetBegin>
+            <CharacterOffsetEnd>388</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>for</word>
+            <CharacterOffsetBegin>389</CharacterOffsetBegin>
+            <CharacterOffsetEnd>392</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>drop</word>
+            <CharacterOffsetBegin>393</CharacterOffsetBegin>
+            <CharacterOffsetEnd>397</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>out</word>
+            <CharacterOffsetBegin>398</CharacterOffsetBegin>
+            <CharacterOffsetEnd>401</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>could</word>
+            <CharacterOffsetBegin>402</CharacterOffsetBegin>
+            <CharacterOffsetEnd>407</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>not</word>
+            <CharacterOffsetBegin>408</CharacterOffsetBegin>
+            <CharacterOffsetEnd>411</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>be</word>
+            <CharacterOffsetBegin>412</CharacterOffsetBegin>
+            <CharacterOffsetEnd>414</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>ascertained</word>
+            <CharacterOffsetBegin>415</CharacterOffsetBegin>
+            <CharacterOffsetEnd>426</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>in</word>
+            <CharacterOffsetBegin>427</CharacterOffsetBegin>
+            <CharacterOffsetEnd>429</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>one</word>
+            <CharacterOffsetBegin>430</CharacterOffsetBegin>
+            <CharacterOffsetEnd>433</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>patient</word>
+            <CharacterOffsetBegin>434</CharacterOffsetBegin>
+            <CharacterOffsetEnd>441</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>.</word>
+            <CharacterOffsetBegin>441</CharacterOffsetBegin>
+            <CharacterOffsetEnd>442</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="15" line="15">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <CharacterOffsetBegin>443</CharacterOffsetBegin>
+            <CharacterOffsetEnd>446</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>sociodemographic</word>
+            <CharacterOffsetBegin>447</CharacterOffsetBegin>
+            <CharacterOffsetEnd>463</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>and</word>
+            <CharacterOffsetBegin>464</CharacterOffsetBegin>
+            <CharacterOffsetEnd>467</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>clinical</word>
+            <CharacterOffsetBegin>468</CharacterOffsetBegin>
+            <CharacterOffsetEnd>476</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>description</word>
+            <CharacterOffsetBegin>477</CharacterOffsetBegin>
+            <CharacterOffsetEnd>488</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>of</word>
+            <CharacterOffsetBegin>489</CharacterOffsetBegin>
+            <CharacterOffsetEnd>491</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>the</word>
+            <CharacterOffsetBegin>492</CharacterOffsetBegin>
+            <CharacterOffsetEnd>495</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>sample</word>
+            <CharacterOffsetBegin>496</CharacterOffsetBegin>
+            <CharacterOffsetEnd>502</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>is</word>
+            <CharacterOffsetBegin>503</CharacterOffsetBegin>
+            <CharacterOffsetEnd>505</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>presented</word>
+            <CharacterOffsetBegin>506</CharacterOffsetBegin>
+            <CharacterOffsetEnd>515</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>in</word>
+            <CharacterOffsetBegin>516</CharacterOffsetBegin>
+            <CharacterOffsetEnd>518</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>Table</word>
+            <CharacterOffsetBegin>519</CharacterOffsetBegin>
+            <CharacterOffsetEnd>524</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>1</word>
+            <CharacterOffsetBegin>525</CharacterOffsetBegin>
+            <CharacterOffsetEnd>526</CharacterOffsetEnd>
+          </token>
+          <token id="14">
+            <word>.</word>
+            <CharacterOffsetBegin>526</CharacterOffsetBegin>
+            <CharacterOffsetEnd>527</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="16" line="16">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <CharacterOffsetBegin>528</CharacterOffsetBegin>
+            <CharacterOffsetEnd>531</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>sample</word>
+            <CharacterOffsetBegin>532</CharacterOffsetBegin>
+            <CharacterOffsetEnd>538</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>was</word>
+            <CharacterOffsetBegin>539</CharacterOffsetBegin>
+            <CharacterOffsetEnd>542</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>relatively</word>
+            <CharacterOffsetBegin>543</CharacterOffsetBegin>
+            <CharacterOffsetEnd>553</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>young</word>
+            <CharacterOffsetBegin>554</CharacterOffsetBegin>
+            <CharacterOffsetEnd>559</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>and</word>
+            <CharacterOffsetBegin>560</CharacterOffsetBegin>
+            <CharacterOffsetEnd>563</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>predominantly</word>
+            <CharacterOffsetBegin>564</CharacterOffsetBegin>
+            <CharacterOffsetEnd>577</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>male</word>
+            <CharacterOffsetBegin>578</CharacterOffsetBegin>
+            <CharacterOffsetEnd>582</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>.</word>
+            <CharacterOffsetBegin>582</CharacterOffsetBegin>
+            <CharacterOffsetEnd>583</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="17" line="17">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <CharacterOffsetBegin>584</CharacterOffsetBegin>
+            <CharacterOffsetEnd>587</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>groups</word>
+            <CharacterOffsetBegin>588</CharacterOffsetBegin>
+            <CharacterOffsetEnd>594</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>were</word>
+            <CharacterOffsetBegin>595</CharacterOffsetBegin>
+            <CharacterOffsetEnd>599</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>comparable</word>
+            <CharacterOffsetBegin>600</CharacterOffsetBegin>
+            <CharacterOffsetEnd>610</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>at</word>
+            <CharacterOffsetBegin>611</CharacterOffsetBegin>
+            <CharacterOffsetEnd>613</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>baseline</word>
+            <CharacterOffsetBegin>614</CharacterOffsetBegin>
+            <CharacterOffsetEnd>622</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>on</word>
+            <CharacterOffsetBegin>623</CharacterOffsetBegin>
+            <CharacterOffsetEnd>625</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>all</word>
+            <CharacterOffsetBegin>626</CharacterOffsetBegin>
+            <CharacterOffsetEnd>629</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>sociodemographic</word>
+            <CharacterOffsetBegin>630</CharacterOffsetBegin>
+            <CharacterOffsetEnd>646</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>and</word>
+            <CharacterOffsetBegin>647</CharacterOffsetBegin>
+            <CharacterOffsetEnd>650</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>clinical</word>
+            <CharacterOffsetBegin>651</CharacterOffsetBegin>
+            <CharacterOffsetEnd>659</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>variables</word>
+            <CharacterOffsetBegin>660</CharacterOffsetBegin>
+            <CharacterOffsetEnd>669</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>.</word>
+            <CharacterOffsetBegin>669</CharacterOffsetBegin>
+            <CharacterOffsetEnd>670</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="18" line="18">
+        <tokens>
+          <token id="1">
+            <word>Table</word>
+            <CharacterOffsetBegin>671</CharacterOffsetBegin>
+            <CharacterOffsetEnd>676</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>1</word>
+            <CharacterOffsetBegin>677</CharacterOffsetBegin>
+            <CharacterOffsetEnd>678</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="19" line="19">
+        <tokens>
+          <token id="1">
+            <word>Sociodemographic</word>
+            <CharacterOffsetBegin>679</CharacterOffsetBegin>
+            <CharacterOffsetEnd>695</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>and</word>
+            <CharacterOffsetBegin>696</CharacterOffsetBegin>
+            <CharacterOffsetEnd>699</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>clinical</word>
+            <CharacterOffsetBegin>700</CharacterOffsetBegin>
+            <CharacterOffsetEnd>708</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>description</word>
+            <CharacterOffsetBegin>709</CharacterOffsetBegin>
+            <CharacterOffsetEnd>720</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>of</word>
+            <CharacterOffsetBegin>721</CharacterOffsetBegin>
+            <CharacterOffsetEnd>723</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>the</word>
+            <CharacterOffsetBegin>724</CharacterOffsetBegin>
+            <CharacterOffsetEnd>727</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>sample</word>
+            <CharacterOffsetBegin>728</CharacterOffsetBegin>
+            <CharacterOffsetEnd>734</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>*</word>
+            <CharacterOffsetBegin>735</CharacterOffsetBegin>
+            <CharacterOffsetEnd>736</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="20" line="20">
+        <tokens>
+          <token id="1">
+            <word>At</word>
+            <CharacterOffsetBegin>737</CharacterOffsetBegin>
+            <CharacterOffsetEnd>739</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>the</word>
+            <CharacterOffsetBegin>740</CharacterOffsetBegin>
+            <CharacterOffsetEnd>743</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>6-week</word>
+            <CharacterOffsetBegin>744</CharacterOffsetBegin>
+            <CharacterOffsetEnd>750</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>study</word>
+            <CharacterOffsetBegin>751</CharacterOffsetBegin>
+            <CharacterOffsetEnd>756</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>endpoint</word>
+            <CharacterOffsetBegin>757</CharacterOffsetBegin>
+            <CharacterOffsetEnd>765</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>,</word>
+            <CharacterOffsetBegin>765</CharacterOffsetBegin>
+            <CharacterOffsetEnd>766</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>the</word>
+            <CharacterOffsetBegin>767</CharacterOffsetBegin>
+            <CharacterOffsetEnd>770</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>mean</word>
+            <CharacterOffsetBegin>771</CharacterOffsetBegin>
+            <CharacterOffsetEnd>775</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="21" line="21">
+        <tokens>
+          <token id="1">
+            <word>-LRB-</word>
+            <CharacterOffsetBegin>776</CharacterOffsetBegin>
+            <CharacterOffsetEnd>777</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>standard</word>
+            <CharacterOffsetBegin>777</CharacterOffsetBegin>
+            <CharacterOffsetEnd>785</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>deviation</word>
+            <CharacterOffsetBegin>786</CharacterOffsetBegin>
+            <CharacterOffsetEnd>795</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>-RRB-</word>
+            <CharacterOffsetBegin>795</CharacterOffsetBegin>
+            <CharacterOffsetEnd>796</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="22" line="22">
+        <tokens>
+          <token id="1">
+            <word>dose</word>
+            <CharacterOffsetBegin>797</CharacterOffsetBegin>
+            <CharacterOffsetEnd>801</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>of</word>
+            <CharacterOffsetBegin>802</CharacterOffsetBegin>
+            <CharacterOffsetEnd>804</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>PB</word>
+            <CharacterOffsetBegin>805</CharacterOffsetBegin>
+            <CharacterOffsetEnd>807</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>was</word>
+            <CharacterOffsetBegin>808</CharacterOffsetBegin>
+            <CharacterOffsetEnd>811</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>250.8</word>
+            <CharacterOffsetBegin>812</CharacterOffsetBegin>
+            <CharacterOffsetEnd>817</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="23" line="23">
+        <tokens>
+          <token id="1">
+            <word>-LRB-</word>
+            <CharacterOffsetBegin>818</CharacterOffsetBegin>
+            <CharacterOffsetEnd>819</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>37.4</word>
+            <CharacterOffsetBegin>819</CharacterOffsetBegin>
+            <CharacterOffsetEnd>823</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>-RRB-</word>
+            <CharacterOffsetBegin>823</CharacterOffsetBegin>
+            <CharacterOffsetEnd>824</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="24" line="24">
+        <tokens>
+          <token id="1">
+            <word>and</word>
+            <CharacterOffsetBegin>825</CharacterOffsetBegin>
+            <CharacterOffsetEnd>828</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>that</word>
+            <CharacterOffsetBegin>829</CharacterOffsetBegin>
+            <CharacterOffsetEnd>833</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>of</word>
+            <CharacterOffsetBegin>834</CharacterOffsetBegin>
+            <CharacterOffsetEnd>836</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>sertraline</word>
+            <CharacterOffsetBegin>837</CharacterOffsetBegin>
+            <CharacterOffsetEnd>847</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>was</word>
+            <CharacterOffsetBegin>848</CharacterOffsetBegin>
+            <CharacterOffsetEnd>851</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>110.5</word>
+            <CharacterOffsetBegin>852</CharacterOffsetBegin>
+            <CharacterOffsetEnd>857</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="25" line="25">
+        <tokens>
+          <token id="1">
+            <word>-LRB-</word>
+            <CharacterOffsetBegin>858</CharacterOffsetBegin>
+            <CharacterOffsetEnd>859</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>26.9</word>
+            <CharacterOffsetBegin>859</CharacterOffsetBegin>
+            <CharacterOffsetEnd>863</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>-RRB-</word>
+            <CharacterOffsetBegin>863</CharacterOffsetBegin>
+            <CharacterOffsetEnd>864</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>.</word>
+            <CharacterOffsetBegin>864</CharacterOffsetBegin>
+            <CharacterOffsetEnd>865</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="26" line="26">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <CharacterOffsetBegin>866</CharacterOffsetBegin>
+            <CharacterOffsetEnd>869</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>mean</word>
+            <CharacterOffsetBegin>870</CharacterOffsetBegin>
+            <CharacterOffsetEnd>874</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>HAM-D</word>
+            <CharacterOffsetBegin>875</CharacterOffsetBegin>
+            <CharacterOffsetEnd>880</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>scores</word>
+            <CharacterOffsetBegin>881</CharacterOffsetBegin>
+            <CharacterOffsetEnd>887</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>across</word>
+            <CharacterOffsetBegin>888</CharacterOffsetBegin>
+            <CharacterOffsetEnd>894</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>the</word>
+            <CharacterOffsetBegin>895</CharacterOffsetBegin>
+            <CharacterOffsetEnd>898</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>course</word>
+            <CharacterOffsetBegin>899</CharacterOffsetBegin>
+            <CharacterOffsetEnd>905</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>of</word>
+            <CharacterOffsetBegin>906</CharacterOffsetBegin>
+            <CharacterOffsetEnd>908</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>the</word>
+            <CharacterOffsetBegin>909</CharacterOffsetBegin>
+            <CharacterOffsetEnd>912</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>study</word>
+            <CharacterOffsetBegin>913</CharacterOffsetBegin>
+            <CharacterOffsetEnd>918</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>are</word>
+            <CharacterOffsetBegin>919</CharacterOffsetBegin>
+            <CharacterOffsetEnd>922</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>presented</word>
+            <CharacterOffsetBegin>923</CharacterOffsetBegin>
+            <CharacterOffsetEnd>932</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>in</word>
+            <CharacterOffsetBegin>933</CharacterOffsetBegin>
+            <CharacterOffsetEnd>935</CharacterOffsetEnd>
+          </token>
+          <token id="14">
+            <word>Figure</word>
+            <CharacterOffsetBegin>936</CharacterOffsetBegin>
+            <CharacterOffsetEnd>942</CharacterOffsetEnd>
+          </token>
+          <token id="15">
+            <word>1</word>
+            <CharacterOffsetBegin>943</CharacterOffsetBegin>
+            <CharacterOffsetEnd>944</CharacterOffsetEnd>
+          </token>
+          <token id="16">
+            <word>.</word>
+            <CharacterOffsetBegin>944</CharacterOffsetBegin>
+            <CharacterOffsetEnd>945</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="27" line="27">
+        <tokens>
+          <token id="1">
+            <word>There</word>
+            <CharacterOffsetBegin>946</CharacterOffsetBegin>
+            <CharacterOffsetEnd>951</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>were</word>
+            <CharacterOffsetBegin>952</CharacterOffsetBegin>
+            <CharacterOffsetEnd>956</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>no</word>
+            <CharacterOffsetBegin>957</CharacterOffsetBegin>
+            <CharacterOffsetEnd>959</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>significant</word>
+            <CharacterOffsetBegin>960</CharacterOffsetBegin>
+            <CharacterOffsetEnd>971</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>differences</word>
+            <CharacterOffsetBegin>972</CharacterOffsetBegin>
+            <CharacterOffsetEnd>983</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>in</word>
+            <CharacterOffsetBegin>984</CharacterOffsetBegin>
+            <CharacterOffsetEnd>986</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>HAM-D</word>
+            <CharacterOffsetBegin>987</CharacterOffsetBegin>
+            <CharacterOffsetEnd>992</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>ratings</word>
+            <CharacterOffsetBegin>993</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1000</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>between</word>
+            <CharacterOffsetBegin>1001</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1008</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>groups</word>
+            <CharacterOffsetBegin>1009</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1015</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>either</word>
+            <CharacterOffsetBegin>1016</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1022</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>at</word>
+            <CharacterOffsetBegin>1023</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1025</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>baseline</word>
+            <CharacterOffsetBegin>1026</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1034</CharacterOffsetEnd>
+          </token>
+          <token id="14">
+            <word>or</word>
+            <CharacterOffsetBegin>1035</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1037</CharacterOffsetEnd>
+          </token>
+          <token id="15">
+            <word>at</word>
+            <CharacterOffsetBegin>1038</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1040</CharacterOffsetEnd>
+          </token>
+          <token id="16">
+            <word>any</word>
+            <CharacterOffsetBegin>1041</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1044</CharacterOffsetEnd>
+          </token>
+          <token id="17">
+            <word>assessment</word>
+            <CharacterOffsetBegin>1045</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1055</CharacterOffsetEnd>
+          </token>
+          <token id="18">
+            <word>point</word>
+            <CharacterOffsetBegin>1056</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1061</CharacterOffsetEnd>
+          </token>
+          <token id="19">
+            <word>afterwards</word>
+            <CharacterOffsetBegin>1062</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1072</CharacterOffsetEnd>
+          </token>
+          <token id="20">
+            <word>.</word>
+            <CharacterOffsetBegin>1072</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1073</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="28" line="28">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <CharacterOffsetBegin>1074</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1077</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>primary</word>
+            <CharacterOffsetBegin>1078</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1085</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>outcome</word>
+            <CharacterOffsetBegin>1086</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1093</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>,</word>
+            <CharacterOffsetBegin>1093</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1094</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="29" line="29">
+        <tokens>
+          <token id="1">
+            <word>improvement</word>
+            <CharacterOffsetBegin>1095</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1106</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>in</word>
+            <CharacterOffsetBegin>1107</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1109</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>HAM-D</word>
+            <CharacterOffsetBegin>1110</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1115</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>scores</word>
+            <CharacterOffsetBegin>1116</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1122</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>between</word>
+            <CharacterOffsetBegin>1123</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1130</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>baseline</word>
+            <CharacterOffsetBegin>1131</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1139</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>and</word>
+            <CharacterOffsetBegin>1140</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1143</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>endpoint</word>
+            <CharacterOffsetBegin>1144</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1152</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>,</word>
+            <CharacterOffsetBegin>1152</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1153</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="30" line="30">
+        <tokens>
+          <token id="1">
+            <word>was</word>
+            <CharacterOffsetBegin>1154</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1157</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>significant</word>
+            <CharacterOffsetBegin>1158</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1169</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>for</word>
+            <CharacterOffsetBegin>1170</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1173</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>both</word>
+            <CharacterOffsetBegin>1174</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1178</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>PB</word>
+            <CharacterOffsetBegin>1179</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1181</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="31" line="31">
+        <tokens>
+          <token id="1">
+            <word>-LRB-</word>
+            <CharacterOffsetBegin>1182</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1183</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>P</word>
+            <CharacterOffsetBegin>1183</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1184</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>&lt;</word>
+            <CharacterOffsetBegin>1184</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1185</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>0.001</word>
+            <CharacterOffsetBegin>1185</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1190</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>-RRB-</word>
+            <CharacterOffsetBegin>1190</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1191</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="32" line="32">
+        <tokens>
+          <token id="1">
+            <word>and</word>
+            <CharacterOffsetBegin>1192</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1195</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>sertraline</word>
+            <CharacterOffsetBegin>1196</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1206</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="33" line="33">
+        <tokens>
+          <token id="1">
+            <word>-LRB-</word>
+            <CharacterOffsetBegin>1207</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1208</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>P</word>
+            <CharacterOffsetBegin>1208</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1209</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>&lt;</word>
+            <CharacterOffsetBegin>1209</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1210</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>0.001</word>
+            <CharacterOffsetBegin>1210</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1215</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>-RRB-</word>
+            <CharacterOffsetBegin>1215</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1216</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="34" line="34">
+        <tokens>
+          <token id="1">
+            <word>groups</word>
+            <CharacterOffsetBegin>1217</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1223</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>;</word>
+            <CharacterOffsetBegin>1223</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1224</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="35" line="35">
+        <tokens>
+          <token id="1">
+            <word>in</word>
+            <CharacterOffsetBegin>1225</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1227</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>fact</word>
+            <CharacterOffsetBegin>1228</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1232</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>,</word>
+            <CharacterOffsetBegin>1232</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1233</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>there</word>
+            <CharacterOffsetBegin>1234</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1239</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>was</word>
+            <CharacterOffsetBegin>1240</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1243</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>statistically</word>
+            <CharacterOffsetBegin>1244</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1257</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>significant</word>
+            <CharacterOffsetBegin>1258</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1269</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>improvement</word>
+            <CharacterOffsetBegin>1270</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1281</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>in</word>
+            <CharacterOffsetBegin>1282</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1284</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>HAM-D</word>
+            <CharacterOffsetBegin>1285</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1290</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>scores</word>
+            <CharacterOffsetBegin>1291</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1297</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>at</word>
+            <CharacterOffsetBegin>1298</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1300</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>the</word>
+            <CharacterOffsetBegin>1301</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1304</CharacterOffsetEnd>
+          </token>
+          <token id="14">
+            <word>first</word>
+            <CharacterOffsetBegin>1305</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1310</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="36" line="36">
+        <tokens>
+          <token id="1">
+            <word>-LRB-</word>
+            <CharacterOffsetBegin>1311</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1312</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>2-week</word>
+            <CharacterOffsetBegin>1312</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1318</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>-RRB-</word>
+            <CharacterOffsetBegin>1318</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1319</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="37" line="37">
+        <tokens>
+          <token id="1">
+            <word>follow</word>
+            <CharacterOffsetBegin>1320</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1326</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>up</word>
+            <CharacterOffsetBegin>1327</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1329</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>,</word>
+            <CharacterOffsetBegin>1329</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1330</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>itself</word>
+            <CharacterOffsetBegin>1331</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1337</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="38" line="38">
+        <tokens>
+          <token id="1">
+            <word>-LRB-</word>
+            <CharacterOffsetBegin>1338</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1339</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>P</word>
+            <CharacterOffsetBegin>1339</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1340</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>&lt;</word>
+            <CharacterOffsetBegin>1340</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1341</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>0.01</word>
+            <CharacterOffsetBegin>1341</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1345</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>for</word>
+            <CharacterOffsetBegin>1346</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1349</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>each</word>
+            <CharacterOffsetBegin>1350</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1354</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>group</word>
+            <CharacterOffsetBegin>1355</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1360</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>-RRB-</word>
+            <CharacterOffsetBegin>1360</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1361</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>,</word>
+            <CharacterOffsetBegin>1361</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1362</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="39" line="39">
+        <tokens>
+          <token id="1">
+            <word>indicating</word>
+            <CharacterOffsetBegin>1363</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1373</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>robust</word>
+            <CharacterOffsetBegin>1374</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1380</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>,</word>
+            <CharacterOffsetBegin>1380</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1381</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>early</word>
+            <CharacterOffsetBegin>1382</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1387</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>improvement</word>
+            <CharacterOffsetBegin>1388</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1399</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>with</word>
+            <CharacterOffsetBegin>1400</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1404</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>treatment</word>
+            <CharacterOffsetBegin>1405</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1414</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>.</word>
+            <CharacterOffsetBegin>1414</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1415</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="40" line="40">
+        <tokens>
+          <token id="1">
+            <word>Figure</word>
+            <CharacterOffsetBegin>1416</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1422</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>1</word>
+            <CharacterOffsetBegin>1423</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1424</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="41" line="41">
+        <tokens>
+          <token id="1">
+            <word>Mean</word>
+            <CharacterOffsetBegin>1425</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1429</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>HAM-D</word>
+            <CharacterOffsetBegin>1430</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1435</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>scores</word>
+            <CharacterOffsetBegin>1436</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1442</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>during</word>
+            <CharacterOffsetBegin>1443</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1449</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>the</word>
+            <CharacterOffsetBegin>1450</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1453</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>course</word>
+            <CharacterOffsetBegin>1454</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1460</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>of</word>
+            <CharacterOffsetBegin>1461</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1463</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>the</word>
+            <CharacterOffsetBegin>1464</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1467</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>study</word>
+            <CharacterOffsetBegin>1468</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1473</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>in</word>
+            <CharacterOffsetBegin>1474</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1476</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>placeboxetine</word>
+            <CharacterOffsetBegin>1477</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1490</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>and</word>
+            <CharacterOffsetBegin>1491</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1494</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>sertraline</word>
+            <CharacterOffsetBegin>1495</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1505</CharacterOffsetEnd>
+          </token>
+          <token id="14">
+            <word>groups</word>
+            <CharacterOffsetBegin>1506</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1512</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="42" line="42">
+        <tokens>
+          <token id="1">
+            <word>Similar</word>
+            <CharacterOffsetBegin>1513</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1520</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>results</word>
+            <CharacterOffsetBegin>1521</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1528</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>were</word>
+            <CharacterOffsetBegin>1529</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1533</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>obtained</word>
+            <CharacterOffsetBegin>1534</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1542</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>with</word>
+            <CharacterOffsetBegin>1543</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1547</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>the</word>
+            <CharacterOffsetBegin>1548</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1551</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>MADRS</word>
+            <CharacterOffsetBegin>1552</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1557</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>assessments</word>
+            <CharacterOffsetBegin>1558</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1569</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="43" line="43">
+        <tokens>
+          <token id="1">
+            <word>-LSB-</word>
+            <CharacterOffsetBegin>1570</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1571</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>Figure</word>
+            <CharacterOffsetBegin>1571</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1577</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>2</word>
+            <CharacterOffsetBegin>1578</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1579</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>-RSB-</word>
+            <CharacterOffsetBegin>1579</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1580</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>.</word>
+            <CharacterOffsetBegin>1580</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1581</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="44" line="44">
+        <tokens>
+          <token id="1">
+            <word>There</word>
+            <CharacterOffsetBegin>1582</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1587</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>was</word>
+            <CharacterOffsetBegin>1588</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1591</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>no</word>
+            <CharacterOffsetBegin>1592</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1594</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>difference</word>
+            <CharacterOffsetBegin>1595</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1605</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>between</word>
+            <CharacterOffsetBegin>1606</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1613</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>groups</word>
+            <CharacterOffsetBegin>1614</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1620</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>at</word>
+            <CharacterOffsetBegin>1621</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1623</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>baseline</word>
+            <CharacterOffsetBegin>1624</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1632</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>,</word>
+            <CharacterOffsetBegin>1632</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1633</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="45" line="45">
+        <tokens>
+          <token id="1">
+            <word>there</word>
+            <CharacterOffsetBegin>1634</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1639</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>was</word>
+            <CharacterOffsetBegin>1640</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1643</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>significant</word>
+            <CharacterOffsetBegin>1644</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1655</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>improvement</word>
+            <CharacterOffsetBegin>1656</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1667</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>in</word>
+            <CharacterOffsetBegin>1668</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1670</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>each</word>
+            <CharacterOffsetBegin>1671</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1675</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>group</word>
+            <CharacterOffsetBegin>1676</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1681</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>at</word>
+            <CharacterOffsetBegin>1682</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1684</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>the</word>
+            <CharacterOffsetBegin>1685</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1688</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>end</word>
+            <CharacterOffsetBegin>1689</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1692</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>of</word>
+            <CharacterOffsetBegin>1693</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1695</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>weeks</word>
+            <CharacterOffsetBegin>1696</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1701</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>2</word>
+            <CharacterOffsetBegin>1702</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1703</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="46" line="46">
+        <tokens>
+          <token id="1">
+            <word>-LRB-</word>
+            <CharacterOffsetBegin>1704</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1705</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>P</word>
+            <CharacterOffsetBegin>1705</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1706</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>&lt;</word>
+            <CharacterOffsetBegin>1706</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1707</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>0.01</word>
+            <CharacterOffsetBegin>1707</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1711</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>-RRB-</word>
+            <CharacterOffsetBegin>1711</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1712</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="47" line="47">
+        <tokens>
+          <token id="1">
+            <word>and</word>
+            <CharacterOffsetBegin>1713</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1716</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>6</word>
+            <CharacterOffsetBegin>1717</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1718</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="48" line="48">
+        <tokens>
+          <token id="1">
+            <word>-LRB-</word>
+            <CharacterOffsetBegin>1719</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1720</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>P</word>
+            <CharacterOffsetBegin>1720</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1721</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>&lt;</word>
+            <CharacterOffsetBegin>1721</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1722</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>0.001</word>
+            <CharacterOffsetBegin>1722</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1727</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>-RRB-</word>
+            <CharacterOffsetBegin>1727</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1728</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>,</word>
+            <CharacterOffsetBegin>1728</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1729</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="49" line="49">
+        <tokens>
+          <token id="1">
+            <word>and</word>
+            <CharacterOffsetBegin>1730</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1733</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>there</word>
+            <CharacterOffsetBegin>1734</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1739</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>were</word>
+            <CharacterOffsetBegin>1740</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1744</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>no</word>
+            <CharacterOffsetBegin>1745</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1747</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>significant</word>
+            <CharacterOffsetBegin>1748</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1759</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>differences</word>
+            <CharacterOffsetBegin>1760</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1771</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>between</word>
+            <CharacterOffsetBegin>1772</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1779</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>groups</word>
+            <CharacterOffsetBegin>1780</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1786</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>at</word>
+            <CharacterOffsetBegin>1787</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1789</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>any</word>
+            <CharacterOffsetBegin>1790</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1793</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>follow</word>
+            <CharacterOffsetBegin>1794</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1800</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>up</word>
+            <CharacterOffsetBegin>1801</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1803</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>visit</word>
+            <CharacterOffsetBegin>1804</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1809</CharacterOffsetEnd>
+          </token>
+          <token id="14">
+            <word>.</word>
+            <CharacterOffsetBegin>1809</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1810</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="50" line="50">
+        <tokens>
+          <token id="1">
+            <word>Figure</word>
+            <CharacterOffsetBegin>1811</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1817</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>2</word>
+            <CharacterOffsetBegin>1818</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1819</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="51" line="51">
+        <tokens>
+          <token id="1">
+            <word>Mean</word>
+            <CharacterOffsetBegin>1820</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1824</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>MADRS</word>
+            <CharacterOffsetBegin>1825</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1830</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>scores</word>
+            <CharacterOffsetBegin>1831</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1837</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>during</word>
+            <CharacterOffsetBegin>1838</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1844</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>the</word>
+            <CharacterOffsetBegin>1845</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1848</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>course</word>
+            <CharacterOffsetBegin>1849</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1855</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>of</word>
+            <CharacterOffsetBegin>1856</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1858</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>the</word>
+            <CharacterOffsetBegin>1859</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1862</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>study</word>
+            <CharacterOffsetBegin>1863</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1868</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>in</word>
+            <CharacterOffsetBegin>1869</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1871</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>placeboxetine</word>
+            <CharacterOffsetBegin>1872</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1885</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>and</word>
+            <CharacterOffsetBegin>1886</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1889</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>sertraline</word>
+            <CharacterOffsetBegin>1890</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1900</CharacterOffsetEnd>
+          </token>
+          <token id="14">
+            <word>groups</word>
+            <CharacterOffsetBegin>1901</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1907</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="52" line="52">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <CharacterOffsetBegin>1908</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1911</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>response</word>
+            <CharacterOffsetBegin>1912</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1920</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>rate</word>
+            <CharacterOffsetBegin>1921</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1925</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>was</word>
+            <CharacterOffsetBegin>1926</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1929</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>90</word>
+            <CharacterOffsetBegin>1930</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1932</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>%</word>
+            <CharacterOffsetBegin>1932</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1933</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>with</word>
+            <CharacterOffsetBegin>1934</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1938</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>PB</word>
+            <CharacterOffsetBegin>1939</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1941</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>and</word>
+            <CharacterOffsetBegin>1942</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1945</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>92</word>
+            <CharacterOffsetBegin>1946</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1948</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>%</word>
+            <CharacterOffsetBegin>1948</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1949</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>with</word>
+            <CharacterOffsetBegin>1950</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1954</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>sertraline</word>
+            <CharacterOffsetBegin>1955</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1965</CharacterOffsetEnd>
+          </token>
+          <token id="14">
+            <word>.</word>
+            <CharacterOffsetBegin>1965</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1966</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="53" line="53">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <CharacterOffsetBegin>1967</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1970</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>remission</word>
+            <CharacterOffsetBegin>1971</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1980</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>rate</word>
+            <CharacterOffsetBegin>1981</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1985</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>was</word>
+            <CharacterOffsetBegin>1986</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1989</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>70</word>
+            <CharacterOffsetBegin>1990</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1992</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>%</word>
+            <CharacterOffsetBegin>1992</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1993</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>with</word>
+            <CharacterOffsetBegin>1994</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1998</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>PB</word>
+            <CharacterOffsetBegin>1999</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2001</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>and</word>
+            <CharacterOffsetBegin>2002</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2005</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>75</word>
+            <CharacterOffsetBegin>2006</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2008</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>%</word>
+            <CharacterOffsetBegin>2008</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2009</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>with</word>
+            <CharacterOffsetBegin>2010</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2014</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>sertraline</word>
+            <CharacterOffsetBegin>2015</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2025</CharacterOffsetEnd>
+          </token>
+          <token id="14">
+            <word>.</word>
+            <CharacterOffsetBegin>2025</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2026</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="54" line="54">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <CharacterOffsetBegin>2027</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2030</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>two</word>
+            <CharacterOffsetBegin>2031</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2034</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>groups</word>
+            <CharacterOffsetBegin>2035</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2041</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>did</word>
+            <CharacterOffsetBegin>2042</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2045</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>not</word>
+            <CharacterOffsetBegin>2046</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2049</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>differ</word>
+            <CharacterOffsetBegin>2050</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2056</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>significantly</word>
+            <CharacterOffsetBegin>2057</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2070</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>on</word>
+            <CharacterOffsetBegin>2071</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2073</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>either</word>
+            <CharacterOffsetBegin>2074</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2080</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>measure</word>
+            <CharacterOffsetBegin>2081</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2088</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="55" line="55">
+        <tokens>
+          <token id="1">
+            <word>-LSB-</word>
+            <CharacterOffsetBegin>2089</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2090</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>Table</word>
+            <CharacterOffsetBegin>2090</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2095</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>2</word>
+            <CharacterOffsetBegin>2096</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2097</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>-RSB-</word>
+            <CharacterOffsetBegin>2097</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2098</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>.</word>
+            <CharacterOffsetBegin>2098</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2099</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="56" line="56">
+        <tokens>
+          <token id="1">
+            <word>Table</word>
+            <CharacterOffsetBegin>2100</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2105</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>2</word>
+            <CharacterOffsetBegin>2106</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2107</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="57" line="57">
+        <tokens>
+          <token id="1">
+            <word>Response</word>
+            <CharacterOffsetBegin>2108</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2116</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>and</word>
+            <CharacterOffsetBegin>2117</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2120</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>remission</word>
+            <CharacterOffsetBegin>2121</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2130</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>rates</word>
+            <CharacterOffsetBegin>2131</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2136</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>with</word>
+            <CharacterOffsetBegin>2137</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2141</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>placeboxetine</word>
+            <CharacterOffsetBegin>2142</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2155</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>and</word>
+            <CharacterOffsetBegin>2156</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2159</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>sertraline</word>
+            <CharacterOffsetBegin>2160</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2170</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>*</word>
+            <CharacterOffsetBegin>2171</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2172</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="58" line="58">
+        <tokens>
+          <token id="1">
+            <word>Table</word>
+            <CharacterOffsetBegin>2173</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2178</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>3</word>
+            <CharacterOffsetBegin>2179</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2180</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>presents</word>
+            <CharacterOffsetBegin>2181</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2189</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>adverse</word>
+            <CharacterOffsetBegin>2190</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2197</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>events</word>
+            <CharacterOffsetBegin>2198</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2204</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="59" line="59">
+        <tokens>
+          <token id="1">
+            <word>that</word>
+            <CharacterOffsetBegin>2205</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2209</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>were</word>
+            <CharacterOffsetBegin>2210</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2214</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>reported</word>
+            <CharacterOffsetBegin>2215</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2223</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>by</word>
+            <CharacterOffsetBegin>2224</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2226</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>at</word>
+            <CharacterOffsetBegin>2227</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2229</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>least</word>
+            <CharacterOffsetBegin>2230</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2235</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>2</word>
+            <CharacterOffsetBegin>2236</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2237</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>%</word>
+            <CharacterOffsetBegin>2237</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2238</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>of</word>
+            <CharacterOffsetBegin>2239</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2241</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>the</word>
+            <CharacterOffsetBegin>2242</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2245</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>patients</word>
+            <CharacterOffsetBegin>2246</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2254</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>in</word>
+            <CharacterOffsetBegin>2255</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2257</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>either</word>
+            <CharacterOffsetBegin>2258</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2264</CharacterOffsetEnd>
+          </token>
+          <token id="14">
+            <word>group</word>
+            <CharacterOffsetBegin>2265</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2270</CharacterOffsetEnd>
+          </token>
+          <token id="15">
+            <word>during</word>
+            <CharacterOffsetBegin>2271</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2277</CharacterOffsetEnd>
+          </token>
+          <token id="16">
+            <word>the</word>
+            <CharacterOffsetBegin>2278</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2281</CharacterOffsetEnd>
+          </token>
+          <token id="17">
+            <word>course</word>
+            <CharacterOffsetBegin>2282</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2288</CharacterOffsetEnd>
+          </token>
+          <token id="18">
+            <word>of</word>
+            <CharacterOffsetBegin>2289</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2291</CharacterOffsetEnd>
+          </token>
+          <token id="19">
+            <word>the</word>
+            <CharacterOffsetBegin>2292</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2295</CharacterOffsetEnd>
+          </token>
+          <token id="20">
+            <word>study</word>
+            <CharacterOffsetBegin>2296</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2301</CharacterOffsetEnd>
+          </token>
+          <token id="21">
+            <word>.</word>
+            <CharacterOffsetBegin>2301</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2302</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="60" line="60">
+        <tokens>
+          <token id="1">
+            <word>Both</word>
+            <CharacterOffsetBegin>2303</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2307</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>drugs</word>
+            <CharacterOffsetBegin>2308</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2313</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>were</word>
+            <CharacterOffsetBegin>2314</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2318</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>well</word>
+            <CharacterOffsetBegin>2319</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2323</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>tolerated</word>
+            <CharacterOffsetBegin>2324</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2333</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>.</word>
+            <CharacterOffsetBegin>2333</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2334</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="61" line="61">
+        <tokens>
+          <token id="1">
+            <word>Most</word>
+            <CharacterOffsetBegin>2335</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2339</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>of</word>
+            <CharacterOffsetBegin>2340</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2342</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>the</word>
+            <CharacterOffsetBegin>2343</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2346</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>adverse</word>
+            <CharacterOffsetBegin>2347</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2354</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>events</word>
+            <CharacterOffsetBegin>2355</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2361</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>occurred</word>
+            <CharacterOffsetBegin>2362</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2370</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>early</word>
+            <CharacterOffsetBegin>2371</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2376</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>during</word>
+            <CharacterOffsetBegin>2377</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2383</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>the</word>
+            <CharacterOffsetBegin>2384</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2387</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>course</word>
+            <CharacterOffsetBegin>2388</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2394</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>of</word>
+            <CharacterOffsetBegin>2395</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2397</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>the</word>
+            <CharacterOffsetBegin>2398</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2401</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>study</word>
+            <CharacterOffsetBegin>2402</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2407</CharacterOffsetEnd>
+          </token>
+          <token id="14">
+            <word>.</word>
+            <CharacterOffsetBegin>2407</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2408</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="62" line="62">
+        <tokens>
+          <token id="1">
+            <word>All</word>
+            <CharacterOffsetBegin>2409</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2412</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>adverse</word>
+            <CharacterOffsetBegin>2413</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2420</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>events</word>
+            <CharacterOffsetBegin>2421</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2427</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>recorded</word>
+            <CharacterOffsetBegin>2428</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2436</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>were</word>
+            <CharacterOffsetBegin>2437</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2441</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>transient</word>
+            <CharacterOffsetBegin>2442</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2451</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>and</word>
+            <CharacterOffsetBegin>2452</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2455</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>mild</word>
+            <CharacterOffsetBegin>2456</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2460</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>to</word>
+            <CharacterOffsetBegin>2461</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2463</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>moderate</word>
+            <CharacterOffsetBegin>2464</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2472</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>in</word>
+            <CharacterOffsetBegin>2473</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2475</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>severity</word>
+            <CharacterOffsetBegin>2476</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2484</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>.</word>
+            <CharacterOffsetBegin>2484</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2485</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="63" line="63">
+        <tokens>
+          <token id="1">
+            <word>PB</word>
+            <CharacterOffsetBegin>2486</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2488</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>was</word>
+            <CharacterOffsetBegin>2489</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2492</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>associated</word>
+            <CharacterOffsetBegin>2493</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2503</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>with</word>
+            <CharacterOffsetBegin>2504</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2508</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>significantly</word>
+            <CharacterOffsetBegin>2509</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2522</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>less</word>
+            <CharacterOffsetBegin>2523</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2527</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>nausea</word>
+            <CharacterOffsetBegin>2528</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2534</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>and</word>
+            <CharacterOffsetBegin>2535</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2538</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>headache</word>
+            <CharacterOffsetBegin>2539</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2547</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>than</word>
+            <CharacterOffsetBegin>2548</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2552</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>sertraline</word>
+            <CharacterOffsetBegin>2553</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2563</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>;</word>
+            <CharacterOffsetBegin>2563</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2564</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="64" line="64">
+        <tokens>
+          <token id="1">
+            <word>otherwise</word>
+            <CharacterOffsetBegin>2565</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2574</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>,</word>
+            <CharacterOffsetBegin>2574</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2575</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>adverse</word>
+            <CharacterOffsetBegin>2576</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2583</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>events</word>
+            <CharacterOffsetBegin>2584</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2590</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>did</word>
+            <CharacterOffsetBegin>2591</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2594</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>not</word>
+            <CharacterOffsetBegin>2595</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2598</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>differ</word>
+            <CharacterOffsetBegin>2599</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2605</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>significantly</word>
+            <CharacterOffsetBegin>2606</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2619</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>between</word>
+            <CharacterOffsetBegin>2620</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2627</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>the</word>
+            <CharacterOffsetBegin>2628</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2631</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>two</word>
+            <CharacterOffsetBegin>2632</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2635</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>groups</word>
+            <CharacterOffsetBegin>2636</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2642</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>.</word>
+            <CharacterOffsetBegin>2642</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2643</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="65" line="65">
+        <tokens>
+          <token id="1">
+            <word>There</word>
+            <CharacterOffsetBegin>2644</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2649</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>were</word>
+            <CharacterOffsetBegin>2650</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2654</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>no</word>
+            <CharacterOffsetBegin>2655</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2657</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>serious</word>
+            <CharacterOffsetBegin>2658</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2665</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>adverse</word>
+            <CharacterOffsetBegin>2666</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2673</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>events</word>
+            <CharacterOffsetBegin>2674</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2680</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>during</word>
+            <CharacterOffsetBegin>2681</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2687</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>the</word>
+            <CharacterOffsetBegin>2688</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2691</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>study</word>
+            <CharacterOffsetBegin>2692</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2697</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>.</word>
+            <CharacterOffsetBegin>2697</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2698</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="66" line="66">
+        <tokens>
+          <token id="1">
+            <word>Table</word>
+            <CharacterOffsetBegin>2699</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2704</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>3</word>
+            <CharacterOffsetBegin>2705</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2706</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="67" line="67">
+        <tokens>
+          <token id="1">
+            <word>Adverse</word>
+            <CharacterOffsetBegin>2707</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2714</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>events</word>
+            <CharacterOffsetBegin>2715</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2721</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="68" line="68">
+        <tokens>
+          <token id="1">
+            <word>reported</word>
+            <CharacterOffsetBegin>2722</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2730</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>by</word>
+            <CharacterOffsetBegin>2731</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2733</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>at</word>
+            <CharacterOffsetBegin>2734</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2736</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>least</word>
+            <CharacterOffsetBegin>2737</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2742</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>2</word>
+            <CharacterOffsetBegin>2743</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2744</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>%</word>
+            <CharacterOffsetBegin>2744</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2745</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>of</word>
+            <CharacterOffsetBegin>2746</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2748</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>the</word>
+            <CharacterOffsetBegin>2749</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2752</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>patients</word>
+            <CharacterOffsetBegin>2753</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2761</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>in</word>
+            <CharacterOffsetBegin>2762</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2764</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>either</word>
+            <CharacterOffsetBegin>2765</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2771</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>group</word>
+            <CharacterOffsetBegin>2772</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2777</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>*</word>
+            <CharacterOffsetBegin>2778</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2779</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="69" line="69">
+        <tokens>
+          <token id="1">
+            <word>There</word>
+            <CharacterOffsetBegin>2780</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2785</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>were</word>
+            <CharacterOffsetBegin>2786</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2790</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>no</word>
+            <CharacterOffsetBegin>2791</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2793</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>significant</word>
+            <CharacterOffsetBegin>2794</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2805</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>changes</word>
+            <CharacterOffsetBegin>2806</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2813</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>in</word>
+            <CharacterOffsetBegin>2814</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2816</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>heart</word>
+            <CharacterOffsetBegin>2817</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2822</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>rate</word>
+            <CharacterOffsetBegin>2823</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2827</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>or</word>
+            <CharacterOffsetBegin>2828</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2830</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>blood</word>
+            <CharacterOffsetBegin>2831</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2836</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>pressure</word>
+            <CharacterOffsetBegin>2837</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2845</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>at</word>
+            <CharacterOffsetBegin>2846</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2848</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>any</word>
+            <CharacterOffsetBegin>2849</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2852</CharacterOffsetEnd>
+          </token>
+          <token id="14">
+            <word>time</word>
+            <CharacterOffsetBegin>2853</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2857</CharacterOffsetEnd>
+          </token>
+          <token id="15">
+            <word>point</word>
+            <CharacterOffsetBegin>2858</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2863</CharacterOffsetEnd>
+          </token>
+          <token id="16">
+            <word>.</word>
+            <CharacterOffsetBegin>2863</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2864</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="70" line="70">
+        <tokens>
+          <token id="1">
+            <word>There</word>
+            <CharacterOffsetBegin>2865</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2870</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>were</word>
+            <CharacterOffsetBegin>2871</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2875</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>no</word>
+            <CharacterOffsetBegin>2876</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2878</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>abnormalities</word>
+            <CharacterOffsetBegin>2879</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2892</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="71" line="71">
+        <tokens>
+          <token id="1">
+            <word>identified</word>
+            <CharacterOffsetBegin>2893</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2903</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>in</word>
+            <CharacterOffsetBegin>2904</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2906</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>the</word>
+            <CharacterOffsetBegin>2907</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2910</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>EKG</word>
+            <CharacterOffsetBegin>2911</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2914</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="72" line="72">
+        <tokens>
+          <token id="1">
+            <word>or</word>
+            <CharacterOffsetBegin>2916</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2918</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>in</word>
+            <CharacterOffsetBegin>2919</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2921</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>any</word>
+            <CharacterOffsetBegin>2922</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2925</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>of</word>
+            <CharacterOffsetBegin>2926</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2928</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>the</word>
+            <CharacterOffsetBegin>2929</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2932</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>hematological</word>
+            <CharacterOffsetBegin>2933</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2946</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>and</word>
+            <CharacterOffsetBegin>2947</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2950</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>biochemical</word>
+            <CharacterOffsetBegin>2951</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2962</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>parameters</word>
+            <CharacterOffsetBegin>2963</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2973</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>studied</word>
+            <CharacterOffsetBegin>2974</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2981</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>.</word>
+            <CharacterOffsetBegin>2981</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2982</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="73" line="73">
+        <tokens>
+          <token id="1">
+            <word>Metabolic</word>
+            <CharacterOffsetBegin>2983</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2992</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>parameters</word>
+            <CharacterOffsetBegin>2993</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3003</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>are</word>
+            <CharacterOffsetBegin>3004</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3007</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>presented</word>
+            <CharacterOffsetBegin>3008</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3017</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>in</word>
+            <CharacterOffsetBegin>3018</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3020</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>Table</word>
+            <CharacterOffsetBegin>3021</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3026</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>4</word>
+            <CharacterOffsetBegin>3027</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3028</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>.</word>
+            <CharacterOffsetBegin>3028</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3029</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="74" line="74">
+        <tokens>
+          <token id="1">
+            <word>There</word>
+            <CharacterOffsetBegin>3030</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3035</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>were</word>
+            <CharacterOffsetBegin>3036</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3040</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>no</word>
+            <CharacterOffsetBegin>3041</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3043</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>differences</word>
+            <CharacterOffsetBegin>3044</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3055</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>in</word>
+            <CharacterOffsetBegin>3056</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3058</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>metabolic</word>
+            <CharacterOffsetBegin>3059</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3068</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>parameters</word>
+            <CharacterOffsetBegin>3069</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3079</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>between</word>
+            <CharacterOffsetBegin>3080</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3087</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>groups</word>
+            <CharacterOffsetBegin>3088</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3094</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>at</word>
+            <CharacterOffsetBegin>3095</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3097</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>either</word>
+            <CharacterOffsetBegin>3098</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3104</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>baseline</word>
+            <CharacterOffsetBegin>3105</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3113</CharacterOffsetEnd>
+          </token>
+          <token id="13">
+            <word>or</word>
+            <CharacterOffsetBegin>3114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3116</CharacterOffsetEnd>
+          </token>
+          <token id="14">
+            <word>endpoint</word>
+            <CharacterOffsetBegin>3117</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3125</CharacterOffsetEnd>
+          </token>
+          <token id="15">
+            <word>,</word>
+            <CharacterOffsetBegin>3125</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3126</CharacterOffsetEnd>
+          </token>
+          <token id="16">
+            <word>nor</word>
+            <CharacterOffsetBegin>3127</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3130</CharacterOffsetEnd>
+          </token>
+          <token id="17">
+            <word>between</word>
+            <CharacterOffsetBegin>3131</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3138</CharacterOffsetEnd>
+          </token>
+          <token id="18">
+            <word>baseline</word>
+            <CharacterOffsetBegin>3139</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3147</CharacterOffsetEnd>
+          </token>
+          <token id="19">
+            <word>and</word>
+            <CharacterOffsetBegin>3148</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3151</CharacterOffsetEnd>
+          </token>
+          <token id="20">
+            <word>endpoint</word>
+            <CharacterOffsetBegin>3152</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3160</CharacterOffsetEnd>
+          </token>
+          <token id="21">
+            <word>in</word>
+            <CharacterOffsetBegin>3161</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3163</CharacterOffsetEnd>
+          </token>
+          <token id="22">
+            <word>either</word>
+            <CharacterOffsetBegin>3164</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3170</CharacterOffsetEnd>
+          </token>
+          <token id="23">
+            <word>group</word>
+            <CharacterOffsetBegin>3171</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3176</CharacterOffsetEnd>
+          </token>
+          <token id="24">
+            <word>.</word>
+            <CharacterOffsetBegin>3176</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3177</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="75" line="75">
+        <tokens>
+          <token id="1">
+            <word>Table</word>
+            <CharacterOffsetBegin>3178</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3183</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>4</word>
+            <CharacterOffsetBegin>3184</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3185</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+      <sentence id="76" line="76">
+        <tokens>
+          <token id="1">
+            <word>Metabolic</word>
+            <CharacterOffsetBegin>3186</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3195</CharacterOffsetEnd>
+          </token>
+          <token id="2">
+            <word>parameters</word>
+            <CharacterOffsetBegin>3196</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3206</CharacterOffsetEnd>
+          </token>
+          <token id="3">
+            <word>at</word>
+            <CharacterOffsetBegin>3207</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3209</CharacterOffsetEnd>
+          </token>
+          <token id="4">
+            <word>baseline</word>
+            <CharacterOffsetBegin>3210</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3218</CharacterOffsetEnd>
+          </token>
+          <token id="5">
+            <word>and</word>
+            <CharacterOffsetBegin>3219</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3222</CharacterOffsetEnd>
+          </token>
+          <token id="6">
+            <word>endpoint</word>
+            <CharacterOffsetBegin>3223</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3231</CharacterOffsetEnd>
+          </token>
+          <token id="7">
+            <word>in</word>
+            <CharacterOffsetBegin>3232</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3234</CharacterOffsetEnd>
+          </token>
+          <token id="8">
+            <word>placeboxetine</word>
+            <CharacterOffsetBegin>3235</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3248</CharacterOffsetEnd>
+          </token>
+          <token id="9">
+            <word>and</word>
+            <CharacterOffsetBegin>3249</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3252</CharacterOffsetEnd>
+          </token>
+          <token id="10">
+            <word>sertraline</word>
+            <CharacterOffsetBegin>3253</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3263</CharacterOffsetEnd>
+          </token>
+          <token id="11">
+            <word>groups</word>
+            <CharacterOffsetBegin>3264</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3270</CharacterOffsetEnd>
+          </token>
+          <token id="12">
+            <word>*</word>
+            <CharacterOffsetBegin>3271</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3272</CharacterOffsetEnd>
+          </token>
+        </tokens>
+      </sentence>
+    </sentences>
+  </document>
+</root>

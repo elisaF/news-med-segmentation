@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <docId>PMC3056193_Section05_SUMMARY.out.edus</docId>
+    <sentences>
+      <sentence id="1" line="1">
+        <tokens>
+          <token id="1">
+            <word>SUMMARY</word>
+            <lemma>summary</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (NP (NN SUMMARY))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">SUMMARY</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">SUMMARY</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">SUMMARY</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">SUMMARY</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">SUMMARY</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="2" line="2">
+        <tokens>
+          <token id="1">
+            <word>This</word>
+            <lemma>this</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>first</word>
+            <lemma>first</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>ORDINAL</NER>
+            <NormalizedNER>1.0</NormalizedNER>
+          </token>
+          <token id="5">
+            <word>RCT</word>
+            <lemma>rct</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>PB</word>
+            <lemma>pb</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>Indian</word>
+            <lemma>indian</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>NATIONALITY</NER>
+          </token>
+          <token id="10">
+            <word>patients</word>
+            <lemma>patient</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>54</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>55</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>major</word>
+            <lemma>major</lemma>
+            <CharacterOffsetBegin>60</CharacterOffsetBegin>
+            <CharacterOffsetEnd>65</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>depressive</word>
+            <lemma>depressive</lemma>
+            <CharacterOffsetBegin>66</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>disorder</word>
+            <lemma>disorder</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>85</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>85</CharacterOffsetBegin>
+            <CharacterOffsetEnd>86</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN RCT)) (PP (IN of) (NP (NP (NN PB)) (PP (IN in) (NP (NP (JJ Indian) (NNS patients)) (PP (IN with) (NP (JJ major) (JJ depressive) (NN disorder))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">RCT</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">RCT</governor>
+            <dependent idx="1">This</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">RCT</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">RCT</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">RCT</governor>
+            <dependent idx="4">first</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">PB</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="5">RCT</governor>
+            <dependent idx="7">PB</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="10">patients</governor>
+            <dependent idx="8">in</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">patients</governor>
+            <dependent idx="9">Indian</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="7">PB</governor>
+            <dependent idx="10">patients</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="14">disorder</governor>
+            <dependent idx="11">with</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">disorder</governor>
+            <dependent idx="12">major</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">disorder</governor>
+            <dependent idx="13">depressive</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="10">patients</governor>
+            <dependent idx="14">disorder</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">RCT</governor>
+            <dependent idx="15">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">RCT</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">RCT</governor>
+            <dependent idx="1">This</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">RCT</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">RCT</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">RCT</governor>
+            <dependent idx="4">first</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">PB</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="5">RCT</governor>
+            <dependent idx="7">PB</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="10">patients</governor>
+            <dependent idx="8">in</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">patients</governor>
+            <dependent idx="9">Indian</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="7">PB</governor>
+            <dependent idx="10">patients</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="14">disorder</governor>
+            <dependent idx="11">with</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">disorder</governor>
+            <dependent idx="12">major</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">disorder</governor>
+            <dependent idx="13">depressive</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="10">patients</governor>
+            <dependent idx="14">disorder</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">RCT</governor>
+            <dependent idx="15">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">RCT</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">RCT</governor>
+            <dependent idx="1">This</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">RCT</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">RCT</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">RCT</governor>
+            <dependent idx="4">first</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">PB</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="5">RCT</governor>
+            <dependent idx="7">PB</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="10">patients</governor>
+            <dependent idx="8">in</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">patients</governor>
+            <dependent idx="9">Indian</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="7">PB</governor>
+            <dependent idx="10">patients</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="14">disorder</governor>
+            <dependent idx="11">with</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">disorder</governor>
+            <dependent idx="12">major</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">disorder</governor>
+            <dependent idx="13">depressive</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="10">patients</governor>
+            <dependent idx="14">disorder</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">RCT</governor>
+            <dependent idx="15">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">RCT</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">RCT</governor>
+            <dependent idx="1">This</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">RCT</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">RCT</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">RCT</governor>
+            <dependent idx="4">first</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">PB</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="5">RCT</governor>
+            <dependent idx="7">PB</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="10">patients</governor>
+            <dependent idx="8">in</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">patients</governor>
+            <dependent idx="9">Indian</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="7">PB</governor>
+            <dependent idx="10">patients</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="14">disorder</governor>
+            <dependent idx="11">with</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">disorder</governor>
+            <dependent idx="12">major</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">disorder</governor>
+            <dependent idx="13">depressive</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="10">patients</governor>
+            <dependent idx="14">disorder</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">RCT</governor>
+            <dependent idx="15">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">RCT</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">RCT</governor>
+            <dependent idx="1">This</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="5">RCT</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">RCT</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="5">RCT</governor>
+            <dependent idx="4">first</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">PB</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="5">RCT</governor>
+            <dependent idx="7">PB</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="10">patients</governor>
+            <dependent idx="8">in</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="10">patients</governor>
+            <dependent idx="9">Indian</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="7">PB</governor>
+            <dependent idx="10">patients</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="14">disorder</governor>
+            <dependent idx="11">with</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">disorder</governor>
+            <dependent idx="12">major</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="14">disorder</governor>
+            <dependent idx="13">depressive</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="10">patients</governor>
+            <dependent idx="14">disorder</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="5">RCT</governor>
+            <dependent idx="15">.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="3" line="3">
+        <tokens>
+          <token id="1">
+            <word>PB</word>
+            <lemma>pb</lemma>
+            <CharacterOffsetBegin>87</CharacterOffsetBegin>
+            <CharacterOffsetEnd>89</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>90</CharacterOffsetBegin>
+            <CharacterOffsetEnd>92</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>effective</word>
+            <lemma>effective</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>102</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>103</CharacterOffsetBegin>
+            <CharacterOffsetEnd>106</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>well</word>
+            <lemma>well</lemma>
+            <CharacterOffsetBegin>107</CharacterOffsetBegin>
+            <CharacterOffsetEnd>111</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>tolerated</word>
+            <lemma>tolerate</lemma>
+            <CharacterOffsetBegin>112</CharacterOffsetBegin>
+            <CharacterOffsetEnd>121</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>121</CharacterOffsetBegin>
+            <CharacterOffsetEnd>122</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NN PB)) (VP (VP (VBZ is) (ADJP (JJ effective))) (CC and) (ADVP (RB well)) (VP (VBD tolerated))) (, ,))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">effective</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">effective</governor>
+            <dependent idx="1">PB</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="3">effective</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">effective</governor>
+            <dependent idx="4">and</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">tolerated</governor>
+            <dependent idx="5">well</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">effective</governor>
+            <dependent idx="6">tolerated</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">effective</governor>
+            <dependent idx="7">,</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">effective</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">effective</governor>
+            <dependent idx="1">PB</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="3">effective</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">effective</governor>
+            <dependent idx="4">and</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">tolerated</governor>
+            <dependent idx="5">well</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="3">effective</governor>
+            <dependent idx="6">tolerated</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">effective</governor>
+            <dependent idx="7">,</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">effective</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">effective</governor>
+            <dependent idx="1">PB</dependent>
+          </dep>
+          <dep type="nsubj" extra="true">
+            <governor idx="6">tolerated</governor>
+            <dependent idx="1">PB</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="3">effective</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">effective</governor>
+            <dependent idx="4">and</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">tolerated</governor>
+            <dependent idx="5">well</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="3">effective</governor>
+            <dependent idx="6">tolerated</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">effective</governor>
+            <dependent idx="7">,</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">effective</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">effective</governor>
+            <dependent idx="1">PB</dependent>
+          </dep>
+          <dep type="nsubj" extra="true">
+            <governor idx="6">tolerated</governor>
+            <dependent idx="1">PB</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="3">effective</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">effective</governor>
+            <dependent idx="4">and</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">tolerated</governor>
+            <dependent idx="5">well</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="3">effective</governor>
+            <dependent idx="6">tolerated</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">effective</governor>
+            <dependent idx="7">,</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">effective</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">effective</governor>
+            <dependent idx="1">PB</dependent>
+          </dep>
+          <dep type="nsubj" extra="true">
+            <governor idx="6">tolerated</governor>
+            <dependent idx="1">PB</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="3">effective</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">effective</governor>
+            <dependent idx="4">and</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">tolerated</governor>
+            <dependent idx="5">well</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="3">effective</governor>
+            <dependent idx="6">tolerated</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="3">effective</governor>
+            <dependent idx="7">,</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+      <sentence id="4" line="4">
+        <tokens>
+          <token id="1">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>123</CharacterOffsetBegin>
+            <CharacterOffsetEnd>126</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>127</CharacterOffsetBegin>
+            <CharacterOffsetEnd>129</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>130</CharacterOffsetBegin>
+            <CharacterOffsetEnd>132</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>safe</word>
+            <lemma>safe</lemma>
+            <CharacterOffsetBegin>133</CharacterOffsetBegin>
+            <CharacterOffsetEnd>137</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>138</CharacterOffsetBegin>
+            <CharacterOffsetEnd>141</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>effective</word>
+            <lemma>effective</lemma>
+            <CharacterOffsetBegin>142</CharacterOffsetBegin>
+            <CharacterOffsetEnd>151</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>152</CharacterOffsetBegin>
+            <CharacterOffsetEnd>154</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>sertraline</word>
+            <lemma>sertraline</lemma>
+            <CharacterOffsetBegin>155</CharacterOffsetBegin>
+            <CharacterOffsetEnd>165</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>166</CharacterOffsetBegin>
+            <CharacterOffsetEnd>168</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>this</word>
+            <lemma>this</lemma>
+            <CharacterOffsetBegin>169</CharacterOffsetBegin>
+            <CharacterOffsetEnd>173</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>regard</word>
+            <lemma>regard</lemma>
+            <CharacterOffsetBegin>174</CharacterOffsetBegin>
+            <CharacterOffsetEnd>180</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>180</CharacterOffsetBegin>
+            <CharacterOffsetEnd>181</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (CC and) (VP (VBZ is) (ADJP (ADJP (RB as) (JJ safe) (CC and) (JJ effective)) (PP (IN as) (NP (NP (NN sertraline)) (PP (IN in) (NP (DT this) (NN regard))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">safe</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">safe</governor>
+            <dependent idx="1">and</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="4">safe</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">safe</governor>
+            <dependent idx="3">as</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">safe</governor>
+            <dependent idx="5">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">safe</governor>
+            <dependent idx="6">effective</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">sertraline</governor>
+            <dependent idx="7">as</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">safe</governor>
+            <dependent idx="8">sertraline</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">regard</governor>
+            <dependent idx="9">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">regard</governor>
+            <dependent idx="10">this</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="8">sertraline</governor>
+            <dependent idx="11">regard</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">safe</governor>
+            <dependent idx="12">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">safe</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">safe</governor>
+            <dependent idx="1">and</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="4">safe</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">safe</governor>
+            <dependent idx="3">as</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">safe</governor>
+            <dependent idx="5">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="4">safe</governor>
+            <dependent idx="6">effective</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">sertraline</governor>
+            <dependent idx="7">as</dependent>
+          </dep>
+          <dep type="nmod:as">
+            <governor idx="4">safe</governor>
+            <dependent idx="8">sertraline</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">regard</governor>
+            <dependent idx="9">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">regard</governor>
+            <dependent idx="10">this</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="8">sertraline</governor>
+            <dependent idx="11">regard</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">safe</governor>
+            <dependent idx="12">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">safe</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">safe</governor>
+            <dependent idx="1">and</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="4">safe</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">safe</governor>
+            <dependent idx="3">as</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">safe</governor>
+            <dependent idx="5">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="4">safe</governor>
+            <dependent idx="6">effective</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">sertraline</governor>
+            <dependent idx="7">as</dependent>
+          </dep>
+          <dep type="nmod:as">
+            <governor idx="4">safe</governor>
+            <dependent idx="8">sertraline</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">regard</governor>
+            <dependent idx="9">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">regard</governor>
+            <dependent idx="10">this</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="8">sertraline</governor>
+            <dependent idx="11">regard</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">safe</governor>
+            <dependent idx="12">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">safe</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">safe</governor>
+            <dependent idx="1">and</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="4">safe</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">safe</governor>
+            <dependent idx="3">as</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">safe</governor>
+            <dependent idx="5">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="4">safe</governor>
+            <dependent idx="6">effective</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">sertraline</governor>
+            <dependent idx="7">as</dependent>
+          </dep>
+          <dep type="nmod:as">
+            <governor idx="4">safe</governor>
+            <dependent idx="8">sertraline</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">regard</governor>
+            <dependent idx="9">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">regard</governor>
+            <dependent idx="10">this</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="8">sertraline</governor>
+            <dependent idx="11">regard</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">safe</governor>
+            <dependent idx="12">.</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="enhanced-plus-plus-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">safe</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">safe</governor>
+            <dependent idx="1">and</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="4">safe</governor>
+            <dependent idx="2">is</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="4">safe</governor>
+            <dependent idx="3">as</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">safe</governor>
+            <dependent idx="5">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="4">safe</governor>
+            <dependent idx="6">effective</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">sertraline</governor>
+            <dependent idx="7">as</dependent>
+          </dep>
+          <dep type="nmod:as">
+            <governor idx="4">safe</governor>
+            <dependent idx="8">sertraline</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">regard</governor>
+            <dependent idx="9">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">regard</governor>
+            <dependent idx="10">this</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="8">sertraline</governor>
+            <dependent idx="11">regard</dependent>
+          </dep>
+          <dep type="punct">
+            <governor idx="4">safe</governor>
+            <dependent idx="12">.</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

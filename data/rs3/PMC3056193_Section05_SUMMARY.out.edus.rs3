@@ -1,0 +1,145 @@
+<rst>
+<header>
+	<relations>
+			<rel name="Analogy" type="multinuc"/>
+			<rel name="Cause-Result" type="multinuc"/>
+			<rel name="Comment-Topic" type="multinuc"/>
+			<rel name="Comparison" type="multinuc"/>
+			<rel name="Conclusion" type="multinuc"/>
+			<rel name="Consequence" type="multinuc"/>
+			<rel name="Contrast" type="multinuc"/>
+			<rel name="Disjunction" type="multinuc"/>
+			<rel name="Evaluation" type="multinuc"/>
+			<rel name="Interpretation" type="multinuc"/>
+			<rel name="Inverted-Sequence" type="multinuc"/>
+			<rel name="List" type="multinuc"/>
+			<rel name="Otherwise" type="multinuc"/>
+			<rel name="Problem-Solution" type="multinuc"/>
+			<rel name="Proportion" type="multinuc"/>
+			<rel name="Question-Answer" type="multinuc"/>
+			<rel name="Reason" type="multinuc"/>
+			<rel name="Same-Unit" type="multinuc"/>
+			<rel name="Sequence" type="multinuc"/>
+			<rel name="Statement-Response" type="multinuc"/>
+			<rel name="Temporal-Same-Time" type="multinuc"/>
+			<rel name="TextualOrganization" type="multinuc"/>
+			<rel name="Topic-Comment" type="multinuc"/>
+			<rel name="Topic-Drift" type="multinuc"/>
+			<rel name="Topic-Shift" type="multinuc"/>
+			<rel name="analogy-e" type="rst"/>
+			<rel name="analogy" type="rst"/>
+			<rel name="antithesis-e" type="rst"/>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution-e" type="rst"/>
+			<rel name="attribution-n-e" type="rst"/>
+			<rel name="attribution-n" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background-e" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause-e" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance-e" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="comment-e" type="rst"/>
+			<rel name="comment" type="rst"/>
+			<rel name="comparison-e" type="rst"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="concession-e" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion-e" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition-e" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="consequence-n-e" type="rst"/>
+			<rel name="consequence-n" type="rst"/>
+			<rel name="consequence-s-e" type="rst"/>
+			<rel name="consequence-s" type="rst"/>
+			<rel name="contingency-e" type="rst"/>
+			<rel name="contingency" type="rst"/>
+			<rel name="definition-e" type="rst"/>
+			<rel name="definition" type="rst"/>
+			<rel name="elaboration-additional-e" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-general-specific-e" type="rst"/>
+			<rel name="elaboration-general-specific" type="rst"/>
+			<rel name="elaboration-object-attribute-e" type="rst"/>
+			<rel name="elaboration-object-attribute" type="rst"/>
+			<rel name="elaboration-part-whole-e" type="rst"/>
+			<rel name="elaboration-part-whole" type="rst"/>
+			<rel name="elaboration-process-step-e" type="rst"/>
+			<rel name="elaboration-process-step" type="rst"/>
+			<rel name="elaboration-set-member-e" type="rst"/>
+			<rel name="elaboration-set-member" type="rst"/>
+			<rel name="enablement-e" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n-e" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s-e" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence-e" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="example-e" type="rst"/>
+			<rel name="example" type="rst"/>
+			<rel name="explanation-argumentative-e" type="rst"/>
+			<rel name="explanation-argumentative" type="rst"/>
+			<rel name="hypothetical-e" type="rst"/>
+			<rel name="hypothetical" type="rst"/>
+			<rel name="interpretation-n-e" type="rst"/>
+			<rel name="interpretation-n" type="rst"/>
+			<rel name="interpretation-s-e" type="rst"/>
+			<rel name="interpretation-s" type="rst"/>
+			<rel name="manner-e" type="rst"/>
+			<rel name="manner" type="rst"/>
+			<rel name="means-e" type="rst"/>
+			<rel name="means" type="rst"/>
+			<rel name="otherwise-e" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preference-e" type="rst"/>
+			<rel name="preference" type="rst"/>
+			<rel name="problem-solution-n-e" type="rst"/>
+			<rel name="problem-solution-n" type="rst"/>
+			<rel name="problem-solution-s-e" type="rst"/>
+			<rel name="problem-solution-s" type="rst"/>
+			<rel name="purpose-e" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question-answer-n-e" type="rst"/>
+			<rel name="question-answer-n" type="rst"/>
+			<rel name="question-answer-s-e" type="rst"/>
+			<rel name="question-answer-s" type="rst"/>
+			<rel name="reason-e" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-e" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result-e" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="rhetorical-question-e" type="rst"/>
+			<rel name="rhetorical-question" type="rst"/>
+			<rel name="statement-response-n-e" type="rst"/>
+			<rel name="statement-response-n" type="rst"/>
+			<rel name="statement-response-s-e" type="rst"/>
+			<rel name="statement-response-s" type="rst"/>
+			<rel name="summary-n-e" type="rst"/>
+			<rel name="summary-n" type="rst"/>
+			<rel name="summary-s-e" type="rst"/>
+			<rel name="summary-s" type="rst"/>
+			<rel name="temporal-after-e" type="rst"/>
+			<rel name="temporal-after" type="rst"/>
+			<rel name="temporal-before-e" type="rst"/>
+			<rel name="temporal-before" type="rst"/>
+			<rel name="temporal-same-time-e" type="rst"/>
+			<rel name="temporal-same-time" type="rst"/>
+			<rel name="topic-drift-e" type="rst"/>
+			<rel name="topic-drift" type="rst"/>
+			<rel name="topic-shift-e" type="rst"/>
+			<rel name="topic-shift" type="rst"/>
+		</relations>
+</header>
+<body>
+		<segment id="1" parent="6" relname="TextualOrganization">SUMMARY</segment>
+		<segment id="2" parent="5" relname="Topic-Shift">This is the first RCT of PB in Indian patients with major depressive disorder.</segment>
+		<segment id="3" parent="5" relname="Topic-Shift">PB is effective and well tolerated ,</segment>
+		<segment id="4" >and is as safe and effective as sertraline in this regard.</segment>
+		<group id="5" type="multinuc" parent="6" relname="TextualOrganization"/>
+		<group id="6" type="multinuc" />
+  </body>
+</rst>

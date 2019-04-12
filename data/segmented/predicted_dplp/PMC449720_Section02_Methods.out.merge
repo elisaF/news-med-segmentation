@@ -1,0 +1,245 @@
+0	1	Methods	method	NNS	nsubjpass	19	O	 (ROOT (S (NP (NP (NP (NNS Methods))	1
+0	2	All	all	DT	det	4	O	 (NP (DT All)	1
+0	3	current	current	JJ	amod	4	DATE	 (JJ current)	1
+0	4	consultants	consultant	NNS	dep	1	O	 (NNS consultants)))	1
+0	5	identified	identify	VBN	acl	1	O	 (VP (VBN identified)	1
+0	6	from	from	IN	case	9	O	 (PP (IN from)	1
+0	7	the	the	DT	det	9	O	 (NP (NP (DT the)	1
+0	8	Royal	Royal	NNP	compound	9	ORGANIZATION	 (NNP Royal)	1
+0	9	College	College	NNP	nmod	5	ORGANIZATION	 (NNP College))	1
+0	10	of	of	IN	case	11	ORGANIZATION	 (PP (IN of)	1
+0	11	Obstetricians	Obstetricians	NNPS	nmod	9	ORGANIZATION	 (NP (NNPS Obstetricians)	1
+0	12	and	and	CC	cc	11	O	 (CC and)	1
+0	13	Gynaecologists	Gynaecologists	NNPS	conj	11	O	 (NNPS Gynaecologists)))))))	1
+0	14	-LRB-	-lrb-	-LRB-	punct	15	O	 (PRN (-LRB- -LRB-)	2
+0	15	RCOG	rcog	NN	dep	19	O	 (NP (NN RCOG))	2
+0	16	-RRB-	-rrb-	-RRB-	punct	15	O	 (-RRB- -RRB-))	2
+0	17	database	database	NN	nsubjpass	19	O	 (NP (NN database))	2
+0	18	were	be	VBD	auxpass	19	O	 (VP (VBD were)	3
+0	19	sent	send	VBN	root	0	O	 (VP (VBN sent)	3
+0	20	a	a	DT	det	23	O	 (NP (DT a)	3
+0	21	single	single	JJ	amod	23	O	 (JJ single)	3
+0	22	page	page	NN	compound	23	O	 (NN page)	3
+0	23	questionnaire	questionnaire	NN	dobj	19	O	 (NN questionnaire))	3
+0	24	with	with	IN	case	27	O	 (PP (IN with)	3
+0	25	a	a	DT	det	27	O	 (NP (NP (DT a)	3
+0	26	covering	cover	VBG	amod	27	O	 (VBG covering)	3
+0	27	letter	letter	NN	nmod	19	O	 (NN letter))	3
+0	28	and	and	CC	cc	27	O	 (CC and)	3
+0	29	prepaid	prepaid	JJ	amod	31	O	 (NP (JJ prepaid)	3
+0	30	response	response	NN	compound	31	O	 (NN response)	3
+0	31	envelope	envelope	NN	conj	27	O	 (NN envelope))))))	3
+0	32	.	.	.	punct	19	O	 (. .)))	3
+
+1	1	The	the	DT	det	2	O	 (ROOT (S (NP (DT The)	4
+1	2	questionnaire	questionnaire	NN	nsubj	3	O	 (NN questionnaire))	4
+1	3	consisted	consist	VBD	root	0	O	 (VP (VBD consisted)	4
+1	4	of	of	IN	case	6	O	 (PP (IN of)	4
+1	5	10	10	CD	nummod	6	NUMBER	 (NP (NP (CD 10)	4
+1	6	questions	question	NNS	nmod	3	O	 (NNS questions))	4
+1	7	aimed	aim	VBN	acl	6	O	 (VP (VBN aimed)	5
+1	8	at	at	IN	mark	9	O	 (PP (IN at)	5
+1	9	determining	determine	VBG	advcl	7	O	 (S (VP (VBG determining)	5
+1	10	current	current	JJ	amod	11	DATE	 (S (NP (NP (JJ current)	5
+1	11	practise	practise	NN	nsubj	23	O	 (NN practise))	5
+1	12	for	for	IN	case	15	O	 (PP (IN for)	5
+1	13	the	the	DT	det	15	O	 (NP (NP (DT the)	5
+1	14	laparoscopic	laparoscopic	JJ	amod	15	O	 (JJ laparoscopic)	5
+1	15	diagnosis	diagnosis	NN	nmod	11	O	 (NN diagnosis)	5
+1	16	and	and	CC	cc	15	O	 (CC and)	5
+1	17	treatment	treatment	NN	conj	15	O	 (NN treatment))	5
+1	18	of	of	IN	case	19	O	 (PP (IN of)	5
+1	19	women	woman	NNS	nmod	15	O	 (NP (NP (NNS women))	5
+1	20	with	with	IN	case	22	O	 (PP (IN with)	5
+1	21	pelvic	pelvic	JJ	amod	22	O	 (NP (JJ pelvic)	5
+1	22	pain	pain	NN	nmod	19	O	 (NN pain))))))))	5
+1	23	due	due	JJ	xcomp	9	O	 (ADJP (JJ due)	5
+1	24	to	to	TO	case	25	O	 (PP (TO to)	5
+1	25	endometriosis	endometriosis	NN	nmod	23	O	 (NP (NN endometriosis))))))))))))	5
+1	26	.	.	.	punct	3	O	 (. .)))	5
+
+2	1	Recipients	recipient	NNS	nsubjpass	3	O	 (ROOT (S (NP (NNS Recipients))	6
+2	2	were	be	VBD	auxpass	3	O	 (VP (VBD were)	6
+2	3	randomised	randomise	VBN	root	0	O	 (VP (VBN randomised)	6
+2	4	to	to	TO	mark	5	O	 (S (VP (TO to)	7
+2	5	receive	receive	VB	xcomp	3	O	 (VP (VB receive)	7
+2	6	a	a	DT	det	7	O	 (NP (NP (DT a)	7
+2	7	questionnaire	questionnaire	NN	dobj	5	O	 (NN questionnaire))	7
+2	8	containing	contain	VBG	acl	7	O	 (VP (VBG containing)	8
+2	9	a	a	DT	det	11	O	 (NP (NP (DT a)	8
+2	10	covering	cover	VBG	amod	11	O	 (VBG covering)	8
+2	11	letter	letter	NN	dobj	8	O	 (NN letter))	8
+2	12	offering	offer	VBG	acl	11	O	 (VP (VBG offering)	9
+2	13	the	the	DT	det	14	O	 (NP (NP (DT the)	9
+2	14	incentive	incentive	NN	dobj	12	O	 (NN incentive))	9
+2	15	of	of	IN	case	16	O	 (PP (IN of)	9
+2	16	entry	entry	NN	nmod	14	O	 (NP (NN entry))))	9
+2	17	to	to	TO	case	20	O	 (PP (TO to)	9
+2	18	a	a	DT	det	20	O	 (NP (DT a)	9
+2	19	prize	prize	NN	compound	20	O	 (NN prize)	9
+2	20	draw	draw	NN	nmod	12	O	 (NN draw)))	9
+2	21	to	to	TO	mark	22	O	 (S (VP (TO to)	10
+2	22	win	win	VB	advcl	12	O	 (VP (VB win)	10
+2	23	a	a	DT	det	26	O	 (NP (NP (DT a)	10
+2	24	personal	personal	JJ	amod	26	O	 (JJ personal)	10
+2	25	digital	digital	JJ	amod	26	O	 (JJ digital)	10
+2	26	assistant	assistant	NN	dobj	22	TITLE	 (NN assistant))	10
+2	27	-LRB-	-lrb-	-LRB-	punct	28	O	 (PRN (-LRB- -LRB-)	11
+2	28	PDA	pda	NN	appos	26	O	 (NP (NN PDA))	11
+2	29	-RRB-	-rrb-	-RRB-	punct	28	O	 (-RRB- -RRB-))	11
+2	30	or	or	CC	cc	26	O	 (CC or)	11
+2	31	no	no	DT	neg	32	O	 (NP (DT no)	11
+2	32	incentive	incentive	NN	conj	26	O	 (NN incentive)))))))))))))))	11
+2	33	.	.	.	punct	3	O	 (. .)))	11
+
+3	1	A	a	DT	det	5	O	 (ROOT (S (NP (DT A)	12
+3	2	prominent	prominent	JJ	amod	5	O	 (JJ prominent)	12
+3	3	gynaecological	gynaecological	JJ	amod	5	O	 (JJ gynaecological)	12
+3	4	device	device	NN	compound	5	O	 (NN device)	12
+3	5	manufacturer	manufacturer	NN	nsubj	6	TITLE	 (NN manufacturer))	12
+3	6	provided	provide	VBD	root	0	O	 (VP (VBD provided)	12
+3	7	the	the	DT	det	8	O	 (SBAR (S (NP (NP (DT the)	12
+3	8	PDA	PDA	NNP	nsubjpass	12	O	 (NNP PDA))	12
+3	9	and	and	CC	cc	8	O	 (CC and)	12
+3	10	this	this	DT	conj	8	O	 (NP (DT this)))	12
+3	11	was	be	VBD	auxpass	12	O	 (VP (VBD was)	12
+3	12	acknowledged	acknowledge	VBN	ccomp	6	O	 (VP (VBN acknowledged)	12
+3	13	in	in	IN	case	16	O	 (PP (IN in)	12
+3	14	the	the	DT	det	16	O	 (NP (NP (DT the)	12
+3	15	covering	cover	VBG	amod	16	O	 (VBG covering)	12
+3	16	letter	letter	NN	nmod	12	O	 (NN letter))	12
+3	17	of	of	IN	case	18	O	 (PP (IN of)	12
+3	18	those	those	DT	nmod	16	O	 (NP (NP (DT those))	12
+3	19	randomised	randomise	VBN	acl	18	O	 (VP (VBN randomised)	13
+3	20	to	to	TO	mark	21	O	 (S (VP (TO to)	14
+3	21	receive	receive	VB	xcomp	19	O	 (VP (VB receive)	14
+3	22	the	the	DT	det	23	O	 (NP (DT the)	14
+3	23	incentive	incentive	NN	dobj	21	O	 (NN incentive)))))))))))))))	14
+3	24	.	.	.	punct	6	O	 (. .)))	14
+
+4	1	The	the	DT	det	3	O	 (ROOT (S (S (NP (DT The)	15
+4	2	randomisation	randomisation	NN	compound	3	O	 (NN randomisation)	15
+4	3	sequence	sequence	NN	nsubj	5	O	 (NN sequence))	15
+4	4	was	be	VBD	cop	5	O	 (VP (VBD was)	15
+4	5	computer	computer	NN	root	0	O	 (NP (NP (NN computer))	15
+4	6	generated	generate	VBN	acl	5	O	 (VP (VBN generated)))))	15
+4	7	and	and	CC	cc	5	O	 (CC and)	15
+4	8	group	group	NN	compound	9	O	 (S (NP (NN group)	15
+4	9	allocation	allocation	NN	nsubjpass	11	O	 (NN allocation))	15
+4	10	was	be	VBD	auxpass	11	O	 (VP (VBD was)	15
+4	11	concealed	conceal	VBN	conj	5	O	 (VP (VBN concealed)	15
+4	12	from	from	IN	case	14	O	 (PP (IN from)	15
+4	13	the	the	DT	det	14	O	 (NP (NP (DT the)	15
+4	14	participants	participant	NNS	nmod	11	O	 (NNS participants)	15
+4	15	and	and	CC	cc	14	O	 (CC and)	15
+4	16	investigators	investigator	NNS	conj	14	O	 (NNS investigators))	15
+4	17	throughout	throughout	IN	case	19	O	 (PP (IN throughout)	16
+4	18	the	the	DT	det	19	O	 (NP (DT the)	16
+4	19	study	study	NN	nmod	14	O	 (NN study))))))))	16
+4	20	.	.	.	punct	5	O	 (. .)))	16
+
+5	1	One	one	CD	nummod	2	NUMBER	 (ROOT (S (NP (CD One)	17
+5	2	reminder	reminder	NN	nsubjpass	4	O	 (NN reminder))	17
+5	3	was	be	VBD	auxpass	4	O	 (VP (VBD was)	17
+5	4	sent	send	VBN	root	0	O	 (VP (VBN sent)	17
+5	5	to	to	TO	case	8	O	 (PP (TO to)	17
+5	6	non-responders	non-responders	JJ	amod	8	O	 (NP (JJ non-responders)	17
+5	7	three	three	CD	nummod	8	DURATION	 (CD three)	17
+5	8	months	month	NNS	nmod	4	DURATION	 (NNS months)))	17
+5	9	after	after	IN	case	11	O	 (PP (IN after)	17
+5	10	the	the	DT	det	11	O	 (NP (NP (DT the)	17
+5	11	original	original	JJ	nmod	4	O	 (JJ original))	17
+5	12	with	with	IN	case	15	O	 (PP (IN with)	17
+5	13	the	the	DT	det	15	O	 (NP (DT the)	17
+5	14	same	same	JJ	amod	15	O	 (JJ same)	17
+5	15	incentive	incentive	NN	nmod	11	O	 (NN incentive)))))	17
+5	16	according	accord	VBG	case	19	O	 (PP (VBG according)	18
+5	17	to	to	TO	mwe	16	O	 (PP (TO to)	18
+5	18	prior	prior	JJ	amod	19	O	 (NP (JJ prior)	18
+5	19	randomisation	randomisation	NN	nmod	4	O	 (NN randomisation))))))	18
+5	20	.	.	.	punct	4	O	 (. .)))	18
+
+6	1	Based	base	VBN	case	5	O	 (ROOT (S (PP (VBN Based)	19
+6	2	on	on	IN	case	5	O	 (PP (IN on)	19
+6	3	the	the	DT	det	5	O	 (NP (NP (DT the)	19
+6	4	response	response	NN	compound	5	O	 (NN response)	19
+6	5	rate	rate	NN	advcl	15	O	 (NN rate))	19
+6	6	from	from	IN	case	10	O	 (PP (IN from)	19
+6	7	a	a	DT	det	10	O	 (NP (NP (DT a)	19
+6	8	previous	previous	JJ	amod	10	O	 (JJ previous)	19
+6	9	gynaecological	gynaecological	JJ	amod	10	O	 (JJ gynaecological)	19
+6	10	questionnaire	questionnaire	NN	nmod	5	O	 (NN questionnaire))	19
+6	11	-LSB-	-lsb-	-LRB-	punct	12	O	 (PP (-LRB- -LSB-)	20
+6	12	5	5	CD	nmod	10	NUMBER	 (NP (CD 5))))))))	20
+6	13	-RSB-	-rsb-	-RRB-	punct	15	O	 (-RRB- -RSB-)	20
+6	14	we	we	PRP	nsubj	15	O	 (NP (PRP we))	20
+6	15	assumed	assume	VBD	root	0	O	 (VP (VBD assumed)	20
+6	16	that	that	IN	mark	24	O	 (SBAR (IN that)	21
+6	17	inclusion	inclusion	NN	nsubj	24	O	 (S (NP (NP (NN inclusion))	21
+6	18	of	of	IN	case	22	O	 (PP (IN of)	21
+6	19	a	a	DT	det	22	O	 (NP (DT a)	21
+6	20	prize	prize	NN	compound	22	O	 (NN prize)	21
+6	21	draw	draw	NN	compound	22	O	 (NN draw)	21
+6	22	incentive	incentive	NN	nmod	17	O	 (NN incentive))))	21
+6	23	would	would	MD	aux	24	O	 (VP (MD would)	21
+6	24	increase	increase	VB	ccomp	15	O	 (VP (VB increase)	21
+6	25	the	the	DT	det	26	O	 (NP (NP (DT the)	21
+6	26	proportion	proportion	NN	dobj	24	O	 (NN proportion))	21
+6	27	of	of	IN	case	28	O	 (PP (IN of)	21
+6	28	responders	responder	NNS	nmod	26	O	 (NP (NNS responders))))	21
+6	29	by	by	IN	case	31	O	 (PP (IN by)	21
+6	30	10	10	CD	nummod	31	PERCENT	 (NP (CD 10)	21
+6	31	%	%	NN	nmod	24	PERCENT	 (NN %)))	21
+6	32	from	from	IN	case	37	O	 (PP (IN from)	21
+6	33	60	60	CD	compound	37	PERCENT	 (NP (QP (CD 60)	21
+6	34	%	%	NN	dep	37	PERCENT	 (NN %)	21
+6	35	to	to	TO	dep	37	O	 (TO to)	21
+6	36	70	70	CD	compound	37	PERCENT	 (CD 70)	21
+6	37	%	%	NN	nmod	24	PERCENT	 (NN %)))))))))	21
+6	38	.	.	.	punct	15	O	 (. .)))	21
+
+7	1	This	this	DT	nsubj	2	O	 (ROOT (S (NP (DT This))	22
+7	2	meant	mean	VBD	root	0	O	 (VP (VBD meant)	22
+7	3	that	that	IN	mark	10	O	 (SBAR (IN that)	22
+7	4	the	the	DT	det	6	O	 (S (NP (NP (DT the)	22
+7	5	sample	sample	NN	compound	6	O	 (NN sample)	22
+7	6	size	size	NN	nsubj	10	O	 (NN size))	22
+7	7	-LRB-	-lrb-	-LRB-	punct	8	O	 (PRN (-LRB- -LRB-)	23
+7	8	1410	1410	CD	appos	6	DATE	 (NP (CD 1410))	23
+7	9	-RRB-	-rrb-	-RRB-	punct	8	O	 (-RRB- -RRB-)))	23
+7	10	had	have	VBD	ccomp	2	O	 (VP (VBD had)	24
+7	11	95	95	CD	compound	12	PERCENT	 (NP (NP (ADJP (CD 95)	24
+7	12	%	%	NN	amod	13	PERCENT	 (NN %))	24
+7	13	power	power	NN	dobj	10	O	 (NN power))	24
+7	14	-LRB-	-lrb-	-LRB-	punct	15	O	 (PRN (-LRB- -LRB-)	25
+7	15	alpha	alpha	NN	dep	13	O	 (NP (NP (NN alpha))	25
+7	16	=	=	JJ	amod	19	O	 (NP (NP (ADJP (JJ =)	25
+7	17	0.05	0.05	CD	nmod:tmod	16	NUMBER	 (NP-TMP (CD 0.05))	25
+7	18	,	,	,	punct	16	O	 (, ,))	25
+7	19	beta	beta	NN	dep	15	O	 (NN beta))	25
+7	20	=	=	JJ	amod	19	O	 (ADJP (JJ =)	25
+7	21	0.05	0.05	CD	nmod:tmod	20	NUMBER	 (NP-TMP (CD 0.05)))))	25
+7	22	-RRB-	-rrb-	-RRB-	punct	15	O	 (-RRB- -RRB-)))))))	25
+7	23	.	.	.	punct	2	O	 (. .)))	25
+
+8	1	Relative	relative	JJ	amod	3	O	 (ROOT (S (S (NP (JJ Relative)	26
+8	2	response	response	NN	compound	3	O	 (NN response)	26
+8	3	rates	rate	NNS	nsubjpass	5	O	 (NNS rates))	26
+8	4	were	be	VBD	auxpass	5	O	 (VP (VBD were)	26
+8	5	calculated	calculate	VBN	root	0	O	 (VP (VBN calculated))))	26
+8	6	and	and	CC	cc	5	O	 (CC and)	26
+8	7	statistical	statistical	JJ	amod	8	O	 (S (NP (JJ statistical)	26
+8	8	significance	significance	NN	nsubj	9	O	 (NN significance))	26
+8	9	tested	test	VBN	conj	5	O	 (VP (VBN tested)	26
+8	10	for	for	IN	case	12	O	 (PP (IN for)	26
+8	11	a	a	DT	det	12	O	 (NP (NP (DT a)	26
+8	12	difference	difference	NN	nmod	9	O	 (NN difference))	26
+8	13	between	between	IN	case	14	O	 (PP (IN between)	26
+8	14	proportions	proportion	NNS	nmod	12	O	 (NP (NP (NP (NNS proportions))	26
+8	15	-LRB-	-lrb-	-LRB-	punct	17	O	 (PRN (-LRB- -LRB-)	27
+8	16	independent	independent	JJ	amod	17	RELIGION	 (NP (JJ independent)	27
+8	17	observation	observation	NN	appos	14	O	 (NN observation))	27
+8	18	-RRB-	-rrb-	-RRB-	punct	17	O	 (-RRB- -RRB-)))	27
+8	19	responding	respond	VBG	acl	14	O	 (VP (VBG responding))))))))	28
+8	20	.	.	.	punct	5	O	 (. .)))	28
+

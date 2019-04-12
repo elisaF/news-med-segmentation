@@ -1,0 +1,205 @@
+<rst>
+<header>
+	<relations>
+			<rel name="Analogy" type="multinuc"/>
+			<rel name="Cause-Result" type="multinuc"/>
+			<rel name="Comment-Topic" type="multinuc"/>
+			<rel name="Comparison" type="multinuc"/>
+			<rel name="Conclusion" type="multinuc"/>
+			<rel name="Consequence" type="multinuc"/>
+			<rel name="Contrast" type="multinuc"/>
+			<rel name="Disjunction" type="multinuc"/>
+			<rel name="Evaluation" type="multinuc"/>
+			<rel name="Interpretation" type="multinuc"/>
+			<rel name="Inverted-Sequence" type="multinuc"/>
+			<rel name="List" type="multinuc"/>
+			<rel name="Otherwise" type="multinuc"/>
+			<rel name="Problem-Solution" type="multinuc"/>
+			<rel name="Proportion" type="multinuc"/>
+			<rel name="Question-Answer" type="multinuc"/>
+			<rel name="Reason" type="multinuc"/>
+			<rel name="Same-Unit" type="multinuc"/>
+			<rel name="Sequence" type="multinuc"/>
+			<rel name="Statement-Response" type="multinuc"/>
+			<rel name="Temporal-Same-Time" type="multinuc"/>
+			<rel name="TextualOrganization" type="multinuc"/>
+			<rel name="Topic-Comment" type="multinuc"/>
+			<rel name="Topic-Drift" type="multinuc"/>
+			<rel name="Topic-Shift" type="multinuc"/>
+			<rel name="analogy-e" type="rst"/>
+			<rel name="analogy" type="rst"/>
+			<rel name="antithesis-e" type="rst"/>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution-e" type="rst"/>
+			<rel name="attribution-n-e" type="rst"/>
+			<rel name="attribution-n" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background-e" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause-e" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance-e" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="comment-e" type="rst"/>
+			<rel name="comment" type="rst"/>
+			<rel name="comparison-e" type="rst"/>
+			<rel name="comparison" type="rst"/>
+			<rel name="concession-e" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="conclusion-e" type="rst"/>
+			<rel name="conclusion" type="rst"/>
+			<rel name="condition-e" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="consequence-n-e" type="rst"/>
+			<rel name="consequence-n" type="rst"/>
+			<rel name="consequence-s-e" type="rst"/>
+			<rel name="consequence-s" type="rst"/>
+			<rel name="contingency-e" type="rst"/>
+			<rel name="contingency" type="rst"/>
+			<rel name="definition-e" type="rst"/>
+			<rel name="definition" type="rst"/>
+			<rel name="elaboration-additional-e" type="rst"/>
+			<rel name="elaboration-additional" type="rst"/>
+			<rel name="elaboration-general-specific-e" type="rst"/>
+			<rel name="elaboration-general-specific" type="rst"/>
+			<rel name="elaboration-object-attribute-e" type="rst"/>
+			<rel name="elaboration-object-attribute" type="rst"/>
+			<rel name="elaboration-part-whole-e" type="rst"/>
+			<rel name="elaboration-part-whole" type="rst"/>
+			<rel name="elaboration-process-step-e" type="rst"/>
+			<rel name="elaboration-process-step" type="rst"/>
+			<rel name="elaboration-set-member-e" type="rst"/>
+			<rel name="elaboration-set-member" type="rst"/>
+			<rel name="enablement-e" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-n-e" type="rst"/>
+			<rel name="evaluation-n" type="rst"/>
+			<rel name="evaluation-s-e" type="rst"/>
+			<rel name="evaluation-s" type="rst"/>
+			<rel name="evidence-e" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="example-e" type="rst"/>
+			<rel name="example" type="rst"/>
+			<rel name="explanation-argumentative-e" type="rst"/>
+			<rel name="explanation-argumentative" type="rst"/>
+			<rel name="hypothetical-e" type="rst"/>
+			<rel name="hypothetical" type="rst"/>
+			<rel name="interpretation-n-e" type="rst"/>
+			<rel name="interpretation-n" type="rst"/>
+			<rel name="interpretation-s-e" type="rst"/>
+			<rel name="interpretation-s" type="rst"/>
+			<rel name="manner-e" type="rst"/>
+			<rel name="manner" type="rst"/>
+			<rel name="means-e" type="rst"/>
+			<rel name="means" type="rst"/>
+			<rel name="otherwise-e" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preference-e" type="rst"/>
+			<rel name="preference" type="rst"/>
+			<rel name="problem-solution-n-e" type="rst"/>
+			<rel name="problem-solution-n" type="rst"/>
+			<rel name="problem-solution-s-e" type="rst"/>
+			<rel name="problem-solution-s" type="rst"/>
+			<rel name="purpose-e" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question-answer-n-e" type="rst"/>
+			<rel name="question-answer-n" type="rst"/>
+			<rel name="question-answer-s-e" type="rst"/>
+			<rel name="question-answer-s" type="rst"/>
+			<rel name="reason-e" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement-e" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result-e" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="rhetorical-question-e" type="rst"/>
+			<rel name="rhetorical-question" type="rst"/>
+			<rel name="statement-response-n-e" type="rst"/>
+			<rel name="statement-response-n" type="rst"/>
+			<rel name="statement-response-s-e" type="rst"/>
+			<rel name="statement-response-s" type="rst"/>
+			<rel name="summary-n-e" type="rst"/>
+			<rel name="summary-n" type="rst"/>
+			<rel name="summary-s-e" type="rst"/>
+			<rel name="summary-s" type="rst"/>
+			<rel name="temporal-after-e" type="rst"/>
+			<rel name="temporal-after" type="rst"/>
+			<rel name="temporal-before-e" type="rst"/>
+			<rel name="temporal-before" type="rst"/>
+			<rel name="temporal-same-time-e" type="rst"/>
+			<rel name="temporal-same-time" type="rst"/>
+			<rel name="topic-drift-e" type="rst"/>
+			<rel name="topic-drift" type="rst"/>
+			<rel name="topic-shift-e" type="rst"/>
+			<rel name="topic-shift" type="rst"/>
+		</relations>
+</header>
+<body>
+		<segment id="1" parent="34" relname="TextualOrganization">Methods</segment>
+		<segment id="2" parent="56" relname="span">All current consultants</segment>
+		<segment id="3" >identified from the Royal College of Obstetricians and Gynaecologists</segment>
+		<segment id="4" parent="2" relname="restatement-e">(RCOG)</segment>
+		<segment id="5" parent="55" relname="Same-Unit">database</segment>
+		<segment id="6" >were sent a single page questionnaire with a covering letter and prepaid response envelope.</segment>
+		<segment id="7" parent="38" relname="span">The questionnaire consisted of 10 questions</segment>
+		<segment id="8" parent="57" relname="span">aimed at determining current practise for the laparoscopic diagnosis and treatment of women with pelvic pain due to endometriosis.</segment>
+		<segment id="9" parent="51" relname="Same-Unit">Recipients were randomised</segment>
+		<segment id="10" parent="51" relname="Same-Unit">to receive a questionnaire</segment>
+		<segment id="11" parent="39" relname="span">containing a covering letter</segment>
+		<segment id="12" parent="40" relname="span">offering the incentive of entry to a prize draw</segment>
+		<segment id="13" parent="58" relname="span">to win a personal digital assistant</segment>
+		<segment id="14" parent="13" relname="restatement-e">(PDA)</segment>
+		<segment id="15" parent="59" relname="Contrast">or no incentive.</segment>
+		<segment id="16" parent="60" relname="span">A prominent gynaecological device manufacturer provided the PDA</segment>
+		<segment id="17" >and this was acknowledged in the covering letter of those randomised</segment>
+		<segment id="18" parent="16" relname="elaboration-object-attribute-e">to receive the incentive.</segment>
+		<segment id="19" parent="60" relname="elaboration-additional">The randomisation sequence was computer generated</segment>
+		<segment id="20" >and group allocation was concealed from the participants and investigators throughout the study.</segment>
+		<segment id="21" parent="41" relname="span">One reminder was sent to non-responders three months after the original with the same incentive</segment>
+		<segment id="22" parent="21" relname="manner">according to prior randomisation.</segment>
+		<segment id="23" parent="66" relname="span">Based on the response rate from a previous gynaecological questionnaire</segment>
+		<segment id="24" parent="23" relname="attribution">[5]</segment>
+		<segment id="25" parent="43" relname="span">we assumed that inclusion of a prize draw incentive would increase the proportion of responders by 10 % from 60 % to 70 %.</segment>
+		<segment id="26" parent="64" relname="span">This meant that the sample size</segment>
+		<segment id="27" parent="26" relname="restatement-e">(1410)</segment>
+		<segment id="28" parent="65" relname="span">had 95 % power</segment>
+		<segment id="29" parent="28" relname="restatement-e">(alpha = 0.05 , beta = 0.05).</segment>
+		<segment id="30" parent="48" relname="span">Relative response rates were calculated</segment>
+		<segment id="31" >and statistical significance tested for a difference between proportions</segment>
+		<segment id="32" parent="30" relname="elaboration-object-attribute-e">(independent observation)</segment>
+		<segment id="33" parent="47" relname="Same-Unit">responding.</segment>
+		<group id="34" type="multinuc" />
+		<group id="35" type="span" parent="34" relname="TextualOrganization"/>
+		<group id="36" type="multinuc" parent="37" relname="span"/>
+		<group id="37" type="span" parent="63" relname="span"/>
+		<group id="38" type="span" parent="37" relname="elaboration-additional"/>
+		<group id="39" type="span" parent="52" relname="elaboration-additional"/>
+		<group id="40" type="span" parent="11" relname="elaboration-additional"/>
+		<group id="41" type="span" parent="42" relname="temporal-before"/>
+		<group id="42" type="span" parent="50" relname="span"/>
+		<group id="43" type="span" parent="46" relname="Cause-Result"/>
+		<group id="44" type="multinuc" parent="45" relname="span"/>
+		<group id="45" type="span" parent="46" relname="Cause-Result"/>
+		<group id="46" type="multinuc" parent="49" relname="Topic-Shift"/>
+		<group id="47" type="multinuc" parent="49" relname="Topic-Shift"/>
+		<group id="48" type="span" parent="47" relname="Same-Unit"/>
+		<group id="49" type="multinuc" parent="50" relname="elaboration-additional"/>
+		<group id="50" type="span" parent="35" relname="span"/>
+		<group id="51" type="multinuc" parent="52" relname="span"/>
+		<group id="52" type="span" parent="53" relname="span"/>
+		<group id="53" type="span" parent="62" relname="span"/>
+		<group id="54" type="span" parent="36" relname="Same-Unit"/>
+		<group id="55" type="multinuc" parent="54" relname="span"/>
+		<group id="56" type="span" parent="55" relname="Same-Unit"/>
+		<group id="57" type="span" parent="7" relname="elaboration-general-specific"/>
+		<group id="58" type="span" parent="59" relname="Contrast"/>
+		<group id="59" type="multinuc" parent="12" relname="purpose"/>
+		<group id="60" type="span" parent="61" relname="span"/>
+		<group id="61" type="span" parent="53" relname="elaboration-additional"/>
+		<group id="62" type="span" parent="63" relname="elaboration-additional"/>
+		<group id="63" type="span" parent="42" relname="span"/>
+		<group id="64" type="span" parent="44" relname="Same-Unit"/>
+		<group id="65" type="span" parent="44" relname="Same-Unit"/>
+		<group id="66" type="span" parent="25" relname="explanation-argumentative"/>
+  </body>
+</rst>

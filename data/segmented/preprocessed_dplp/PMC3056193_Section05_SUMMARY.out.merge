@@ -1,0 +1,37 @@
+0	1	SUMMARY	summary	NN	nsubj	6	O	 (ROOT (S (NP (NP (NN SUMMARY))	1
+0	2	This	this	DT	dep	1	O	 (NP (DT This)))	1
+0	3	is	be	VBZ	cop	6	O	 (VP (VBZ is)	1
+0	4	the	the	DT	det	6	O	 (NP (NP (DT the)	1
+0	5	first	first	JJ	amod	6	ORDINAL	 (JJ first)	1
+0	6	RCT	rct	NN	root	0	O	 (NN RCT))	1
+0	7	of	of	IN	case	8	O	 (PP (IN of)	1
+0	8	PB	pb	NN	nmod	6	O	 (NP (NP (NN PB))	1
+0	9	in	in	IN	case	11	O	 (PP (IN in)	1
+0	10	Indian	indian	JJ	amod	11	NATIONALITY	 (NP (NP (JJ Indian)	1
+0	11	patients	patient	NNS	nmod	8	O	 (NNS patients))	1
+0	12	with	with	IN	case	15	O	 (PP (IN with)	1
+0	13	major	major	JJ	amod	15	O	 (NP (JJ major)	1
+0	14	depressive	depressive	JJ	amod	15	O	 (JJ depressive)	1
+0	15	disorder	disorder	NN	nmod	11	O	 (NN disorder)))))))))	1
+0	16	.	.	.	punct	6	O	 (. .)))	1
+
+1	1	PB	pb	NN	nsubj	3	O	 (ROOT (S (NP (NN PB))	2
+1	2	is	be	VBZ	cop	3	O	 (VP (VP (VBZ is)	2
+1	3	effective	effective	JJ	root	0	O	 (ADJP (JJ effective)))	2
+1	4	and	and	CC	cc	3	O	 (CC and)	2
+1	5	well	well	RB	advmod	6	O	 (VP (ADVP (RB well))	2
+1	6	tolerated	tolerate	VBD	conj	3	O	 (VBD tolerated))	2
+1	7	,	,	,	punct	3	O	 (, ,)	2
+1	8	and	and	CC	cc	3	O	 (CC and)	2
+1	9	is	be	VBZ	cop	11	O	 (VP (VBZ is)	2
+1	10	as	as	RB	advmod	11	O	 (ADJP (RB as)	2
+1	11	safe	safe	JJ	conj	3	O	 (JJ safe)	2
+1	12	and	and	CC	cc	11	O	 (CC and)	2
+1	13	effective	effective	JJ	conj	11	O	 (JJ effective))	2
+1	14	as	as	IN	case	15	O	 (PP (IN as)	2
+1	15	sertraline	sertraline	NN	nmod	11	O	 (NP (NP (NN sertraline))	2
+1	16	in	in	IN	case	18	O	 (PP (IN in)	2
+1	17	this	this	DT	det	18	O	 (NP (DT this)	2
+1	18	regard	regard	NN	nmod	15	O	 (NN regard)))))))	2
+1	19	.	.	.	punct	3	O	 (. .)))	2
+
