@@ -30,7 +30,8 @@ We use three publicly available RST segmenters to segment the raw data.
 1. get code and requirements from here: https://github.com/PKU-TANGENT/NeuralEDUSeg
 1. segment: `python run.py --segment --input_files <this_repo>/data/gold/*.out --result_dir <this_repo>/data/segmented/predicted_neural`
 1. rename files: 
-```cd <this_repo>/data/segmented/predicted_neural  
+```
+cd <this_repo>/data/segmented/predicted_neural  
 for f in *.out; do 
  mv -- "$f" "${f}.edus" 
 done
@@ -57,7 +58,7 @@ done
 1. postprocess predicted EDU files: `python parse_predicted.py dplp ../data/segmented/predicted_dplp/ ../data/segmented/postprocessed_dplp/`
 
 ## Evaluation
-	`python evaluate_segmentation.py ../data/gold/postprocessed/stanford/ ../data/gold/postprocessed/spacy/ ../data/segmented/postprocessed_dplp/ ../data/segmented/postprocessed_feng/ ../data/segmented/predicted_neural/`
+`python evaluate_segmentation.py ../data/gold/postprocessed/stanford/ ../data/gold/postprocessed/spacy/ ../data/segmented/postprocessed_dplp/ ../data/segmented/postprocessed_feng/ ../data/segmented/predicted_neural/`
 
 ## Update segmented gold data
 If the segmented gold data is updated, follow these steps to reprocess:
