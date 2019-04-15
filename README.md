@@ -39,22 +39,22 @@ done
 
 #### 2. Two-pass Feng Parser
 1. download [code and requirements](https://github.com/elisaF/rst_discourse_parser) to <feng_parser_dir>
-1. update to newer version of Stanford Core NLP:
-1.1 download and unzip Stanford Core NLP to <stanford_corenlp_dir>: `curl -O https://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-17.zip`
-1.1 download and unzip Stanford parser to <stanford_parser_dir>: `curl -O https://nlp.stanford.edu/software/stanford-parser-full-2018-10-17.zip`
-1.1 modify paths in <feng_parser_dir>/src/paths.py to point to <stanford_corenlp_dir> and <stanford_parser_dir> 
-1.1 replace ParserDemo.java in <stanford_parser_dir> with our version [here](code/ParserDemo.java)
-1.1 compile new java file: `javac -cp ".:*" ParserDemo.java`
+1. update to newer version of Stanford Core NLP:  
+   1. download and unzip Stanford Core NLP to <stanford_corenlp_dir>: `curl -O https://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-17.zip`
+   1. download and unzip Stanford parser to <stanford_parser_dir>: `curl -O https://nlp.stanford.edu/software/stanford-parser-full-2018-10-17.zip`
+   1. modify paths in <feng_parser_dir>/src/paths.py to point to <stanford_corenlp_dir> and <stanford_parser_dir> 
+   1. replace ParserDemo.java in <stanford_parser_dir> with our version [here](code/ParserDemo.java)
+   1. compile new java file: `javac -cp ".:*" ParserDemo.java`
 1. run parser: `python parse.py -s -g -t <this_repo>/data/segmented/predicted_feng/ -D <this_repo>/data/file_list.txt`
 1. postprocess predicted EDU files: `python parse_predicted.py feng ../data/segmented/predicted_feng/ ../data/segmented/postprocessed_feng/`
 
 #### 3. DPLP Parser
 1. download [code and requirements](https://github.com/jiyfeng/DPLP)
-1. run DPLP parser:
-1.1 use our version of [corenlp.sh](data/corenlp_raw.sh) to parse the input:
+1. run DPLP parser:  
+   1. use our version of [corenlp.sh](data/corenlp_raw.sh) to parse the input:
 	 `./corenlp_raw.sh <stanford_corenlp_dir> ../data/raw/ ../data/segmented/preprocessed_dplp/`
-1.1 	`python convert.py <this_repo>/data/segmented/preprocessed_dplp/`
-1.1 `python segmenter.py <this_repo>/data/segmented/preprocessed_dplp/ <this_repo>/data/segmented/predicted_dplp/`
+   1. 	`python convert.py <this_repo>/data/segmented/preprocessed_dplp/`
+   1. `python segmenter.py <this_repo>/data/segmented/preprocessed_dplp/ <this_repo>/data/segmented/predicted_dplp/`
 1. postprocess predicted EDU files: `python parse_predicted.py dplp ../data/segmented/predicted_dplp/ ../data/segmented/postprocessed_dplp/`
 
 ## Evaluation
