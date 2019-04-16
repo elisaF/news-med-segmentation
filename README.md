@@ -4,7 +4,8 @@ This repository includes:
 * code for preprocessing, postprocessing, evaluation
 
 Please cite our [NAACL DISRPT Workshop paper](http://arxiv.org/abs/1904.06682) as:
-``
+
+```
 @inproceedings{Ferracane:2019,
   title={From News to Medical: Cross-domain Discourse Segmentation},
   author={Ferracane, Elisa and Page, Titan and Li, Junyi Jessy and Erk, Katrin},
@@ -13,7 +14,7 @@ Please cite our [NAACL DISRPT Workshop paper](http://arxiv.org/abs/1904.06682) a
   pages={in press},
   year={2019}
 }
-``
+```
 
 ## Corpus:
 Raw data is in [data/raw](data/raw)
