@@ -3,7 +3,7 @@ This repository includes:
 * a corpus of medical articles segmeted into EDUs, [following these guidelines](https://www.isi.edu/~marcu/discourse/tagging-ref-manual.pdf) (from RST-DT)
 * code for preprocessing, postprocessing, evaluation
 
-Please cite our NAACL DISRPT Workshop paper as:
+Please cite our [NAACL DISRPT Workshop paper](http://arxiv.org/abs/1904.06682) as:
 > @inproceedings{Ferracane:2019,
   title={From News to Medical: Cross-domain Discourse Segmentation},
   author={Ferracane, Elisa and Page, Titan and Li, Junyi Jessy and Erk, Katrin},
