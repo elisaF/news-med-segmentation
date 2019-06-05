@@ -3,17 +3,22 @@ This repository includes:
 * a corpus of medical articles segmeted into EDUs, [following these guidelines](https://www.isi.edu/~marcu/discourse/tagging-ref-manual.pdf) (from RST-DT)
 * code for preprocessing, postprocessing, evaluation
 
-Please cite our [NAACL DISRPT Workshop paper](http://arxiv.org/abs/1904.06682) as:
+Please cite our [NAACL DISRPT Workshop paper](https://www.aclweb.org/anthology/W19-2704) as:
 
 ```
-@inproceedings{Ferracane:2019,
-  title={From News to Medical: Cross-domain Discourse Segmentation},
-  author={Ferracane, Elisa and Page, Titan and Li, Junyi Jessy and Erk, Katrin},
-  booktitle={Proceedings of the 7th Workshop on Rhetorical Structure Theory and Related Formalisms},
-  publisher ="Association for Computational Linguistics",
-  pages={in press},
-  year={2019}
-}
+@inproceedings{ferracane-etal-2019-news,
+    title = "From News to Medical: Cross-domain Discourse Segmentation",
+    author = "Ferracane, Elisa  and
+      Page, Titan  and
+      Li, Junyi Jessy  and
+      Erk, Katrin",
+    booktitle = "Proceedings of the Workshop on Discourse Relation Parsing and Treebanking 2019",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, MN",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/W19-2704",
+    pages = "22--29"}
 ```
 
 ## Corpus:
